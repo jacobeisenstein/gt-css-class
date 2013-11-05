@@ -6,12 +6,12 @@ The syllabus is still TBA, but here are some papers that we are likely to read a
 
 *Foundations*
 
-+ [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al
++ [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf). Lazer et al, 2009.
 + [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431). boyd and Crawford, 2011.
 
 *Social networks*
 
-+ [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332)
++ [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332). Barabasi, 1999.
 + [The dynamics of viral marketing](http://arxiv.org/pdf/physics/0509039). Leskovec, Adamic, Huberman, 2007.
 + [Inferring friendship network structure using mobile phone data](http://ateson.com/ws/r/www.pnas.org/content/106/36/15274.full)
 + [Distinguishing contagion and homophily](http://www.pnas.org/content/106/51/21544.full) by Aral and Muchnik
@@ -31,6 +31,7 @@ The syllabus is still TBA, but here are some papers that we are likely to read a
 + [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html). Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg.
 + [A computational approach to politeness with application to social factors](http://www.mpi-sws.org/~cristian/Politeness.html)
 + [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein
-+ [Gender identity and lexical variation in social media](in review) by Bamman, EIsenstein and Schnoebelen
++ [Gender identity and lexical variation in social media](in review) by Bamman, Eisenstein and Schnoebelen
 
-We may also read from the excellent textbook [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley and Kleinberg
+We may also read from the excellent textbook [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley and Kleinberg, 
+especially Chapters 1-6, 13-14, and 16-21.
