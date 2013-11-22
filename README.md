@@ -38,6 +38,7 @@ The syllabus is still TBA, but here are some papers that we are likely to read a
 + [Bayesian Hierarchical Topic Model for Political Text](http://www.stanford.edu/~jgrimmer/ExpAgendaFinal.pdf) by Grimmer
 + [Classifying the Political Leaning of News Articles and Users from User Votes](http://misc.si.umich.edu/publications/62). Zhou, Resnick, Mei. 2011.
 + [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004.
++ [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn
 
 
 We may also read from the excellent textbook [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley and Kleinberg, 
