@@ -15,7 +15,7 @@ Networks
 **Week 2: Graphs**
 + January 13. Reading: E&K ch. 1 and 2.
 + January 15. Reading: [Inferring friendship network structure using mobile phone data](http://ateson.com/ws/r/www.pnas.org/content/106/36/15274.full) by Eagle, Pentland, and Lazer, 2009; 
-  [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332). Barabasi, 1999.
+  [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332) by Barabasi, 1999.
 
 **Week 3: Strong and weak ties**
 + January 20. Reading: E&K ch. 3.
@@ -24,7 +24,7 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 
 **Week 4: Networks in their surrounding contexts**
 + January 27: Reading: E&K ch 4.
-+ January 29. Reading: [Classifying political leanings](http://misc.si.umich.edu/publications/62). Zhou, Resnick, Mei. 2011. *and something else*
++ January 29. Reading: [Classifying political leanings](http://misc.si.umich.edu/publications/62) by Zhou, Resnick, and Mei, 2011. [Find Me If You Can: Improving Geographical Prediction with Social and Spatial Proximity](http://cameronmarlow.com/papers/find-me-if-you-can) by Backstrom, Sun, and Marlow, 2010.
 
 **Week 5: Structural balance**
 + February 4: Reading: E&K ch 5.
@@ -35,35 +35,37 @@ Content
 
 **Week 6: Text classification and regression**
 + February 11. Reading: [Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts](http://stanford.edu/~jgrimmer/tad2.pdf) by Grimmer and Stewart, 2013.
-  *add something simple on linear classification*
+  *and an introduction to linear classification*
 + February 13. Reading: [A computational approach to politeness](http://www.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf) by Cristian Danescu-Nicolescu-Mizil et al, 2013.
   [Towards a model of formal and informal address in English](http://www.aclweb.org/anthology/E/E12/E12-1064.pdf) by Faruqui and Pado, 2012.
 
 **Weeks 7 and 8: Topic models**
 + February 18. Reading: [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
-+ February 20. Reading: [The Issue Adjusted Ideal Point Model](http://arxiv.org/abs/1209.6004) by Gerrish and Blei, 2012. Or something not by Blei?
++ February 20. Reading: [The Issue Adjusted Ideal Point Model](http://arxiv.org/abs/1209.6004) by Gerrish and Blei, 2012. 
 + February 25. No class? Or a guest lecture.
 + February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](Hierarchical relational models for document networks) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) Or something not by Blei?
 
-**Week 9: Memes and text reuse**
-+ March 4. Reading: David Smith's ACA paper
-+ March 6. Reading: Jure Leskovec's memetracker paper? Chinese censorship?
+**Week 9: Memes, text reuse, and censorship**
++ March 4. Reading: [Meme-tracking and the dynamics of the news cycle](http://snap.stanford.edu/class/cs224w-readings/leskovec09meme.pdf) by Leskovec, Backstrom, and Kleinberg, 2009. 
+*and one more?*
++ March 6. Reading: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
+[Tracing the flow of policy ideas in legislatures](http://www.kenbenoit.net/pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf) by Wilkerson, Smith, and Stramp, 2013.
 
 Methods
 ----------
 
 **Week 10: Time series and elections**
-March 11. Reading: [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2009. *Plus another time series analysis paper*
-March 13. Reading: [More tweets, more votes](http://brenocon.com/tweet_share_elex_analysis_of.../SSRN-id2235423.pdf) by Joseph DiGrazia et al, 2013.
++ March 11. Reading: [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2009. *Plus another forecasting paper*
++ March 13. Reading: [More tweets, more votes](http://brenocon.com/tweet_share_elex_analysis_of.../SSRN-id2235423.pdf) by Joseph DiGrazia et al, 2013.
 	[How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
 
 **Week 11: Causality**
-March 25. Reading: [Linguistic Diversity and Traffic Accidents](http://www.plosone.org/article/authors/info%3Adoi%2F10.1371%2Fjournal.pone.0070902). Roberts and Winters, 2013. [Blog post](http://www.replicatedtypo.com/uncovering-spurious-correlations-between-language-and-culture/6396.html)
-March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; [Distinguishing contagion and homophily](http://www.pnas.org/content/106/51/21544.full) by Aral and Muchnik, 2012.
++ March 25. Reading: [Linguistic Diversity and Traffic Accidents](http://www.plosone.org/article/authors/info%3Adoi%2F10.1371%2Fjournal.pone.0070902). Roberts and Winters, 2013. [Blog post](http://www.replicatedtypo.com/uncovering-spurious-correlations-between-language-and-culture/6396.html)
++ March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; [Distinguishing contagion and homophily](http://www.pnas.org/content/106/51/21544.full) by Aral and Muchnik, 2012.
 
 **Week 12: Experiments and non-linguistic signals**
-April 1. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al., 2013. 
-April 3. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
++ April 1. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al., 2013. 
++ April 3. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
 by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 [Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf)
 
@@ -79,9 +81,29 @@ Applications
 + April 17. Reading: De Choudhury
 
 **Week 15: Social Media**
-+ April 22. Reading: [What is Twitter?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
++ April 22. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011.
+	  [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
 + April 24. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
 
-**Additional readings**
+Additional readings
+==========
+There are many, many more interesting papers than what we can cover in this class. Here are just a few.
+
+**Overviews**
 + [Computational Text Analysis for Social Science: Model Assumptions and Complexity](http://people.cs.umass.edu/~wallach/workshops/nips2011css/papers/OConnor.pdf) by O'Connor, Bamman, and Smith, 2012. Nice overview and bibliography.
+
+**Politics**
++ [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn. Great paper, just couldn't fit it in.
++ [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004. Very seminal work on social media analysis, but it's already covered in the Social Computing class.
 + [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://www.stanford.edu/~jgrimmer/ExpAgendaFinal.pdf) by Grimmer, 2009. Interesting application of TMs to politics, but the Von Mises-Fisher stuff is too complicated to discuss in this class.
+
+**Social media**
++ [What is Twitter, a social network or a news media?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. An early look at the structural properties of Twitter.
+
+**Social networks**
++ [Inferring social ties from geographic coincidences](http://www.pnas.org/content/107/52/22436.short) by Crandall et al, 2010. Social ties between people can be inferred from co-occurrence in time and space.
++ [Structural diversity in social contagion](http://www.pnas.org/content/109/16/5962.short) by Ugander et al, 2012.
+
+**Interpersonal dynamics**
++ [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012.
++ [Estimating the prevalence of deception in online review communities](http://www.cs.cornell.edu/home/cardie/papers/www-2012.pdf) by Ott, Cardie, and Hancock, 2012.
