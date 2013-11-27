@@ -64,10 +64,10 @@ Methods
 + March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; [Distinguishing contagion and homophily](http://www.pnas.org/content/106/51/21544.full) by Aral and Muchnik, 2012.
 
 **Week 12: Experiments and non-linguistic signals**
-+ April 1. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al., 2013. 
++ April 1. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al, 2013. 
 + April 3. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
 by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
-[Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf)
+[Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
 
 Applications
 ----------
@@ -78,7 +78,7 @@ Applications
 
 **Week 14: Public health**
 + April 15. Reading: Dredze and Culotta
-+ April 17. Reading: De Choudhury
++ April 17. Reading: De Choudhury and Pennebaker
 
 **Week 15: Social Media**
 + April 22. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011.
