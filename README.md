@@ -1,9 +1,8 @@
-Georgia Tech CS 8803-CSS Computational Social Science
+Georgia Tech CS 8803-CSS: Computational Social Science
 ============
 
-This is a Georgia Tech graduate seminar on Computational Social
-Science. The principle aim for this course is to develop a broad
-understanding of this emerging cross-disciplinary field.
+The principle aim for this graduate seminar is to develop a broad
+understanding of the emerging cross-disciplinary field of Computational Social Science.
 This includes:
 + Methodological foundations in network and content analysis:
   understanding the mathematical basis for these methods, as well as
@@ -145,7 +144,7 @@ There are many, many more interesting papers than what we can cover in this clas
 
 **Politics**
 + [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn. Great paper, just couldn't fit it in.
-+ [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004. Very seminal work on social media analysis, but it's already covered in the Social Computing class.
++ [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004. Seminal work on social media analysis, but it's already covered in the Social Computing class.
 + [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://www.stanford.edu/~jgrimmer/ExpAgendaFinal.pdf) by Grimmer, 2009. Interesting application of TMs to politics, but the Von Mises-Fisher stuff is too complicated to discuss in this class.
 + [Get out the vote: Determining support or opposition from Congressional floor-debate transcripts](http://www.cs.cornell.edu/home/llee/papers/tpl-convote.home.html) by Thomas, Pang, and Lee, 2006.
 + [A Penny for your Tweets: Campaign Contributions and Capitol Hill Microblogs](http://www.cs.cmu.edu/~nasmith/papers/yano+yogatama+smith.icwsm13.pdf) by Yano, Yogatama, and Smith, 2013.
@@ -179,7 +178,7 @@ There are many, many more interesting papers than what we can cover in this clas
 Related classes
 ----
 
-+ [CSS at Princeton 2012](http://www.princeton.edu/~mjs3/soc596_fa12.shtml) by Matthew Sagalnick. Very nice reading list, especially for applications of large-scale network analysis.
++ [CSS at Princeton 2012](http://www.princeton.edu/~mjs3/soc596_fa12.shtml) by Matthew Sagalnick. Nice reading list, especially for applications of large-scale network analysis.
 + [CSS at Columbia 2013](http://compsocialscience.org/) by Goel, Hofman, and Vassilvitskii. Emphasizes algorithms for big data analysis, including MapReduce and streaming.
 + [CSS at George Mason 2009](http://ggs.gmu.edu/AcademicPrograms/Syllabi/2009Fall/GEOG590-001.pdf) by Geller and Gulden. Emphasizes agent-based simulations.
 + [NLP and Social Interaction 2013](http://www.cs.cornell.edu/Courses/cs6742/2013fa/) by Lillian Lee. Great set of NLP papers that touch on social phenomena. Also has links to lots of useful datasets.
