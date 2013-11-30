@@ -121,10 +121,10 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 
 + April 8. **Economics**. Reading: [Twitter mood predicts the stock market](http://arxiv.org/pdf/1010.3003.pdf?iframe=true&width=90%25&height=90%25) by Bollen, Mao, and Zeng, 2011... or [does it?](http://sellthenews.tumblr.com/post/21067996377/noitdoesnot). The blogpost mentions the Bonferroni correction for multiple comparison, which is best motivated by [this XKCD cartoon](http://xkcd.com/882/).
 + April 10. **Psychology**. Reading: [Predicting Postpartum Changes in Emotion and Behavior via Social Media](http://research.microsoft.com/en-us/um/people/munmund/pubs/chi_13.pdf) by De Choudhury, Counts, and Horvitz (2013). [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
-+ April 15. **Nonlinguistic signals**. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
++ April 15. **Interpersonal dynamics**. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
 by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 [Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
-+ April 17. **Social media**. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011. [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
++ April 17. **Social media analysis**. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011. [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
 + April 22. **Predicting things about authors**. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
 + April 24. [Final project](Project3.md) presentions.
 
