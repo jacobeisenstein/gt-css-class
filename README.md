@@ -52,7 +52,7 @@ weekly blogposts about the reading, to facilitate discussion.
 Course schedule
 ----
 
-This is a **provisional** schedule. It does not yet include assignments, and the readings are subject to change.
+This is a **provisional** schedule; the readings and dates are subject to change.
 
 E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley and Kleinberg. Free PDFs of each chapter are available by following the link.
 
@@ -185,3 +185,10 @@ Related classes
 + [NLP-flavored CSS at Maryland 2013](http://www.umiacs.umd.edu/~resnik/ling848_fa2013/) by Phillip Resnick. Emphasizes links from language to political science and psychology.
 + [Networks at Michigan 2008](http://open.umich.edu/education/si/si508/fall2008/) by Lada Adamic. 
 + [Network analysis at Colorado 2013](http://tuvalu.santafe.edu/~aaronc/courses/5352/csci5352_2013_syllabus.pdf) by Aaron Clauset.
+
+Conferences, symposia, and meetings
+----------
+
++ [Stanford Computational Social Science Conference](https://css-center.stanford.edu/css-conference-archive)
++ [Atlanta Workshop on Computational Social Science](http://css-workshop.gatech.edu)
++ [Chicago Computational Social Science Workshop](https://cas.uchicago.edu/workshops/workshop-info/computational-social-science/)
