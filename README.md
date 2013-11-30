@@ -14,7 +14,7 @@ E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell
 + January 7. Welcome. Course aims, expectations, and ground rules. Reading: [Michael Scherer on the Obama campaign](http://swampland.time.com/2012/11/07/inside-the-secret-world-of-quants-and-data-crunchers-who-helped-obama-win/)
 + January 9. Foundations of CSS. Reading: [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al, 2009; [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) by boyd and Crawford, 2011.
 
-### Networks ###
+### Part 1: Networks ###
 
 **Week 2: Graphs**
 + January 13. Reading: E&K ch. 1 and 2.
@@ -34,7 +34,7 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 + February 4: Reading: E&K ch 5.
 + February 6: Reading: [Signed networks in social media](http://cs.stanford.edu/~jure/pubs/triads-chi10.pdf) and [Predicting positive and negative links in online social networks](http://www.cs.cornell.edu/home/kleinber/www10-signed.pdf) by Leskovec, Huttenlocher, and Kleinberg, 2010.
 
-## Content ##
+### Part 2: Content ###
 
 **Week 6: Text classification and regression**
 + February 11. Reading: [Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts](http://stanford.edu/~jgrimmer/tad2.pdf) by Grimmer and Stewart, 2013.
@@ -54,7 +54,7 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 + March 6. Reading: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
 [Tracing the flow of policy ideas in legislatures](http://www.kenbenoit.net/pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf) by Wilkerson, Smith, and Stramp, 2013.
 
-## Methods ##
+### Part 3: Methods ###
 
 **Week 10: Time series and elections**
 + March 11. Reading: [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2009. *Plus another forecasting paper*
@@ -71,7 +71,7 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 [Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
 
-## Applications ##
+### Part 4: Applications ###
 
 **Week 13: Economics**
 + April 8. Reading: [Twitter mood predicts the stock market](http://arxiv.org/pdf/1010.3003.pdf?iframe=true&width=90%25&height=90%25) by Bollen, Mao, and Zeng, 2011... or [does it?](http://sellthenews.tumblr.com/post/21067996377/noitdoesnot). The blogpost mentions the Bonferroni correction for multiple comparison, which is best motivated by [this XKCD cartoon](http://xkcd.com/882/).
@@ -87,8 +87,7 @@ by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 	  [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
 + April 24. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
 
-Additional readings
------
+### Additional readings ###
 There are many, many more interesting papers than what we can cover in this class. Here are just a few.
 
 **Overviews**
