@@ -14,7 +14,7 @@ E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell
 + January 7. Welcome. Course aims, expectations, and ground rules. Reading: [Michael Scherer on the Obama campaign](http://swampland.time.com/2012/11/07/inside-the-secret-world-of-quants-and-data-crunchers-who-helped-obama-win/)
 + January 9. Foundations of CSS. Reading: [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al, 2009; [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) by boyd and Crawford, 2011.
 
-## Networks ##
+### Networks ###
 
 **Week 2: Graphs**
 + January 13. Reading: E&K ch. 1 and 2.
