@@ -3,10 +3,58 @@ Georgia Tech CS 8803-CSS Computational Social Science
 
 This is a Georgia Tech graduate seminar on computational social science. 
 
+Course aims
+----
+
+The principle aim for this course is to develop a broad understanding of the emerging field of Computational Social Science.
+This includes:
++ Methodological foundations in network and content analysis:
+  understanding the mathematical basis for these methods, as well as
+  their practical application to real data.
++ Best practices and limitations of observational studies.
++ Applications to political science, sociolinguistics, sociology,
+psychology, economics, and public health.
+
+Assignments and Grading
+----
+
+This is a seminar-style class, and will emphasize classroom
+discussion. For this reason, it is essential that students do
+the readings in advance of the lecture.
+
++ Classroom participation: 10%
++ Weekly blogposts summarizing the reading, and raising relevant issues for classroom discussion: 30%
++ Two research blogposts, in which students apply techniques from the course to shared datasets: 30%
++ One indepedendent project, in which students apply techniques from the course to a dataset of their choice: 30%
+
+The weekly blogposts should demonstrate your understanding of the assigned reading, and raise questions for classroom discussion.
+
+The shared-data research blogposts should use the techniques in the
+class to explore a shared dataset, and attempt to answer one or two
+arguable questions about the data. (Excellent) examples of the style
+of work that I'm looking for can be found
+[here](http://tedunderwood.com/2012/02/26/the-differentiation-of-literary-and-nonliterary-diction-1700-1900/),
+[here](http://languagelog.ldc.upenn.edu/nll/?p=4681), and
+[here](http://idibon.com/the-weirdest-languages/).  This project can be
+done in teams of at most three, but expectations will reflect the
+number of group members.
+
+The independent project should be substantive, original work in the
+area of computational social science. This can include: a new study
+using techniques described in the course; a refinement of the
+techniques described in the course; a novel survey paper that provides
+a unified treatment of an area of computational social science.  This
+should represent roughly the same amount of work as the two
+shared-data blogposts, and can be done in teams of up to three
+students.
+
+Students may audit the course, but all students who attend must perform the
+weekly blogposts about the reading, to facilitate discussion.
+
 Course schedule
 ----
 
-This is a **provisional** schedule for CS8803-CSS, Computational Social Science. It does not yet include assignments, and the readings are still subject to change.
+This is a **provisional** schedule. It does not yet include assignments, and the readings are subject to change.
 
 E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley and Kleinberg. Free PDFs of each chapter are available by following the link.
 
@@ -42,7 +90,8 @@ maybe also [Structure and tie strength in mobile communication networks](http://
   [Towards a model of formal and informal address in English](http://www.aclweb.org/anthology/E/E12/E12-1064.pdf) by Faruqui and Pado, 2012.
   
 **Weeks 7 and 8: Topic models**
-+ February 18. Reading: [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
++ February 18. Reading: [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012. 
+  Optional helpful [tutorial](http://www.scottbot.net/HIAL/?p=19113) on topic models from a Digital Humanities perspective.
 + February 20. Reading: [The Issue Adjusted Ideal Point Model](http://arxiv.org/abs/1209.6004) by Gerrish and Blei, 2012. 
 + February 25. No class? Or a guest lecture.
 + February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](Hierarchical relational models for document networks) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) 
@@ -97,9 +146,12 @@ There are many, many more interesting papers than what we can cover in this clas
 + [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004. Very seminal work on social media analysis, but it's already covered in the Social Computing class.
 + [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://www.stanford.edu/~jgrimmer/ExpAgendaFinal.pdf) by Grimmer, 2009. Interesting application of TMs to politics, but the Von Mises-Fisher stuff is too complicated to discuss in this class.
 + [Get out the vote: Determining support or opposition from Congressional floor-debate transcripts](http://www.cs.cornell.edu/home/llee/papers/tpl-convote.home.html) by Thomas, Pang, and Lee, 2006.
++ [A Penny for your Tweets: Campaign Contributions and Capitol Hill Microblogs](http://www.cs.cmu.edu/~nasmith/papers/yano+yogatama+smith.icwsm13.pdf) by Yano, Yogatama, and Smith, 2013.
 
 **Social media**
 + [What is Twitter, a social network or a news media?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. An early look at the structural properties of Twitter.
++ [Functions of the non-verbal in CMC: Emoticons and illocutionary force](http://ella.slis.indiana.edu/~herring/emoticons.pdf) by Dresner and Herring, 2010
++ [Gender and genre variation in weblogs](http://estudijas.lu.lv/pluginfile.php/87507/mod_resource/content/0/Unit9/gender_weblogs.pdf) by Paolillo and Herring, 2006.
 
 **Social networks**
 + [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332) by Barabasi, 1999.
