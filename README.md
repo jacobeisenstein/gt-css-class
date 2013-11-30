@@ -18,9 +18,8 @@ E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell
 
 **Week 2: Graphs**
 + January 13. Reading: E&K ch. 1 and 2.
-+ January 15. Reading: [Inferring friendship network structure using mobile phone data](http://ateson.com/ws/r/www.pnas.org/content/106/36/15274.full) by Eagle, Pentland, and Lazer, 2009; 
-  [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332) by Barabasi, 1999.
-
++ January 15. Reading: [Inferring friendship network structure using mobile phone data](http://ateson.com/ws/r/www.pnas.org/content/106/36/15274.full) by Eagle, Pentland, and Lazer, 2009; [Reply](http://www.pnas.org/content/107/9/E29.full) by adams; [Rejoinder](http://www.pnas.org/content/107/9/E31.full) by Eagle et al.
+ 
 **Week 3: Strong and weak ties**
 + January 20. Reading: E&K ch. 3.
 + January 22. Reading: [The Role of Social Networks in Information Diffusion](http://arxiv.org/pdf/1201.4145) by Bakshy et al, 2012;
@@ -103,20 +102,25 @@ There are many, many more interesting papers than what we can cover in this clas
 + [What is Twitter, a social network or a news media?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. An early look at the structural properties of Twitter.
 
 **Social networks**
++ [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332) by Barabasi, 1999.
 + [Inferring social ties from geographic coincidences](http://www.pnas.org/content/107/52/22436.short) by Crandall et al, 2010. Social ties between people can be inferred from co-occurrence in time and space.
 + [Structural diversity in social contagion](http://www.pnas.org/content/109/16/5962.short) by Ugander et al, 2012.
 
 **Interpersonal dynamics**
 + [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012.
 + [Estimating the prevalence of deception in online review communities](http://www.cs.cornell.edu/home/cardie/papers/www-2012.pdf) by Ott, Cardie, and Hancock, 2012.
++ [Entrainment in spontaneous speech: The case of filled pauses in supreme court hearings](http://www1.cs.columbia.edu/~sbenus/Research/Benus_Levitan_Hirschberg_CogInfoCom_2012_final_check.pdf) by Benus, Levitan, and Hirschberg, 2012.
++ [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert, 2012.
++ [Extracting social power relationships from natural language](http://aclweb.org/anthology-new/P/P11/P11-1078.pdf) by Bramsen et al, 2013.
++ [Public dialogue: Analysis of tolerance in online discussions](http://www.aclweb.org/anthology/P/P13/P13-1165.pdf) by Mukherjee et al, 2013.
 
 Related classes
 ----
 
-+ [CSS at Princeton 2012](http://www.princeton.edu/~mjs3/soc596_fa12.shtml) by Sagalnick
-+ [CSS at Columbia 2013](http://compsocialscience.org/) by Goel, Hofman, and Vassilvitskii
-+ [CSS at George Mason 2009](http://ggs.gmu.edu/AcademicPrograms/Syllabi/2009Fall/GEOG590-001.pdf) by Geller and Gulden
-+ [NLP and Social Interaction 2013](http://www.cs.cornell.edu/Courses/cs6742/2013fa/) by Lillian Lee
-+ [NLP-flavored CSS at Maryland 2013](http://www.umiacs.umd.edu/~resnik/ling848_fa2013/) by Phillip Resnick
-+ [Networks at Michigan 2008](http://open.umich.edu/education/si/si508/fall2008/) by Adamic
-+ [Network analysis at Colorado 2013](tuvalu.santafe.edu/~aaronc/courses/5352/csci5352_2013_syllabus.pdf) by Clauset
++ [CSS at Princeton 2012](http://www.princeton.edu/~mjs3/soc596_fa12.shtml) by Matthew Sagalnick. Very nice reading list, especially for applications of large-scale network analysis.
++ [CSS at Columbia 2013](http://compsocialscience.org/) by Goel, Hofman, and Vassilvitskii. Emphasizes algorithms for big data analysis, including MapReduce and streaming.
++ [CSS at George Mason 2009](http://ggs.gmu.edu/AcademicPrograms/Syllabi/2009Fall/GEOG590-001.pdf) by Geller and Gulden. Emphasizes agent-based simulations.
++ [NLP and Social Interaction 2013](http://www.cs.cornell.edu/Courses/cs6742/2013fa/) by Lillian Lee. Great set of NLP papers that touch on social phenomena. Also has links to lots of useful datasets.
++ [NLP-flavored CSS at Maryland 2013](http://www.umiacs.umd.edu/~resnik/ling848_fa2013/) by Phillip Resnick. Emphasizes links from language to political science and psychology.
++ [Networks at Michigan 2008](http://open.umich.edu/education/si/si508/fall2008/) by Lada Adamic. 
++ [Network analysis at Colorado 2013](http://tuvalu.santafe.edu/~aaronc/courses/5352/csci5352_2013_syllabus.pdf) by Aaron Clauset.
