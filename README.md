@@ -4,7 +4,7 @@ CS 8803-CSS Computational Social Science
 This is a Georgia Tech graduate seminar on computational social science. 
 
 Course schedule
-==========
+----
 
 This is a **provisional** schedule for CS8803-CSS, Computational Social Science. It does not yet include assignments, and the readings are still subject to change.
 
@@ -92,7 +92,7 @@ Applications
 + April 24. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
 
 Additional readings
-==========
+-----
 There are many, many more interesting papers than what we can cover in this class. Here are just a few.
 
 **Overviews**
@@ -116,7 +116,7 @@ There are many, many more interesting papers than what we can cover in this clas
 + [Estimating the prevalence of deception in online review communities](http://www.cs.cornell.edu/home/cardie/papers/www-2012.pdf) by Ott, Cardie, and Hancock, 2012.
 
 Related classes
-=====
+----
 
 + [CSS at Princeton 2012](http://www.princeton.edu/~mjs3/soc596_fa12.shtml) by Sagalnick
 + [CSS at Columbia 2013](http://compsocialscience.org/) by Goel, Hofman, and Vassilvitskii
