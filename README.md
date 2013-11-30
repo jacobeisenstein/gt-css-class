@@ -1,4 +1,4 @@
-CS 8803-CSS Computational Social Science
+Georgia Tech CS 8803-CSS Computational Social Science
 ============
 
 This is a Georgia Tech graduate seminar on computational social science. 
@@ -46,7 +46,7 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 + February 18. Reading: [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
 + February 20. Reading: [The Issue Adjusted Ideal Point Model](http://arxiv.org/abs/1209.6004) by Gerrish and Blei, 2012. 
 + February 25. No class? Or a guest lecture.
-+ February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](Hierarchical relational models for document networks) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) Or something not by Blei?
++ February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](Hierarchical relational models for document networks) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) 
 
 **Week 9: Memes, text reuse, and censorship**
 + March 4. Reading: [Meme-tracking and the dynamics of the news cycle](http://snap.stanford.edu/class/cs224w-readings/leskovec09meme.pdf) by Leskovec, Backstrom, and Kleinberg, 2009. 
