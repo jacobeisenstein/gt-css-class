@@ -1,12 +1,9 @@
 Georgia Tech CS 8803-CSS Computational Social Science
 ============
 
-This is a Georgia Tech graduate seminar on computational social science. 
-
-Course aims
-----
-
-The principle aim for this course is to develop a broad understanding of the emerging field of Computational Social Science.
+This is a Georgia Tech graduate seminar on Computational Social
+Science. The principle aim for this course is to develop a broad
+understanding of this emerging cross-disciplinary field.
 This includes:
 + Methodological foundations in network and content analysis:
   understanding the mathematical basis for these methods, as well as
@@ -35,9 +32,11 @@ arguable questions about the data. (Excellent) examples of the style
 of work that I'm looking for can be found
 [here](http://tedunderwood.com/2012/02/26/the-differentiation-of-literary-and-nonliterary-diction-1700-1900/),
 [here](http://languagelog.ldc.upenn.edu/nll/?p=4681), and
-[here](http://idibon.com/the-weirdest-languages/).  This project can be
-done in teams of at most three, but expectations will reflect the
-number of group members.
+[here](http://idibon.com/the-weirdest-languages/).  This project can
+be done in teams of at most three, but expectations will reflect the
+number of group members. The shared-data projects will require both
+original work as well as a small number of compulsory analyses that
+cover key concepts from the course.
 
 The independent project should be substantive, original work in the
 area of computational social science. This can include: a new study
@@ -78,8 +77,8 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 + January 29. Reading: [Classifying political leanings](http://misc.si.umich.edu/publications/62) by Zhou, Resnick, and Mei, 2011. [Find Me If You Can: Improving Geographical Prediction with Social and Spatial Proximity](http://cameronmarlow.com/papers/find-me-if-you-can) by Backstrom, Sun, and Marlow, 2010.
 
 **Week 5: Structural balance**
-+ February 4: Reading: E&K ch 5.
-+ February 6: Reading: [Signed networks in social media](http://cs.stanford.edu/~jure/pubs/triads-chi10.pdf) and [Predicting positive and negative links in online social networks](http://www.cs.cornell.edu/home/kleinber/www10-signed.pdf) by Leskovec, Huttenlocher, and Kleinberg, 2010.
++ February 4: Reading: E&K ch 5. 
++ February 6: Reading: [Signed networks in social media](http://cs.stanford.edu/~jure/pubs/triads-chi10.pdf) and [Predicting positive and negative links in online social networks](http://www.cs.cornell.edu/home/kleinber/www10-signed.pdf) by Leskovec, Huttenlocher, and Kleinberg, 2010. [Project 1](Project1.md) out.
 
 ### Part 2: Content ###
 
@@ -93,14 +92,16 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 + February 18. Reading: [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012. 
   Optional helpful [tutorial](http://www.scottbot.net/HIAL/?p=19113) on topic models from a Digital Humanities perspective.
 + February 20. Reading: [The Issue Adjusted Ideal Point Model](http://arxiv.org/abs/1209.6004) by Gerrish and Blei, 2012. 
++ February 21. [Project 1](Project1.md) due at 5pm.
 + February 25. No class? Or a guest lecture.
 + February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](Hierarchical relational models for document networks) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) 
++ February 28. **Drop deadline**. [Project 2](Project2.md) out.
 
 **Week 9: Memes, text reuse, and censorship**
 + March 4. Reading: [Meme-tracking and the dynamics of the news cycle](http://snap.stanford.edu/class/cs224w-readings/leskovec09meme.pdf) by Leskovec, Backstrom, and Kleinberg, 2009. 
 *and one more?*
 + March 6. Reading: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
-[Tracing the flow of policy ideas in legislatures](http://www.kenbenoit.net/pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf) by Wilkerson, Smith, and Stramp, 2013.
+[Tracing the flow of policy ideas in legislatures](http://www.kenbenoit.net/pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf) by Wilkerson, Smith, and Stramp, 2013. 
 
 ### Part 3: Methods ###
 
@@ -108,16 +109,16 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 + March 11. Reading: [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2009. *Plus another forecasting paper*
 + March 13. Reading: [More tweets, more votes](http://brenocon.com/tweet_share_elex_analysis_of.../SSRN-id2235423.pdf) by Joseph DiGrazia et al, 2013.
 	[How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
++ March 14. [Project 2](Project2.md) due at 5pm.
 
-**Week 11: Causality**
+**Week 11: Observational and experimental studies**
 + March 25. Reading: [Linguistic Diversity and Traffic Accidents](http://www.plosone.org/article/authors/info%3Adoi%2F10.1371%2Fjournal.pone.0070902). Roberts and Winters, 2013. [Blog post](http://www.replicatedtypo.com/uncovering-spurious-correlations-between-language-and-culture/6396.html)
 + March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; [Distinguishing contagion and homophily](http://www.pnas.org/content/106/51/21544.full) by Aral and Muchnik, 2012.
-
+ 
 **Week 12: Experiments and non-linguistic signals**
-+ April 1. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al, 2013. 
-+ April 3. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
-by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
-[Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
++ April 1. [Final project](Project3.md) proposal presentations and discussion.
++ April 3. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al, 2013. 
++ April 4. [Final project](Project3.md) proposals due at 5pm.
 
 ### Part 4: Applications ###
 
@@ -126,14 +127,16 @@ by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 + April 10. Reading: [Linguistic markers of price and status in Restaurant Menus]() by Jurafsky et al (2013, in press)
 
 **Week 14: Health, public and mental**
-+ April 15. Reading: Dredze and Culotta
++ April 15. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
+by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
+[Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
 + April 17. Reading: [Predicting Postpartum Changes in Emotion and Behavior via Social Media](http://research.microsoft.com/en-us/um/people/munmund/pubs/chi_13.pdf) by De Choudhury, Counts, and Horvitz (2013). [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
-
 
 **Week 15: Social Media**
 + April 22. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011.
-	  [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
-+ April 24. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
+  [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
+  [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
++ April 24. [Final project](Project3.md) presentions.
 
 ### Additional readings ###
 There are many, many more interesting papers than what we can cover in this class. Here are just a few.
