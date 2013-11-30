@@ -38,7 +38,7 @@ Content
   *and an introduction to linear classification*
 + February 13. Reading: [A computational approach to politeness](http://www.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf) by Cristian Danescu-Nicolescu-Mizil et al, 2013.
   [Towards a model of formal and informal address in English](http://www.aclweb.org/anthology/E/E12/E12-1064.pdf) by Faruqui and Pado, 2012.
-
+  
 **Weeks 7 and 8: Topic models**
 + February 18. Reading: [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
 + February 20. Reading: [The Issue Adjusted Ideal Point Model](http://arxiv.org/abs/1209.6004) by Gerrish and Blei, 2012. 
@@ -76,9 +76,10 @@ Applications
 + April 8. Reading: [Twitter mood predicts the stock market](http://arxiv.org/pdf/1010.3003.pdf?iframe=true&width=90%25&height=90%25) by Bollen, Mao, and Zeng, 2011... or [does it?](http://sellthenews.tumblr.com/post/21067996377/noitdoesnot). The blogpost mentions the Bonferroni correction for multiple comparison, which is best motivated by [this XKCD cartoon](http://xkcd.com/882/).
 + April 10. Reading: [Linguistic markers of price and status in Restaurant Menus]() by Jurafsky et al (2013, in press)
 
-**Week 14: Public health**
+**Week 14: Health, public and mental**
 + April 15. Reading: Dredze and Culotta
-+ April 17. Reading: De Choudhury and Pennebaker
++ April 17. Reading: [Predicting Postpartum Changes in Emotion and Behavior via Social Media](http://research.microsoft.com/en-us/um/people/munmund/pubs/chi_13.pdf) by De Choudhury, Counts, and Horvitz (2013). [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
+
 
 **Week 15: Social Media**
 + April 22. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011.
@@ -96,6 +97,7 @@ There are many, many more interesting papers than what we can cover in this clas
 + [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn. Great paper, just couldn't fit it in.
 + [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004. Very seminal work on social media analysis, but it's already covered in the Social Computing class.
 + [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://www.stanford.edu/~jgrimmer/ExpAgendaFinal.pdf) by Grimmer, 2009. Interesting application of TMs to politics, but the Von Mises-Fisher stuff is too complicated to discuss in this class.
++ [Get out the vote: Determining support or opposition from Congressional floor-debate transcripts](http://www.cs.cornell.edu/home/llee/papers/tpl-convote.home.html) by Thomas, Pang, and Lee, 2006.
 
 **Social media**
 + [What is Twitter, a social network or a news media?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. An early look at the structural properties of Twitter.
