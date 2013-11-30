@@ -111,31 +111,22 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 	[How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
 + March 14. [Project 2](Project2.md) due at 5pm.
 
-**Week 11: Observational and experimental studies**
+**Weeks 11 and 12: Observational and experimental studies**
 + March 25. Reading: [Linguistic Diversity and Traffic Accidents](http://www.plosone.org/article/authors/info%3Adoi%2F10.1371%2Fjournal.pone.0070902). Roberts and Winters, 2013. [Blog post](http://www.replicatedtypo.com/uncovering-spurious-correlations-between-language-and-culture/6396.html)
 + March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; [Distinguishing contagion and homophily](http://www.pnas.org/content/106/51/21544.full) by Aral and Muchnik, 2012.
- 
-**Week 12: Experiments and non-linguistic signals**
 + April 1. [Final project](Project3.md) proposal presentations and discussion.
 + April 3. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al, 2013. 
 + April 4. [Final project](Project3.md) proposals due at 5pm.
 
 ### Part 4: Applications ###
 
-**Week 13: Economics**
-+ April 8. Reading: [Twitter mood predicts the stock market](http://arxiv.org/pdf/1010.3003.pdf?iframe=true&width=90%25&height=90%25) by Bollen, Mao, and Zeng, 2011... or [does it?](http://sellthenews.tumblr.com/post/21067996377/noitdoesnot). The blogpost mentions the Bonferroni correction for multiple comparison, which is best motivated by [this XKCD cartoon](http://xkcd.com/882/).
-+ April 10. Reading: [Linguistic markers of price and status in Restaurant Menus]() by Jurafsky et al (2013, in press)
-
-**Week 14: Health, public and mental**
-+ April 15. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
++ April 8. **Economics**. Reading: [Twitter mood predicts the stock market](http://arxiv.org/pdf/1010.3003.pdf?iframe=true&width=90%25&height=90%25) by Bollen, Mao, and Zeng, 2011... or [does it?](http://sellthenews.tumblr.com/post/21067996377/noitdoesnot). The blogpost mentions the Bonferroni correction for multiple comparison, which is best motivated by [this XKCD cartoon](http://xkcd.com/882/).
++ April 10. **Psychology**. Reading: [Predicting Postpartum Changes in Emotion and Behavior via Social Media](http://research.microsoft.com/en-us/um/people/munmund/pubs/chi_13.pdf) by De Choudhury, Counts, and Horvitz (2013). [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
++ April 15. **Nonlinguistic signals**. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
 by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 [Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
-+ April 17. Reading: [Predicting Postpartum Changes in Emotion and Behavior via Social Media](http://research.microsoft.com/en-us/um/people/munmund/pubs/chi_13.pdf) by De Choudhury, Counts, and Horvitz (2013). [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
-
-**Week 15: Social Media**
-+ April 22. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011.
-  [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
-  [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
++ April 17. **Social media**. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011. [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
++ April 22. **Predicting things about authors**. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
 + April 24. [Final project](Project3.md) presentions.
 
 ### Additional readings ###
@@ -144,23 +135,6 @@ There are many, many more interesting papers than what we can cover in this clas
 **Overviews**
 + [Computational Text Analysis for Social Science: Model Assumptions and Complexity](http://people.cs.umass.edu/~wallach/workshops/nips2011css/papers/OConnor.pdf) by O'Connor, Bamman, and Smith, 2012. Nice overview and bibliography.
 
-**Politics**
-+ [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn. Great paper, just couldn't fit it in.
-+ [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004. Very seminal work on social media analysis, but it's already covered in the Social Computing class.
-+ [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://www.stanford.edu/~jgrimmer/ExpAgendaFinal.pdf) by Grimmer, 2009. Interesting application of TMs to politics, but the Von Mises-Fisher stuff is too complicated to discuss in this class.
-+ [Get out the vote: Determining support or opposition from Congressional floor-debate transcripts](http://www.cs.cornell.edu/home/llee/papers/tpl-convote.home.html) by Thomas, Pang, and Lee, 2006.
-+ [A Penny for your Tweets: Campaign Contributions and Capitol Hill Microblogs](http://www.cs.cmu.edu/~nasmith/papers/yano+yogatama+smith.icwsm13.pdf) by Yano, Yogatama, and Smith, 2013.
-
-**Social media**
-+ [What is Twitter, a social network or a news media?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. An early look at the structural properties of Twitter.
-+ [Functions of the non-verbal in CMC: Emoticons and illocutionary force](http://ella.slis.indiana.edu/~herring/emoticons.pdf) by Dresner and Herring, 2010
-+ [Gender and genre variation in weblogs](http://estudijas.lu.lv/pluginfile.php/87507/mod_resource/content/0/Unit9/gender_weblogs.pdf) by Paolillo and Herring, 2006.
-
-**Social networks**
-+ [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332) by Barabasi, 1999.
-+ [Inferring social ties from geographic coincidences](http://www.pnas.org/content/107/52/22436.short) by Crandall et al, 2010. Social ties between people can be inferred from co-occurrence in time and space.
-+ [Structural diversity in social contagion](http://www.pnas.org/content/109/16/5962.short) by Ugander et al, 2012.
-
 **Interpersonal dynamics**
 + [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012.
 + [Estimating the prevalence of deception in online review communities](http://www.cs.cornell.edu/home/cardie/papers/www-2012.pdf) by Ott, Cardie, and Hancock, 2012.
@@ -168,6 +142,39 @@ There are many, many more interesting papers than what we can cover in this clas
 + [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert, 2012.
 + [Extracting social power relationships from natural language](http://aclweb.org/anthology-new/P/P11/P11-1078.pdf) by Bramsen et al, 2013.
 + [Public dialogue: Analysis of tolerance in online discussions](http://www.aclweb.org/anthology/P/P13/P13-1165.pdf) by Mukherjee et al, 2013.
+
+**Politics**
++ [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn. Great paper, just couldn't fit it in.
++ [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004. Very seminal work on social media analysis, but it's already covered in the Social Computing class.
++ [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://www.stanford.edu/~jgrimmer/ExpAgendaFinal.pdf) by Grimmer, 2009. Interesting application of TMs to politics, but the Von Mises-Fisher stuff is too complicated to discuss in this class.
++ [Get out the vote: Determining support or opposition from Congressional floor-debate transcripts](http://www.cs.cornell.edu/home/llee/papers/tpl-convote.home.html) by Thomas, Pang, and Lee, 2006.
++ [A Penny for your Tweets: Campaign Contributions and Capitol Hill Microblogs](http://www.cs.cmu.edu/~nasmith/papers/yano+yogatama+smith.icwsm13.pdf) by Yano, Yogatama, and Smith, 2013.
++ [Lexical and hierarchical topic regression](http://www.umiacs.umd.edu/~jbg/docs/2013_shlda.pdf) by Nguyen et al, 2013.
++ [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013.
+
+**Social media**
++ [What is Twitter, a social network or a news media?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. An early look at the structural properties of Twitter.
++ [Functions of the non-verbal in CMC: Emoticons and illocutionary force](http://ella.slis.indiana.edu/~herring/emoticons.pdf) by Dresner and Herring, 2010
++ [Gender and genre variation in weblogs](http://estudijas.lu.lv/pluginfile.php/87507/mod_resource/content/0/Unit9/gender_weblogs.pdf) by Paolillo and Herring, 2006.
++ [Phonological factors in social media writing](http://www.cc.gatech.edu/~jeisenst/papers/lasm13-phono.pdf) by Eisenstein, 2013.
++ [A Latent Variable Model of Geographical Lexical Variation](http://www.cc.gatech.edu/~jeisenst/papers/emnlp2010.pdf)
+  by Eisenstein et al 2010.  Good for understanding the data and the
+  problem, but the model in
+  [Sparse Additive Generative Models of Text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf)
+  (Eisenstein et al, 2011) is simpler and better.
++ [Simple supervised document geolocation with geodesic grids](http://hnk.ffzg.hr/bibl/acl2011/Long/pdf/ACL-HLT2011096.pdf) by Wing and Baldridge, 2011.
+
+**Social networks**
++ [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332) by Barabasi, 1999.
++ [Inferring social ties from geographic coincidences](http://www.pnas.org/content/107/52/22436.short) by Crandall et al, 2010. Social ties between people can be inferred from co-occurrence in time and space.
++ [Structural diversity in social contagion](http://www.pnas.org/content/109/16/5962.short) by Ugander et al, 2012.
++ [Topic-partitioned multinetwork embeddings](http://people.cs.umass.edu/~wallach/publications/krafft12topic-partitioned.pdf) by Krafft et al, 2012.
+
+**Public health**
++ [You Are What You Tweet: Analyzing Twitter for Public Health](http://www.cs.jhu.edu/~mdredze/publications/twitter_health_icwsm_11.pdf)‎by Paul and Dredze, 2011.
++ [Drug extraction from the web: Summarizing drug experiences with multi-dimensional topic models](http://www.aclweb.org/anthology/N/N13/N13-1017.pdf) by Paul and Dredze, 2013.
++ [Towards detecting influenza epidemics by analyzing Twitter messages](http://snap.stanford.edu/soma2010/papers/soma2010_16.pdf) by Culotta, 2010.
++ [A Generative Joint, Additive, Sequential Model of Topics and Speech Acts in Patient-Doctor Communication](http://www.newdesign.aclweb.org/anthology/D/D13/D13-1182.pdf) by Wallace et al, 2013.
 
 Related classes
 ----
