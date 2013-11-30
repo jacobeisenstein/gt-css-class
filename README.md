@@ -163,7 +163,8 @@ There are many, many more interesting papers than what we can cover in this clas
   (Eisenstein et al, 2011) is simpler and better.
 + [Simple supervised document geolocation with geodesic grids](http://hnk.ffzg.hr/bibl/acl2011/Long/pdf/ACL-HLT2011096.pdf) by Wing and Baldridge, 2011.
 
-**Social networks**
+**Networks**
++ Chapters 13 and 14 of E&K explain PageRank and hubs and authorities in networks. The focus is on the web, but 14.5 describes very cool applications to legal citation analysis.
 + [Emergence of scaling in random networks](http://arxiv.org/pdf/cond-mat/9910332) by Barabasi, 1999.
 + [Inferring social ties from geographic coincidences](http://www.pnas.org/content/107/52/22436.short) by Crandall et al, 2010. Social ties between people can be inferred from co-occurrence in time and space.
 + [Structural diversity in social contagion](http://www.pnas.org/content/109/16/5962.short) by Ugander et al, 2012.
