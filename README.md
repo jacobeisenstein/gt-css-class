@@ -105,7 +105,7 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 ### Part 3: Methods ###
 
 **Week 10: Time series and elections**
-+ March 11. Reading: [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2009. *Plus another forecasting paper*
++ March 11. Reading: [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2010. *Plus another forecasting paper*
 + March 13. Reading: [More tweets, more votes](http://brenocon.com/tweet_share_elex_analysis_of.../SSRN-id2235423.pdf) by Joseph DiGrazia et al, 2013.
 	[How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
 + March 14. [Project 2](Project2.md) due at 5pm.
@@ -134,16 +134,18 @@ There are many, many more interesting papers than what we can cover in this clas
 **Overviews**
 + [Computational Text Analysis for Social Science: Model Assumptions and Complexity](http://people.cs.umass.edu/~wallach/workshops/nips2011css/papers/OConnor.pdf) by O'Connor, Bamman, and Smith, 2012. Nice overview and bibliography.
 
-**Interpersonal dynamics**
+**Discourse, dialogue, and pragmatics**
 + [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012.
 + [Estimating the prevalence of deception in online review communities](http://www.cs.cornell.edu/home/cardie/papers/www-2012.pdf) by Ott, Cardie, and Hancock, 2012.
 + [Entrainment in spontaneous speech: The case of filled pauses in supreme court hearings](http://www1.cs.columbia.edu/~sbenus/Research/Benus_Levitan_Hirschberg_CogInfoCom_2012_final_check.pdf) by Benus, Levitan, and Hirschberg, 2012.
 + [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert, 2012.
 + [Extracting social power relationships from natural language](http://aclweb.org/anthology-new/P/P11/P11-1078.pdf) by Bramsen et al, 2013.
 + [Public dialogue: Analysis of tolerance in online discussions](http://www.aclweb.org/anthology/P/P13/P13-1165.pdf) by Mukherjee et al, 2013.
++ [The pragmatics of expressive content: evidence from large corpora](http://www.stanford.edu/~cgpotts/papers/constant-davis-potts-schwarz-expressives.pdf) by Constant et al, 2009.
 
 **Politics**
-+ [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn. Great paper, just couldn't fit it in.
++ [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn. Great paper on associating keywords with metadata. For a linguistic / pragmatic take
+  on the same issue, see [The pragmatics of expressive content](http://www.stanford.edu/~cgpotts/papers/constant-davis-potts-schwarz-expressives.pdf) by Constant et al, 2009.
 + [The political blogosphere and the 2004 US election: divided they blog](http://nielsen-online.com/downloads/us/buzz/wp_PoliticalBlogosphere_Glance_2004.pdf). Adamic and Glance, 2004. Seminal work on social media analysis, but it's already covered in the Social Computing class.
 + [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://www.stanford.edu/~jgrimmer/ExpAgendaFinal.pdf) by Grimmer, 2009. Interesting application of TMs to politics, but the Von Mises-Fisher stuff is too complicated to discuss in this class.
 + [Get out the vote: Determining support or opposition from Congressional floor-debate transcripts](http://www.cs.cornell.edu/home/llee/papers/tpl-convote.home.html) by Thomas, Pang, and Lee, 2006.
