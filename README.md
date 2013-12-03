@@ -188,6 +188,7 @@ Related classes
 + [NLP-flavored CSS at Maryland 2013](http://www.umiacs.umd.edu/~resnik/ling848_fa2013/) by Phillip Resnick. Emphasizes links from language to political science and psychology.
 + [Networks at Michigan 2008](http://open.umich.edu/education/si/si508/fall2008/) by Lada Adamic. 
 + [Network analysis at Colorado 2013](http://tuvalu.santafe.edu/~aaronc/courses/5352/csci5352_2013_syllabus.pdf) by Aaron Clauset.
++ [Digital literacy and cultural studies at CMU 2013](http://www.cs.cmu.edu/~dbamman/courses/76829/schedule.html) by Bamman and Warren.
 
 Conferences, symposia, and meetings
 ----------
