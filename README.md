@@ -152,6 +152,7 @@ There are many, many more interesting papers than what we can cover in this clas
 + [A Penny for your Tweets: Campaign Contributions and Capitol Hill Microblogs](http://www.cs.cmu.edu/~nasmith/papers/yano+yogatama+smith.icwsm13.pdf) by Yano, Yogatama, and Smith, 2013.
 + [Lexical and hierarchical topic regression](http://www.umiacs.umd.edu/~jbg/docs/2013_shlda.pdf) by Nguyen et al, 2013.
 + [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013.
++ [Can machines learn to predict a violent conflict?](http://www.theglobalobservatory.org/analysis/633-can-machines-learn-to-predict-a-violent-conflict.html?utm_content=buffer72e84&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer) by Chris Perry, 2013.
 
 **Social media**
 + [What is Twitter, a social network or a news media?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. An early look at the structural properties of Twitter.
