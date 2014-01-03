@@ -82,11 +82,11 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 ### Part 2: Content ###
 
 **Week 6: Text classification and regression**
-+ February 11. Reading: [Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts](http://stanford.edu/~jgrimmer/tad2.pdf) by Grimmer and Stewart, 2013.
-  *and an introduction to linear classification*
++ February 11. Reading: [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Domingos, 2012. [Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts](http://stanford.edu/~jgrimmer/tad2.pdf) by Grimmer and Stewart, 2013.
 + February 13. Reading: [A computational approach to politeness](http://www.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf) by Cristian Danescu-Nicolescu-Mizil et al, 2013.
   [Towards a model of formal and informal address in English](http://www.aclweb.org/anthology/E/E12/E12-1064.pdf) by Faruqui and Pado, 2012.
-  
++ February 14. Deadline to register for [PoliInformatics Unshared Task](https://sites.google.com/site/unsharedtask2014/) and get free data, with great final project potential.
+
 **Weeks 7 and 8: Topic models**
 + February 18. Reading: [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012. 
   Optional helpful [tutorial](http://www.scottbot.net/HIAL/?p=19113) on topic models from a Digital Humanities perspective.
