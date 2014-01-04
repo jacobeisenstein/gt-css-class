@@ -52,8 +52,6 @@ weekly blogposts about the reading, to facilitate discussion.
 Course schedule
 ----
 
-This is a **provisional** schedule; the readings and dates are subject to change.
-
 E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley and Kleinberg. Free PDFs of each chapter are available by following the link.
 
 **Week 1: Foundations**
@@ -82,30 +80,29 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 ### Part 2: Content ###
 
 **Week 6: Text classification and regression**
-+ February 11. Reading: [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Domingos, 2012. [Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts](http://stanford.edu/~jgrimmer/tad2.pdf) by Grimmer and Stewart, 2013.
-+ February 13. Reading: [A computational approach to politeness](http://www.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf) by Cristian Danescu-Nicolescu-Mizil et al, 2013.
-  [Towards a model of formal and informal address in English](http://www.aclweb.org/anthology/E/E12/E12-1064.pdf) by Faruqui and Pado, 2012.
++ February 11. Reading: [Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts](http://stanford.edu/~jgrimmer/tad2.pdf) by Grimmer and Stewart, 2013.
++ February 13. Reading: [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Domingos, 2012. [A computational approach to politeness](http://www.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf) by Cristian Danescu-Nicolescu-Mizil et al, 2013.
 + February 14. Deadline to register for [PoliInformatics Unshared Task](https://sites.google.com/site/unsharedtask2014/) and get free data, with great final project potential.
 
 **Weeks 7 and 8: Topic models**
 + February 18. Reading: [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012. 
   Optional helpful [tutorial](http://www.scottbot.net/HIAL/?p=19113) on topic models from a Digital Humanities perspective.
-+ February 20. Reading: [The Issue Adjusted Ideal Point Model](http://arxiv.org/abs/1209.6004) by Gerrish and Blei, 2012. 
++ February 20. Reading: [The Issue Adjusted Ideal Point Model](http://arxiv.org/abs/1209.6004) by Gerrish and Blei, 2012. You can also watch the [video](http://techtalks.tv/talks/predicting-legislative-roll-calls-from-text/54393/).
 + February 21. [Project 1](Project1.md) due at 5pm.
-+ February 25. No class? Or a guest lecture.
++ February 25. No class. Watch [Probabilistic topic models](http://techtalks.tv/talks/probabilistic-topic-models/57678/) by Blei and [The impression of influence](http://www.youtube.com/watch?v=2Oym-Z1M3W4) by Grimmer. Reading: [You Are What You Tweet: Analyzing Twitter for Public Health](http://www.cs.jhu.edu/~mdredze/publications/twitter_health_icwsm_11.pdf)‎by Paul and Dredze, 2011.
+You can optionally watch a whole course on Bayesian Generative Models (which generalize topic models) [here](http://techtalks.tv/talks/bayesian-generative-modelling-part-1/54782/).
 + February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](Hierarchical relational models for document networks) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) 
 + February 28. **Drop deadline**. [Project 2](Project2.md) out.
 
 **Week 9: Memes, text reuse, and censorship**
 + March 4. Reading: [Meme-tracking and the dynamics of the news cycle](http://snap.stanford.edu/class/cs224w-readings/leskovec09meme.pdf) by Leskovec, Backstrom, and Kleinberg, 2009. 
-*and one more?*
 + March 6. Reading: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
 [Tracing the flow of policy ideas in legislatures](http://www.kenbenoit.net/pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf) by Wilkerson, Smith, and Stramp, 2013. 
 
 ### Part 3: Methods ###
 
 **Week 10: Time series and elections**
-+ March 11. Reading: [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2010. *Plus another forecasting paper*
++ March 11. Reading: [Predicting the present](http://www.google.com/googleblogs/pdfs/google_predicting_the_present.pdf) by Choi and Varian ([video](http://www.youtube.com/watch?v=0OfKJWydzr0)). [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2010.
 + March 13. Reading: [More tweets, more votes](http://brenocon.com/tweet_share_elex_analysis_of.../SSRN-id2235423.pdf) by Joseph DiGrazia et al, 2013.
 	[How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
 + March 14. [Project 2](Project2.md) due at 5pm.
@@ -125,7 +122,7 @@ maybe also [Structure and tie strength in mobile communication networks](http://
 by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 [Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
 + April 17. **Social media analysis**. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011. [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
-+ April 22. **Predicting things about authors**. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2013 (in review).
++ April 22. **Predicting things about authors**. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2014 (in review).
 + April 24. [Final project](Project3.md) presentions.
 
 ### Additional readings ###
@@ -142,6 +139,7 @@ There are many, many more interesting papers than what we can cover in this clas
 + [Extracting social power relationships from natural language](http://aclweb.org/anthology-new/P/P11/P11-1078.pdf) by Bramsen et al, 2013.
 + [Public dialogue: Analysis of tolerance in online discussions](http://www.aclweb.org/anthology/P/P13/P13-1165.pdf) by Mukherjee et al, 2013.
 + [The pragmatics of expressive content: evidence from large corpora](http://www.stanford.edu/~cgpotts/papers/constant-davis-potts-schwarz-expressives.pdf) by Constant et al, 2009.
++ [Towards a model of formal and informal address in English](http://www.aclweb.org/anthology/E/E12/E12-1064.pdf) by Faruqui and Pado, 2012.
 
 **Politics**
 + [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn. Great paper on associating keywords with metadata. For a linguistic / pragmatic take
@@ -172,10 +170,10 @@ There are many, many more interesting papers than what we can cover in this clas
 + [Inferring social ties from geographic coincidences](http://www.pnas.org/content/107/52/22436.short) by Crandall et al, 2010. Social ties between people can be inferred from co-occurrence in time and space.
 + [Structural diversity in social contagion](http://www.pnas.org/content/109/16/5962.short) by Ugander et al, 2012.
 + [Topic-partitioned multinetwork embeddings](http://people.cs.umass.edu/~wallach/publications/krafft12topic-partitioned.pdf) by Krafft et al, 2012.
++ [Topicflow model: Unsupervised learning of topic-specific influences of hyperlinked documents](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_NallapatiMM11.pdf) by Nallapati et al, 2011.
 
 **Public health**
-+ [You Are What You Tweet: Analyzing Twitter for Public Health](http://www.cs.jhu.edu/~mdredze/publications/twitter_health_icwsm_11.pdf)‎by Paul and Dredze, 2011.
-+ [Drug extraction from the web: Summarizing drug experiences with multi-dimensional topic models](http://www.aclweb.org/anthology/N/N13/N13-1017.pdf) by Paul and Dredze, 2013.
++ [Drug extraction from the web: Summarizing drug experiences with multi-dimensional topic models](http://www.aclweb.org/anthology/N/N13/N13-1017.pdf) by Paul and Dredze, 2013. [video](http://techtalks.tv/talks/summarizing-drug-experiences-with-multi-dimensional-topic-models/58445/)
 + [Towards detecting influenza epidemics by analyzing Twitter messages](http://snap.stanford.edu/soma2010/papers/soma2010_16.pdf) by Culotta, 2010.
 + [A Generative Joint, Additive, Sequential Model of Topics and Speech Acts in Patient-Doctor Communication](http://www.newdesign.aclweb.org/anthology/D/D13/D13-1182.pdf) by Wallace et al, 2013.
 
@@ -194,6 +192,6 @@ Related classes
 Conferences, symposia, and meetings
 ----------
 
-+ [Stanford Computational Social Science Conference](https://css-center.stanford.edu/css-conference-archive)
 + [Atlanta Workshop on Computational Social Science](http://css-workshop.gatech.edu)
 + [Chicago Computational Social Science Workshop](https://cas.uchicago.edu/workshops/workshop-info/computational-social-science/)
++ [Stanford Computational Social Science Conference](https://css-center.stanford.edu/css-conference-archive)
