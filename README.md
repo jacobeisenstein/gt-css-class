@@ -19,7 +19,7 @@ discussion. For this reason, it is essential that students do
 the readings in advance of the lecture.
 
 + Classroom participation: 10%
-+ Weekly blogposts summarizing the reading, and raising relevant issues for classroom discussion: 30%
++ Weekly [blogposts](http://www.tumblr.com/blog/gt-cs8803-css) about the reading, where you should raise relevant issues for classroom discussion: 30%
 + Two research blogposts, in which students apply techniques from the course to shared datasets: 30%
 + One indepedendent project, in which students apply techniques from the course to a dataset of their choice: 30%
 
@@ -56,7 +56,7 @@ E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell
 
 **Week 1: Foundations**
 + January 7. Welcome. Course aims, expectations, and ground rules. Reading: [Michael Scherer on the Obama campaign](http://swampland.time.com/2012/11/07/inside-the-secret-world-of-quants-and-data-crunchers-who-helped-obama-win/)
-+ January 9. Foundations of CSS. Reading: [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al, 2009; [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) by boyd and Crawford, 2011.
++ January 9. Foundations of CSS. Reading: [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al, 2009; [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) by boyd and Crawford, 2011. Reminder: post your response to the [class Tumblr](http://www.tumblr.com/blog/gt-cs8803-css) by 1pm on Thursday.
 
 ### Part 1: Networks ###
 
