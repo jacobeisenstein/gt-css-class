@@ -31,9 +31,7 @@ arguable questions about the data. (Excellent) examples of the style
 of work that I'm looking for can be found
 [here](http://tedunderwood.com/2012/02/26/the-differentiation-of-literary-and-nonliterary-diction-1700-1900/),
 [here](http://languagelog.ldc.upenn.edu/nll/?p=4681), and
-[here](http://idibon.com/the-weirdest-languages/).  This project can
-be done in teams of at most three, but expectations will reflect the
-number of group members. The shared-data projects will require both
+[here](http://idibon.com/the-weirdest-languages/).  The shared-data projects must be performed independently, and will require both
 original work as well as a small number of compulsory analyses that
 cover key concepts from the course.
 
@@ -46,8 +44,7 @@ should represent roughly the same amount of work as the two
 shared-data blogposts, and can be done in teams of up to three
 students.
 
-Students may audit the course, but all students who attend must perform the
-weekly blogposts about the reading, to facilitate discussion.
+Students may audit the course, but all students who attend must perform the weekly blogposts about the reading, to facilitate discussion.
 
 Course schedule
 ----
@@ -62,12 +59,12 @@ E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell
 
 **Week 2: Graphs**
 + January 13. Reading: E&K ch. 1 and 2.
-+ January 15. Reading: [Inferring friendship network structure using mobile phone data](http://ateson.com/ws/r/www.pnas.org/content/106/36/15274.full) by Eagle, Pentland, and Lazer, 2009; [Reply](http://www.pnas.org/content/107/9/E29.full) by adams; [Rejoinder](http://www.pnas.org/content/107/9/E31.full) by Eagle et al.
++ January 15. Reading: [Inferring friendship network structure using mobile phone data](http://ateson.com/ws/r/www.pnas.org/content/106/36/15274.full) by Eagle, Pentland, and Lazer, 2009; [Reply](http://www.pnas.org/content/107/9/E29.full) by adams; [Rejoinder](http://www.pnas.org/content/107/9/E31.full) by Eagle et al. Optional but recommended light reading: [Using metadata to find Paul Revere](http://www.slate.com/articles/health_and_science/science/2013/06/prism_metadata_analysis_paul_revere_identified_by_his_connections_to_other.single.html)
  
 **Week 3: Strong and weak ties**
 + January 20. Reading: E&K ch. 3.
 + January 22. Reading: [The Role of Social Networks in Information Diffusion](http://arxiv.org/pdf/1201.4145) by Bakshy et al, 2012;
-maybe also [Structure and tie strength in mobile communication networks](http://www.hks.harvard.edu/davidlazer/files/papers/Lazer_PNAS_2007.pdf) by Onnela et al, 2007.
+[Structure and tie strength in mobile communication networks](http://www.hks.harvard.edu/davidlazer/files/papers/Lazer_PNAS_2007.pdf) by Onnela et al, 2007.
 
 **Week 4: Networks in their surrounding contexts**
 + January 27: Reading: E&K ch 4.
