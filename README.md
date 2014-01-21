@@ -64,7 +64,7 @@ E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell
 **Week 3: Strong and weak ties**
 + January 20. Reading: E&K ch. 3.
 + January 22. Reading: [The Role of Social Networks in Information Diffusion](http://arxiv.org/pdf/1201.4145) by Bakshy et al, 2012;
-[Structure and tie strength in mobile communication networks](http://www.hks.harvard.edu/davidlazer/files/papers/Lazer_PNAS_2007.pdf) by Onnela et al, 2007.
+**Assignment**: download [iPython notebook](http://ipython.org/notebook.html) and [statsmodels](http://statsmodels.sourceforge.net/), and get the first [minimal example](http://statsmodels.sourceforge.net/stable/index.html) to run before class. Report a statistic from the results summary in your tumblr post (e.g., R-squared, F-statistic, Log-likelihood, AIC), and explain what it means in one or two sentences. Bring a laptop to class if possible.
 
 **Week 4: Networks in their surrounding contexts**
 + January 27: Reading: E&K ch 4.
@@ -168,6 +168,7 @@ There are many, many more interesting papers than what we can cover in this clas
 + [Structural diversity in social contagion](http://www.pnas.org/content/109/16/5962.short) by Ugander et al, 2012.
 + [Topic-partitioned multinetwork embeddings](http://people.cs.umass.edu/~wallach/publications/krafft12topic-partitioned.pdf) by Krafft et al, 2012.
 + [Topicflow model: Unsupervised learning of topic-specific influences of hyperlinked documents](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_NallapatiMM11.pdf) by Nallapati et al, 2011.
++ [Structure and tie strength in mobile communication networks](http://www.hks.harvard.edu/davidlazer/files/papers/Lazer_PNAS_2007.pdf) by Onnela et al, 2007.
 
 **Public health**
 + [Drug extraction from the web: Summarizing drug experiences with multi-dimensional topic models](http://www.aclweb.org/anthology/N/N13/N13-1017.pdf) by Paul and Dredze, 2013. [video](http://techtalks.tv/talks/summarizing-drug-experiences-with-multi-dimensional-topic-models/58445/)
