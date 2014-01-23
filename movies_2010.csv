@@ -1,0 +1,671 @@
+"Rank", "Title", "Release", "Distributor", "Genre", "MPAA", "Gross", "Tickets", "Adjusted Gross"
+  1,"Toy Story 3","6/18/2010","Walt Disney Pictures","Adventure","G",415004880,52598844,415004879
+  2,"Avatar","12/18/2009","20th Century Fox","Action","PG-13",408392727,51760802,408392728
+  3,"Alice in Wonderland","3/5/2010","Walt Disney Pictures","Adventure","PG",334191110,42356288,334191112
+  4,"Iron Man 2","5/7/2010","Paramount Pictures","Adventure","PG-13",312433331,39598648,312433333
+  5,"The Twilight Saga: Eclipse","6/30/2010","Summit Entertainment","Drama","PG-13",300531751,38090209,300531749
+  6,"Inception","7/16/2010","Warner Bros.","Thriller/Suspense","PG-13",292568851,37080970,292568853
+  7,"Harry Potter and the Deathly Hallows: Part I","11/19/2010","Warner Bros.","Adventure","PG-13",283533215,35935769,283533217
+  8,"Despicable Me","7/9/2010","Universal","Comedy","PG",251203225,31838178,251203224
+  9,"Shrek Forever After","5/21/2010","Paramount Pictures","Adventure","PG",238736787,30258148,238736788
+ 10,"How to Train Your Dragon","3/26/2010","Paramount Pictures","Comedy","PG",217581231,27576835,217581228
+ 11,"The Karate Kid","6/11/2010","Sony Pictures","Adventure","PG",176591618,22381701,176591621
+ 12,"Tangled","11/24/2010","Walt Disney Pictures","Adventure","PG",167821986,21270214,167821988
+ 13,"Clash of the Titans","4/2/2010","Warner Bros.","Action","PG-13",163214888,20686298,163214891
+ 14,"Grown Ups","6/25/2010","Sony Pictures","Comedy","PG-13",162001186,20532470,162001188
+ 15,"Megamind","11/5/2010","Paramount Pictures","Adventure","PG",144192018,18275287,144192014
+ 16,"The Last Airbender","7/1/2010","Paramount Pictures","Adventure","PG",131772187,16701164,131772184
+ 17,"Tron: Legacy","12/17/2010","Walt Disney Pictures","Drama","PG",131304844,16641932,131304843
+ 18,"Shutter Island","2/19/2010","Paramount Pictures","Thriller/Suspense","R",128012934,16224706,128012930
+ 19,"The Other Guys","8/6/2010","Sony Pictures","Comedy","PG-13",119219978,15110263,119219975
+ 20,"Salt","7/23/2010","Sony Pictures","Thriller/Suspense","PG-13",118311368,14995104,118311371
+ 21,"Jackass 3D","10/15/2010","Paramount Pictures","Comedy","R",117109417,14842765,117109416
+ 22,"Valentine's Day","2/12/2010","Warner Bros.","Romantic Comedy","PG-13",110485654,14003251,110485650
+ 23,"Robin Hood","5/14/2010","Universal","Action","PG-13",105487148,13369727,105487146
+ 24,"The Expendables","8/13/2010","Lionsgate","Action","R",103068524,13063184,103068522
+ 25,"Little Fockers","12/22/2010","Universal","Comedy","PG-13",102576190,13000785,102576194
+ 26,"Due Date","11/5/2010","Warner Bros.","Comedy","R",99231922,12576923,99231922
+ 27,"Date Night","4/9/2010","20th Century Fox","Comedy","PG-13",98711404,12510951,98711403
+ 28,"Sex and the City 2","5/27/2010","Warner Bros.","Comedy","R",95347692,12084625,95347691
+ 29,"The Book of Eli","1/15/2010","Warner Bros.","Action","R",94835059,12019653,94835062
+ 30,"The Social Network","10/1/2010","Sony Pictures","Drama","PG-13",93222026,11815212,93222023
+ 31,"The Town","9/17/2010","Warner Bros.","Drama","R",92173235,11682286,92173237
+ 32,"Prince of Persia: Sands of Time","5/28/2010","Walt Disney Pictures","Action","PG-13",90759676,11503128,90759680
+ 33,"Red","10/15/2010","Summit Entertainment","Action","PG-13",89505187,11344130,89505186
+ 34,"Percy Jackson & the Olympians: The Lightning Thief","2/12/2010","20th Century Fox","Adventure","PG",88768303,11250735,88768299
+ 35,"The Chronicles of Narnia: The Voyage of the Dawn Treader","12/10/2010","20th Century Fox","Adventure","PG",86926397,11017287,86926394
+ 36,"True Grit","12/22/2010","Paramount Pictures","Western","PG-13",86670382,10984839,86670380
+ 37,"Paranormal Activity 2","10/22/2010","Paramount Pictures","Horror","R",84660648,10730120,84660647
+ 38,"Eat Pray Love","8/13/2010","Sony Pictures","Drama","R",80574010,10212169,80574013
+ 39,"Dear John","2/5/2010","Sony Pictures","Drama","PG-13",80014842,10141298,80014841
+ 40,"Unstoppable","11/12/2010","20th Century Fox","Action","PG-13",79468486,10072051,79468482
+ 41,"The A-Team","6/11/2010","20th Century Fox","Action","PG-13",77222099,9787338,77222097
+ 42,"Knight and Day","6/23/2010","20th Century Fox","Action","PG-13",76423035,9686063,76423037
+ 43,"Dinner for Schmucks","7/30/2010","Paramount Pictures","Comedy","PG-13",73026337,9255556,73026337
+ 44,"Sherlock Holmes","12/25/2009","Warner Bros.","Adventure","PG-13",70313242,8911691,70313242
+ 45,"The Bounty Hunter","3/19/2010","Sony Pictures","Romantic Comedy","PG-13",67061228,8499522,67061229
+ 46,"Yogi Bear 3D","12/17/2010","Warner Bros.","Adventure","PG",65755336,8334010,65755339
+ 47,"Diary of a Wimpy Kid","3/19/2010","20th Century Fox","Comedy","PG",65003625,8238736,65003627
+ 48,"Alvin and the Chipmunks: The Squeakquel","12/23/2009","20th Century Fox","Comedy","PG",63697677,8073216,63697674
+ 49,"The Sorcerer's Apprentice","7/14/2010","Walt Disney Pictures","Adventure","PG",63150991,8003928,63150992
+ 50,"A Nightmare on Elm Street","4/30/2010","Warner Bros.","Horror","R",63075011,7994298,63075011
+ 51,"The Last Song","3/31/2010","Walt Disney Pictures","Drama","PG",62950384,7978502,62950381
+ 52,"The Wolf Man","2/12/2010","Universal","Horror","R",62189884,7882115,62189887
+ 53,"Get Him to the Greek","6/4/2010","Universal","Comedy","R",61153526,7750764,61153528
+ 54,"Why Did I Get Married Too?","4/2/2010","Lionsgate","Drama","PG-13",60095852,7616711,60095850
+ 55,"The Tooth Fairy","1/22/2010","20th Century Fox","Comedy","PG",60022256,7607384,60022260
+ 56,"Secretariat","10/8/2010","Walt Disney Pictures","Drama","PG",59053682,7484624,59053683
+ 57,"Easy A","9/17/2010","Sony Pictures","Comedy","PG-13",58401464,7401960,58401464
+ 58,"Takers","8/27/2010","Sony Pictures","Drama","PG-13",57744720,7318722,57744717
+ 59,"Legend of the Guardians: The Owls of Ga'Hoole 3D","9/24/2010","Warner Bros.","Adventure","PG",55549823,7040535,55549821
+ 60,"The Tourist","12/10/2010","Sony Pictures","Thriller/Suspense","PG-13",54633191,6924359,54633193
+ 61,"It's Complicated","12/25/2009","Universal","Romantic Comedy","R",53556535,6787901,53556539
+ 62,"Resident Evil: Afterlife 3D","9/10/2010","Sony Pictures","Horror","R",53183340,6740601,53183342
+ 63,"Letters to Juliet","5/14/2010","Summit Entertainment","Drama","PG",53032453,6721477,53032454
+ 64,"Life as We Know It","10/8/2010","Warner Bros.","Romantic Comedy","PG-13",52886508,6702979,52886504
+ 65,"Wall Street 2: Money Never Sleeps","9/24/2010","20th Century Fox","Drama","PG-13",52474616,6650775,52474615
+ 66,"Predators","7/9/2010","20th Century Fox","Action","R",52000688,6590708,52000686
+ 67,"Hot Tub Time Machine","3/26/2010","MGM","Comedy","R",50269859,6371338,50269857
+ 68,"Kick-Ass","4/16/2010","Lionsgate","Action","R",48071303,6092687,48071300
+ 69,"Black Swan","12/3/2010","Fox Searchlight","Thriller/Suspense","R",47807791,6059289,47807790
+ 70,"The Blind Side","11/20/2009","Warner Bros.","Drama","PG-13",47483408,6018176,47483409
+ 71,"Killers","6/4/2010","Lionsgate","Action","PG-13",47059963,5964507,47059960
+ 72,"The Fighter","12/10/2010","Paramount Pictures","Drama","R",46388853,5879449,46388853
+ 73,"Saw VII 3D","10/29/2010","Lionsgate","Horror","R",45710178,5793432,45710178
+ 74,"Cop Out","2/26/2010","Warner Bros.","Comedy","R",44875481,5687640,44875480
+ 75,"The Lovely Bones","12/11/2009","Paramount Pictures","Drama","PG-13",43731131,5542602,43731130
+ 76,"Cats & Dogs: The Revenge of Kitty Galore","7/30/2010","Warner Bros.","Comedy","PG",43585753,5524177,43585757
+ 77,"Edge of Darkness","1/29/2010","Warner Bros.","Drama","R",43313890,5489720,43313891
+ 78,"Death at a Funeral","4/16/2010","Sony Pictures","Comedy","R",42739347,5416901,42739349
+ 79,"Step Up 3D","8/6/2010","Walt Disney Pictures","Drama","PG-13",42400223,5373919,42400221
+ 80,"The Last Exorcism","8/27/2010","Lionsgate","Horror","PG-13",41034350,5200805,41034351
+ 81,"Legion","1/22/2010","Sony Pictures","Thriller/Suspense","R",40168080,5091011,40168077
+ 82,"Up in the Air","12/4/2009","Paramount Pictures","Drama","R",39448116,4999761,39448114
+ 83,"The Crazies","2/26/2010","Overture Films","Horror","R",39123589,4958630,39123591
+ 84,"Crazy Heart","12/16/2009","Fox Searchlight","Drama","R",38769554,4913758,38769551
+ 85,"Burlesque","11/24/2010","Sony Pictures","Drama","PG-13",37733561,4782454,37733562
+ 86,"For Colored Girls Who Have Considered Suicide When the Rainbow is Enuf","11/5/2010","Lionsgate","Drama","R",37676774,4775257,37676778
+ 87,"The Back-up Plan","4/23/2010","CBS Films","Romantic Comedy","PG-13",37490007,4751585,37490006
+ 88,"Vampires Suck","8/18/2010","20th Century Fox","Comedy","PG-13",36661504,4646578,36661500
+ 89,"The American","9/1/2010","Focus Features","Thriller/Suspense","R",35606376,4512849,35606379
+ 90,"Green Zone","3/12/2010","Universal","Drama","R",35497337,4499029,35497339
+ 91,"Devil","9/17/2010","Universal","Thriller/Suspense","PG-13",33679655,4268651,33679656
+ 92,"Marmaduke","6/4/2010","20th Century Fox","Comedy","PG",33644788,4264232,33644790
+ 93,"Hereafter","10/15/2010","Warner Bros.","Thriller/Suspense","PG-13",32712586,4146082,32712587
+ 94,"When in Rome","1/29/2010","Walt Disney Pictures","Romantic Comedy","PG-13",32680633,4142032,32680632
+ 95,"She's Out of My League","3/12/2010","Paramount Pictures","Romantic Comedy","R",32010860,4057143,32010858
+ 96,"Scott Pilgrim vs. The World","8/13/2010","Universal","Comedy","PG-13",31611316,4006504,31611317
+ 97,"Charlie St. Cloud","7/30/2010","Universal","Drama","PG-13",31206263,3955166,31206260
+ 98,"Morning Glory","11/10/2010","Paramount Pictures","Comedy","PG-13",30759976,3898603,30759978
+ 99,"Daybreakers","1/8/2010","Lionsgate","Horror","R",30101577,3815156,30101581
+100,"Nanny McPhee Returns","8/20/2010","Universal","Adventure","PG",29197642,3700588,29197639
+101,"The Switch","8/20/2010","Miramax","Romantic Comedy","PG-13",27758465,3518183,27758464
+102,"Gulliver's Travels","12/22/2010","20th Century Fox","Comedy","PG",27454506,3479659,27454510
+103,"Brooklyn's Finest","3/5/2010","Overture Films","Thriller/Suspense","R",27163593,3442787,27163589
+104,"Machete","9/3/2010","20th Century Fox","Action","R",26593646,3370551,26593647
+105,"Ramona and Beezus","7/23/2010","20th Century Fox","Comedy","G",26167002,3316477,26167004
+106,"Leap Year","1/8/2010","Universal","Romantic Comedy","PG",25918920,3285034,25918918
+107,"You Again","9/24/2010","Walt Disney Pictures","Comedy","PG",25702053,3257548,25702054
+108,"Alpha and Omega 3D","9/17/2010","Lionsgate","Adventure","PG",25107267,3182163,25107266
+109,"How Do You Know?","12/17/2010","Sony Pictures","Romantic Comedy","R",25040894,3173751,25040895
+110,"Piranha 3D","8/20/2010","Weinstein/Dimension","Horror","R",25003155,3168968,25003158
+111,"Lottery Ticket","8/20/2010","Warner Bros.","Comedy","PG-13",24719879,3133065,24719883
+112,"The Spy Next Door","1/15/2010","Lionsgate","Comedy","PG",24307106,3080749,24307110
+113,"From Paris With Love","2/5/2010","Lionsgate","Thriller/Suspense","R",24077427,3051638,24077424
+114,"The Losers","4/23/2010","Warner Bros.","Action","PG-13",23591432,2990042,23591431
+115,"The King's Speech","11/26/2010","Weinstein Co.","Drama","R",22932401,2906515,22932403
+116,"Faster","11/24/2010","CBS Films","Action","R",22856870,2896942,22856872
+117,"Just Wright","5/14/2010","Fox Searchlight","Romantic Comedy","PG",21540363,2730084,21540363
+118,"Skyline","11/12/2010","Universal","Thriller/Suspense","PG-13",21416355,2714367,21416356
+119,"Love and Other Drugs","11/24/2010","20th Century Fox","Drama","R",21267088,2695448,21267085
+120,"The Next Three Days","11/19/2010","Lionsgate","Thriller/Suspense","PG-13",21129348,2677991,21129349
+121,"The Kids Are All Right","7/9/2010","Focus Features","Comedy","R",20811365,2637689,20811366
+122,"Our Family Wedding","3/12/2010","Fox Searchlight","Comedy","PG-13",20255281,2567209,20255279
+123,"Hubble 3D","3/19/2010","Warner Bros.","Documentary","G",20149829,2553844,20149829
+124,"Oceans","4/22/2010","Walt Disney Pictures","Documentary","G",19422319,2461637,19422316
+125,"Remember Me","3/12/2010","Summit Entertainment","Drama","PG-13",19068240,2416760,19068236
+126,"The Princess and the Frog","11/25/2009","Walt Disney Pictures","Adventure","G",18541560,2350008,18541563
+127,"Going the Distance","9/3/2010","Warner Bros.","Romantic Comedy","R",17804299,2256565,17804298
+128,"Furry Vengeance","4/30/2010","Summit Entertainment","Comedy","PG",17630465,2234533,17630465
+129,"Splice","6/4/2010","Warner Bros.","Horror","R",17010170,2155915,17010169
+130,"The Ghost Writer","2/19/2010","Summit Entertainment","Thriller/Suspense","PG-13",15541549,1969778,15541548
+131,"Youth in Revolt","1/8/2010","Weinstein/Dimension","Comedy","R",15285588,1937337,15285589
+132,"My Soul to Take","10/8/2010","Universal","Horror","R",14744435,1868750,14744438
+133,"Repo Men","3/19/2010","Universal","Action","R",13942007,1767048,13942009
+134,"Case 39","10/1/2010","Paramount Vantage","Horror","?",13261851,1680843,13261851
+135,"Extraordinary Measures","1/22/2010","CBS Films","Drama","PG",12482741,1582096,12482737
+136,"Let Me In","10/1/2010","Overture Films","Thriller/Suspense","R",12134935,1538015,12134938
+137,"The Girl with the Dragon Tatto","3/19/2010","Music Box Films","Thriller/Suspense","R",10561224,1338558,10561223
+138,"Jonah Hex","6/18/2010","Warner Bros.","Action","PG-13",10547117,1336770,10547115
+139,"127 Hours","11/5/2010","Fox Searchlight","Drama","R",10434435,1322489,10434438
+140,"Fair*Game","11/5/2010","Summit Entertainment","Drama","PG-13",9118756,1155736,9118757
+141,"Get Low","7/30/2010","Sony Pictures Classics","?","PG-13",9111488,1154815,9111490
+142,"The Twilight Saga: New Moon","11/20/2009","Summit Entertainment","Drama","PG-13",8668979,1098730,8668980
+143,"The Young Victoria","12/18/2009","Apparition","Drama","PG",8544935,1083008,8544933
+144,"MacGruber","5/21/2010","Universal","Comedy","R",8525600,1080558,8525603
+145,"The Girl Who Played with Fire","12/25/2009","Music Box Films","Thriller/Suspense","R",8480758,1074874,8480756
+146,"Barney's Version","12/31/2010","Sony Pictures Classics","Drama","R",7502560,950895,7502562
+147,"Cyrus","6/18/2010","Fox Searchlight","Comedy","R",7468936,946633,7468934
+148,"A Single Man","12/11/2009","Weinstein Co.","Drama","R",7444351,943517,7444349
+149,"Babies","5/7/2010","Focus Features","Documentary","PG",7320323,927798,7320326
+150,"Incendies","9/17/2010","Sony Pictures Classics","Drama","R",6857096,869087,6857096
+151,"Conviction","10/15/2010","Fox Searchlight","Drama","?",6797696,861558,6797693
+152,"City Island","3/19/2010","Anchor Bay Entertainment","Comedy","PG-13",6671036,845505,6671034
+153,"The Imaginarium of Doctor Parnassus","12/25/2009","Sony Pictures Classics","Adventure","PG-13",6659786,844079,6659783
+154,"The Last Station","1/15/2010","Sony Pictures Classics","Drama","R",6617867,838766,6617864
+155,"Waiting for Superman","9/24/2010","Paramount Vantage","Documentary","PG",6417135,813325,6417134
+156,"The Secret in Their Eyes","4/16/2010","Sony Pictures Classics","Drama","R",6391436,810068,6391437
+157,"It's Kind of a Funny Story","10/8/2010","Focus Features","Comedy","PG-13",6363628,806543,6363624
+158,"Winter's Bone","6/11/2010","Roadside Attractions","Drama","R",6245508,791573,6245511
+159,"Nine","12/18/2009","Weinstein Co.","Musical","PG-13",5930989,751710,5930992
+160,"Under the Sea 3-D","2/13/2009","Warner Bros.","Documentary","G",5857442,742388,5857441
+161,"The Warrior's Way","12/3/2010","Relativity","Western","R",5569301,705868,5569299
+162,"The Girl Who Kicked the Hornet's Nest","4/30/2010","Music Box Films","Thriller/Suspense","R",5273085,668325,5273084
+163,"I am Love","6/18/2010","Magnolia Pictures","Drama","?",5005465,634406,5005463
+164,"Mao's Last Dancer","8/20/2010","Samuel Goldwyn Films","Drama","PG",4806750,609221,4806754
+165,"An Education","10/9/2009","Sony Pictures Classics","Drama","PG-13",4691390,594599,4691386
+166,"Solitary Man","5/21/2010","Anchor Bay Entertainment","Drama","R",4360548,552668,4360551
+167,"The Hurt Locker","6/26/2009","Summit Entertainment","Drama","R",4346706,550913,4346704
+168,"Sea Rex 3D: Journey to a Prehistoric World","12/31/2010","3D Entertainment","?","?",4328844,548649,4328841
+169,"Did You Hear About the Morgans?","12/18/2009","Sony Pictures","Romantic Comedy","PG-13",4267703,540900,4267701
+170,"Greenberg","3/19/2010","Focus Features","Romantic Comedy","R",4234170,536650,4234169
+171,"My Name is Khan","2/12/2010","Fox Searchlight","Drama","PG-13",4046336,512844,4046339
+172,"Please Give","4/30/2010","Sony Pictures Classics","?","R",4033574,511226,4033573
+173,"Precious (Based on the Novel Push by Sapphire)","11/6/2009","Lionsgate","Drama","R",3806401,482434,3806404
+174,"To Save a Life","1/22/2010","Samuel Goldwyn Films","Drama","PG-13",3777210,478734,3777211
+175,"The Runaways","3/19/2010","Apparition","Drama","R",3573673,452937,3573673
+176,"Inside Job","10/8/2010","Sony Pictures Classics","Documentary","PG-13",3452017,437518,3452017
+177,"Exit Through the Gift Shop","4/16/2010","Producer's Distribution Agency","Documentary","?",3291250,417142,3291250
+178,"Catfish","9/17/2010","Universal","Documentary","PG-13",3237343,410310,3237346
+179,"You Will Meet a Tall Dark Stranger","9/22/2010","Sony Pictures Classics","Drama","R",3229586,409326,3229582
+180,"Chloe","3/26/2010","Sony Pictures Classics","Thriller/Suspense","R",3075255,389766,3075254
+181,"Broken Embraces","11/20/2009","Sony Pictures Classics","Thriller/Suspense","R",2991650,379170,2991651
+182,"Joan Rivers: A Piece of Work","6/11/2010","IFC Films","Documentary","R",2930687,371443,2930685
+183,"Letters to God","4/9/2010","Vivendi Entertainment","Drama","PG",2848587,361038,2848590
+184,"2012","11/13/2009","Sony Pictures","Action","PG-13",2670038,338408,2670039
+185,"Planet 51","11/20/2009","Sony Pictures","Adventure","PG",2623491,332508,2623488
+186,"N-Secure","10/15/2010","Freestyle Releasing","Thriller/Suspense","R",2595644,328979,2595644
+187,"Never Let Me Go","9/15/2010","Fox Searchlight","Drama","R",2434652,308574,2434649
+188,"The Twilight Saga: Twilight/New Moon Combo","6/29/2010","Summit Entertainment","?","?",2385237,302311,2385234
+189,"Robot","10/1/2010","B4U Movies","Action","?",2276427,288521,2276431
+190,"Old Dogs","11/25/2009","Walt Disney Pictures","Comedy","PG",2252485,285486,2252485
+191,"The White Ribbon","12/30/2009","Sony Pictures Classics","Drama","R",2137172,270871,2137172
+192,"A Prophet","2/26/2010","Sony Pictures Classics","Drama","R",2087720,264603,2087718
+193,"U2 3D","1/23/2008","National Geographic Entertainment","Concert/Performance","G",2054521,260396,2054524
+194,"Space Station","4/19/2002","IMAX Films","Documentary","Not Rated",1931542,244809,1931543
+195,"The Fantastic Mr. Fox","11/13/2009","20th Century Fox","Adventure","PG",1879730,238242,1879729
+196,"Harry Brown","4/30/2010","Samuel Goldwyn Films","Thriller/Suspense","R",1818681,230505,1818684
+197,"Stone","10/8/2010","Overture Films","Drama","R",1810078,229414,1810076
+198,"3 Idiots","12/23/2009","Reliance Big Pictures","Comedy","PG-13",1776771,225193,1776773
+199,"Flipped","8/6/2010","Warner Bros.","Romantic Comedy","PG",1755212,222460,1755209
+200,"Coco Chanel and Igor Stravinsky","6/11/2010","Sony Pictures Classics","Drama","R",1725982,218756,1725985
+201,"Kites","5/21/2010","Reliance Big Pictures","Thriller/Suspense","?",1685269,213596,1685272
+202,"Cairo Time","8/6/2010","IFC Films","Drama","PG",1603616,203247,1603619
+203,"Rajneeti","6/4/2010","UTV Communications","?","?",1514557,191959,1514557
+204,"The Joneses","4/16/2010","Roadside Attractions","?","R",1475746,187040,1475746
+205,"Nowhere Boy","10/8/2010","Weinstein Co.","Drama","R",1445366,183190,1445369
+206,"Deep Sea 3-D","3/3/2006","Warner Bros.","Documentary","G",1379500,174842,1379503
+207,"Restrepo","6/25/2010","National Geographic Entertainment","Documentary","R",1330894,168681,1330893
+208,"Dabangg","9/10/2010","Eros Entertainment","Drama","?",1288549,163314,1288547
+209,"Micmacs","5/28/2010","Sony Pictures Classics","Comedy","R",1259693,159657,1259694
+210,"The Road","11/25/2009","Weinstein Co.","Drama","R",1255957,159183,1255954
+211,"Housefull","4/30/2010","Eros Entertainment","Romantic Comedy","?",1183658,150020,1183658
+212,"Golmaal 3","11/5/2010","Eros Entertainment","Comedy","?",1132192,143497,1132191
+213,"Brothers","12/4/2009","Lionsgate","Drama","R",1129244,143123,1129240
+214,"I Love You, Phillip Morris","12/3/2010","Roadside Attractions","Comedy","R",1126302,142751,1126305
+215,"Mother and Child","5/7/2010","Sony Pictures Classics","?","R",1110509,140749,1110510
+216,"The Perfect Game","4/16/2010","Slowhand Cinema","Drama","PG",1089445,138079,1089443
+217,"La Mission","4/9/2010","?","?","R",1062941,134720,1062941
+218,"Buried","9/24/2010","Lionsgate","Thriller/Suspense","R",1044143,132338,1044147
+219,"Tees Maar Khan","12/22/2010","UTV Communications","Comedy","?",1030502,130609,1030505
+220,"Guzaarish","11/19/2010","UTV Communications","Drama","?",1026589,130113,1026592
+221,"2010 Oscar Shorts","2/19/2010","Shorts International","Multiple Genres","?",1018169,129046,1018173
+222,"Animal Kingdom","8/13/2010","Sony Pictures Classics","Drama","R",1016417,128823,1016413
+223,"Les sept jours du talion","2/5/2010","Alliance","?","?",1011919,128253,1011916
+224,"Princess Kaiulani","5/14/2010","Roadside Attractions","Drama","PG",883887,112026,883885
+225,"Anjaana Anjaani","10/1/2010","Eros Entertainment","?","?",854757,108334,854755
+226,"I Hate Luv Storys","7/2/2010","UTV Communications","Romantic Comedy","?",847993,107477,847994
+227,"The Tillman Story","8/20/2010","Weinstein Co.","Documentary","R",798940,101260,798941
+228,"Sea Monsters: A Prehistoric Adventure","10/5/2007","National Geographic Entertainment","Documentary","Not Rated",781527,99053,781528
+229,"L'enfant prodige","5/28/2010","Alliance","Drama","?",773615,98050,773615
+230,"What If...","8/20/2010","Five & Two Pictures","?","PG",767544,97281,767547
+231,"Peepli Live","8/13/2010","UTV Communications","Drama","?",754836,95670,754836
+232,"Middle Men","8/6/2010","Paramount Vantage","Comedy","R",754301,95602,754300
+233,"The Fourth Kind","11/6/2009","Universal","Thriller/Suspense","PG-13",753690,95525,753692
+234,"North Face","1/29/2010","Music Box Films","?","?",711421,90167,711418
+235,"Raavan","6/18/2010","Reliance Big Pictures","?","?",708726,89826,708727
+236,"The Wildest Dream","8/6/2010","National Geographic Entertainment","Documentary","PG",694298,87997,694296
+237,"Couples Retreat","10/9/2009","Universal","Comedy","PG-13",693900,87947,693902
+238,"The Secret of Kells","3/5/2010","GKIDS","Adventure","?",690290,87489,690288
+239,"Mid-August Lunch","3/17/2010","Zeitgeist","?","?",675299,85589,675297
+240,"The Polar Express","11/10/2004","Warner Bros.","Adventure","G",672796,85272,672796
+241,"Where the Wild Things Are","10/16/2009","Warner Bros.","Adventure","PG",666976,84534,666973
+242,"The Concert","7/23/2010","Weinstein Co.","Drama","PG-13",657986,83395,657987
+243,"We Are Family","9/3/2010","UTV Communications","Drama","?",638144,80880,638143
+244,"The Virginity Hit","9/24/2010","Sony Pictures","Comedy","R",636706,80698,636707
+245,"Ninja Assassin","11/25/2009","Warner Bros.","Action","R",630109,79862,630111
+246,"Ajami","2/3/2010","Kino International","Drama","?",621859,78816,621858
+247,"Agora","5/28/2010","Newmarket Films","Drama","R",619423,78507,619420
+248,"Vincere","3/19/2010","IFC Films","Drama","?",619162,78474,619160
+249,"Cloudy with a Chance of Meatballs","9/18/2009","Sony Pictures","Comedy","PG",605368,76726,605368
+250,"Howl","9/24/2010","Oscilloscope Pictures","Drama","R",591812,75008,591813
+251,"Mother","3/12/2010","Magnolia Pictures","Drama","R",551509,69900,551511
+252,"Ondine","6/4/2010","Magnolia Pictures","?","PG-13",550472,69768,550470
+253,"The Art of the Steal","2/26/2010","IFC Films","?","?",544890,69061,544891
+254,"Jack Goes Boating","9/17/2010","Overture Films","Comedy","R",541992,68694,541996
+255,"Khatta Meetha","7/23/2010","Eros Entertainment","Comedy","?",541904,68682,541901
+256,"Mesrine: Killer Instinct","8/27/2010","Music Box Films","Drama","R",533479,67615,533482
+257,"Standing Ovation","7/16/2010","Rocky Mountain Pictures","?","PG",531806,67403,531810
+258,"Mademoiselle Chambon","6/4/2010","Lorber Films","?","?",530491,67236,530492
+259,"Veer","1/22/2010","Eros Entertainment","?","?",527193,66818,527194
+260,"Tamara Drewe","10/8/2010","Sony Pictures Classics","Comedy","R",526639,66748,526642
+261,"Preacher's Kid","1/29/2010","Gener8xion Entertainment","Drama","PG-13",514522,65212,514523
+262,"L'arnacouer","9/10/2010","IFC Films","Comedy","?",504030,63882,504029
+263,"Poema de Salvacion","10/15/2010","CanZion Films","?","PG-13",493470,62544,493472
+264,"The City of Your Final Destination","4/16/2010","Hyde Park Films","Drama","PG-13",493296,62522,493299
+265,"Made in Dagenham","11/19/2010","Sony Pictures Classics","Drama","R",492379,62405,492375
+266,"Phish 3D","4/30/2010","Cinedigm","Concert/Performance","?",485913,61586,485914
+267,"Dolphins and Whales Tribes of the Ocean 3D","2/15/2008","3D Entertainment","Documentary","Not Rated",458309,58087,458306
+268,"Gunless","4/30/2010","Alliance","?","?",458054,58055,458054
+269,"The Messenger","11/13/2009","Oscilloscope Pictures","Drama","R",455286,57704,455285
+270,"The Extra Man","7/30/2010","Magnolia Pictures","?","R",453377,57462,453375
+271,"The Trotsky","5/14/2010","Alliance","?","?",440008,55768,440010
+272,"Rabbit Hole","12/17/2010","Lionsgate","Drama","PG-13",435229,55162,435228
+273,"I Want Your Money","10/15/2010","Freestyle Releasing","Documentary","PG",433588,54954,433587
+274,"Somewhere","12/22/2010","Focus Features","Drama","R",432836,54859,432838
+275,"Law Abiding Citizen","10/16/2009","Overture Films","Thriller/Suspense","R",428914,54362,428916
+276,"Break Ke Baad","11/24/2010","Reliance Big","Drama","?",427628,54199,427630
+277,"The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers","1/29/2010","First Run Features","Documentary","?",416775,52823,416773
+278,"Les amours imaginaires","6/11/2010","IFC Films","Drama","?",413432,52399,413428
+279,"Disney's A Christmas Carol","11/6/2009","Walt Disney Pictures","Drama","PG",411946,52211,411945
+280,"Action Replayy","11/5/2010","Viva Entertainment","Drama","?",410262,51998,410264
+281,"The Men Who Stare at Goats","11/6/2009","Overture Films","Black Comedy","R",409764,51935,409767
+282,"I'm Still Here","9/10/2010","Magnolia Pictures","Documentary","R",408983,51836,408986
+283,"The Square","4/9/2010","Apparition","Thriller/Suspense","R",406216,51485,406217
+284,"Wild Grass","6/25/2010","Sony Pictures Classics","Thriller/Suspense","PG",403952,51198,403952
+285,"Farewell","1/29/2010","NeoClassics Films","Thriller/Suspense","?",390157,49450,390161
+286,"Fish Tank","1/15/2010","?","?","?",374675,47487,374672
+287,"Lebanon","8/6/2010","Sony Pictures Classics","Drama","R",368088,46652,368084
+288,"Grease","6/16/1978","Paramount Pictures","Musical","PG",365802,46363,365804
+289,"Like Dandelion Dust","9/24/2010","Self Distributed","?","PG-13",352810,44716,352809
+290,"Arthur and the War of Two Worlds","12/31/2010","?","Adventure","PG",347136,43997,347136
+291,"Creation","1/22/2010","Newmarket Films","Drama","PG-13",341323,43260,341321
+292,"Enter the Void","9/24/2010","IFC Films","Drama","?",337997,42839,338000
+293,"All Good Things","12/3/2010","Magnolia Pictures","Drama","R",323651,41020,323648
+294,"A Film Unfinished","8/18/2010","Oscilloscope Pictures","?","R",320486,40619,320484
+295,"Vision","10/13/2010","Zeitgeist","Drama","?",319683,40517,319679
+296,"Yellow Handkerchief, The","2/26/2010","Samuel Goldwyn Films","Drama","PG-13",318623,40383,318622
+297,"Today's Special","11/19/2010","Reliance Big","Comedy","R",317831,40283,317833
+298,"The Boondock Saints 2: All Saints Day","10/30/2009","Apparition","Action","R",315233,39953,315229
+299,"Holy Rollers","5/21/2010","First Independent Pictures","Drama","R",303064,38411,303063
+300,"Once Upon a Time in Mumbai","7/30/2010","Viva Entertainment","Action","?",302862,38386,302866
+301,"Aisha","8/6/2010","Viva Entertainment","Romantic Comedy","?",298431,37824,298431
+302,"The Little Traitor","10/16/2009","Westchester Films","Drama","?",297351,37687,297350
+303,"Blue Valentine","12/29/2010","Weinstein Co.","Drama","NC-17",291607,36959,291607
+304,"Last Train Home","9/3/2010","Zeitgeist","Documentary","?",288328,36543,288324
+305,"Tiny Furniture","11/12/2010","IFC Films","Comedy","?",286707,36338,286707
+306,"Karthik Calling Karthik","2/26/2010","Eros Entertainment","?","?",286409,36300,286407
+307,"No Problem","12/10/2010","Eros Entertainment","Comedy","?",285468,36181,285468
+308,"Life During Wartime","7/23/2010","IFC Films","Black Comedy","R",281447,35671,281444
+309,"Soul Kitchen","8/20/2010","IFC Films","?","?",276901,35095,276900
+310,"Countdown to Zero","7/23/2010","Magnolia Pictures","Documentary","PG",272040,34479,272039
+311,"Bad Lieutenant: Port of Call New Orleans","11/20/2009","First Look","Drama","R",269021,34096,269017
+312,"Breath Made Visible","4/2/2010","Argot Pictures","Documentary","?",267281,33876,267282
+313,"Kings of Pastry","9/15/2010","First Run Features","Documentary","?",264482,33521,264481
+314,"L'ennemi public n°1","9/3/2010","Music Box Films","Drama","R",262253,33239,262256
+315,"Jean-Michel Basquiat: The Radiant Child","7/21/2010","Arthouse Films","Documentary","?",256242,32477,256244
+316,"Le baiser du barbu","6/18/2010","Alliance","Comedy","?",249519,31625,249521
+317,"Me and Orson Welles","11/25/2009","Freestyle Releasing","Drama","PG-13",247727,31398,247730
+318,"White Material","11/19/2010","IFC Films","Drama","?",246328,31220,246326
+319,"Frozen","2/5/2010","Anchor Bay Entertainment","?","R",246177,31201,246176
+320,"When You're Strange: A Film About The Doors","4/9/2010","Abramorama Films","Documentary","R",246078,31189,246081
+321,"Four Lions","11/5/2010","Drafthouse Films","Black Comedy","R",242136,30689,242136
+322,"Monsters","10/29/2010","Magnet Pictures","Drama","R",237301,30076,237300
+323,"Atithi Tum Kab Jaoge?","3/5/2010","Viva Entertainment","Comedy","?",235847,29892,235848
+324,"Casino Jack","12/17/2010","Samuel Goldwyn Films","Thriller/Suspense","R",234094,29670,234096
+325,"That Evening Sun","11/6/2009","Freestyle Releasing","?","PG-13",233240,29561,233236
+326,"The Tempest","12/10/2010","Miramax","Drama","PG-13",231633,29358,231635
+327,"Formosa Betrayed","2/26/2010","Screen Media Films","?","R",225341,28560,225338
+328,"The Killer Inside Me","6/18/2010","IFC Films","Drama","R",217277,27538,217275
+329,"Rare Exports: A Christmas Tale","12/3/2010","Oscilloscope Pictures","Comedy","R",215430,27304,215429
+330,"Winston Churchill: Walking with Destiny","10/29/2010","Moriah Films","Documentary","?",212601,26946,212604
+331,"La Soga","8/13/2010","7-57 Releasing","Thriller/Suspense","R",210625,26695,210624
+332,"The Girl on the Train","1/22/2010","Strand","?","?",208163,26383,208162
+333,"Sweetgrass","1/6/2010","Cinema Guild","Documentary","?",207473,26296,207475
+334,"Chain Letter","10/1/2010","New Films Cinema","Horror","R",205842,26089,205842
+335,"Le Petit Nicolas","2/19/2010","?","Comedy","?",201857,25584,201858
+336,"Women Without Men","4/9/2010","?","?","?",200899,25462,200895
+337,"Legendary","9/10/2010","Samuel Goldwyn Films","Drama","PG-13",200393,25398,200390
+338,"The Nutcracker in 3D","11/24/2010","Freestyle Releasing","Musical","PG",195459,24773,195459
+339,"Iron Man","5/2/2008","Paramount Pictures","Action","PG-13",192025,24338,192027
+340,"A Woman, a Gun and a Noodle Shop","9/3/2010","Sony Pictures Classics","Drama","R",190946,24201,190946
+341,"The Secrets of Jonathan Sperry","9/18/2009","Five & Two Pictures","Drama","PG",187456,23759,187459
+342,"Twelve","8/6/2010","Hannover House","Thriller/Suspense","R",183920,23311,183924
+343,"Fei Cheng Wu Rao 2","12/24/2010","China Lion Film Distribution","Romantic Comedy","?",182517,23133,182519
+344,"The Human Centipede","4/30/2010","IFC Films","Horror","R",181467,23000,181470
+345,"Winnebago Man","7/9/2010","Kino International","Documentary","?",181039,22945,181036
+346,"Casino Jack and the United States of Money","5/7/2010","Magnolia Pictures","Documentary","R",176865,22416,176862
+347,"Partir","10/1/2010","IFC Films","Drama","?",176113,22321,176113
+348,"South of the Border","6/25/2010","Cinema Libre","Documentary","?",174203,22079,174203
+349,"Armored","12/4/2009","Sony Pictures","Thriller/Suspense","PG-13",173574,21999,173572
+350,"Terribly Happy","2/5/2010","Oscilloscope Pictures","?","?",170943,21666,170945
+351,"Client 9: The Rise and Fall of Eliot Spitzer","11/5/2010","Magnolia Pictures","Documentary","R",170829,21651,170826
+352,"Chance Pe Dance","1/15/2010","UTV Communications","?","?",168643,21374,168641
+353,"The Disappearance of Alice Creed","8/6/2010","Anchor Bay Entertainment","Thriller/Suspense","R",166980,21163,166976
+354,"De Mai Tinh","9/10/2010","Variance Films","Romantic Comedy","?",165987,21038,165990
+355,"Rann","1/29/2010","Studio 18","Drama","?",165873,21023,165871
+356,"Another Year","12/29/2010","Sony Pictures Classics","Drama","PG-13",164654,20869,164656
+357,"Genius Within: The Inner Life of Glenn Gould","9/10/2010","Lorber Films","Documentary","?",162122,20548,162124
+358,"71: Into the Fire","7/30/2010","?","Drama","?",159335,20195,159339
+359,"Welcome to the Rileys","10/29/2010","Samuel Goldwyn Films","Drama","R",152857,19374,152861
+360,"The Red Riding Trilogy: 1983","2/5/2010","IFC Films","Drama","?",151644,19220,151646
+361,"My Dog Tulip","9/1/2010","New Yorker","Drama","?",151258,19171,151259
+362,"La Danse","11/4/2009","Zipporah","?","?",149561,18956,149563
+363,"The Red Riding Trilogy","2/5/2010","IFC Films","Drama","?",148826,18863,148829
+364,"A Town Called Panic","12/16/2009","Zeitgeist","Comedy","?",147967,18754,147969
+365,"Prince","3/26/2010","Viva Entertainment","?","?",144826,18356,144829
+366,"The Father of My Children","5/21/2010","IFC Films","Drama","?",144022,18254,144024
+367,"House","1/15/2010","Janus Films","?","?",140750,17839,140750
+368,"The Cremaster Cycle","4/9/2010","International Film Circuit","Drama","?",140666,17828,140663
+369,"The Weathered Underground","1/26/2010","Indican Pictures","Multiple Genres","?",140091,17756,140095
+370,"Love Ranch","6/30/2010","?","Drama","R",137885,17476,137886
+371,"Carlos","10/15/2010","IFC Films","Drama","?",135526,17177,135527
+372,"Pure Country 2: The Gift","1/2/2011","Warner Bros.","Drama","PG",133771,16954,133767
+373,"The Eclipse","3/26/2010","Magnolia Pictures","?","R",133411,16909,133412
+374,"The Warlords","4/2/2010","?","?","R",129078,16360,129080
+375,"The Good, the Bad, the Weird","4/23/2010","?","Action","R",128486,16285,128489
+376,"Stonewall Uprising","6/16/2010","First Run Features","Documentary","?",128203,16249,128205
+377,"Lovely, Still","9/10/2010","Monterey Media","Drama","PG",127564,16168,127566
+378,"Centurion","8/27/2010","Magnolia Pictures","Action","R",123570,15662,123573
+379,"The Illusionist","12/25/2010","Sony Pictures Classics","Adventure","?",123476,15650,123479
+380,"Country Strong","12/22/2010","Sony Pictures","Drama","PG-13",119742,15176,119739
+381,"Valley of the Hearts Delight","4/9/2010","Indican Pictures","Drama","?",118666,15040,118666
+382,"The Big Uneasy","8/30/2010","Self Distributed","Documentary","?",116698,14791,116701
+383,"Queen of the Lot","11/19/2010","Rainbow Releasing","Drama","R",116400,14753,116401
+384,"Coco Before Chanel","9/25/2009","Sony Pictures Classics","Drama","PG-13",116152,14721,116149
+385,"The Greatest","4/2/2010","Paladin","Drama","R",115862,14685,115865
+386,"Breaking Upwards","4/2/2010","IFC Films","?","?",115592,14650,115589
+387,"Bran Nue Dae","9/10/2010","Freestyle Releasing","Musical","PG-13",113568,14394,113569
+388,"Touching Home","4/30/2010","CFI","Drama","?",110594,14017,110594
+389,"Best Worst Movie","4/23/2010","Area23a","?","?",109895,13928,109892
+390,"Blood Done Sign My Name","2/19/2010","Paladin","Drama","PG-13",109383,13863,109379
+391,"Wild Target","10/29/2010","Freestyle Releasing","Comedy","PG-13",109338,13858,109340
+392,"After.Life","4/9/2010","?","?","R",108596,13764,108598
+393,"Bellamy","10/29/2010","IFC Films","Thriller/Suspense","?",107612,13639,107612
+394,"The Romantics","9/10/2010","Four of a Kind Productions","Comedy","PG-13",106524,13501,106523
+395,"Saint John of Las Vegas","1/29/2010","IndieVest Pictures","?","R",102645,13010,102649
+396,"Waste Land","10/29/2010","Arthouse Films","Documentary","?",102454,12985,102452
+397,"Everyone Else","4/9/2010","Cinema Guild","Drama","?",102042,12933,102041
+398,"George A. Romero's Survival of the Dead","5/28/2010","Magnolia Pictures","Horror","R",101740,12895,101742
+399,"Freakonomics","10/1/2010","Magnolia Pictures","Documentary","PG-13",101270,12835,101268
+400,"The Good Guy","2/19/2010","Roadside Attractions","Romantic Comedy","R",100688,12761,100684
+401,"8: The Mormon Proposition","6/18/2010","?","Documentary","R",100280,12710,100282
+402,"Red Cliff","11/20/2009","Magnolia Pictures","Action","R",100206,12700,100203
+403,"Astro Boy","10/23/2009","Summit Entertainment","Adventure","PG",98708,12511,98712
+404,"Kings of the Evening","1/1/2010","Indican Pictures","Drama","PG",98124,12437,98128
+405,"I Spit on Your Grave","10/8/2010","Anchor Bay Entertainment","Horror","R",93051,11794,93055
+406,"Ishqiya","1/29/2010","Viva Entertainment","Thriller/Suspense","?",91468,11593,91469
+407,"The Loss of a Teardrop Diamond","12/30/2009","Paladin","Drama","?",90040,11412,90041
+408,"Crazy on the Outside","1/8/2010","Freestyle Releasing","Comedy","PG-13",88335,11196,88336
+409,"Khelein Hum Jee Jaan Sey","12/3/2010","Viva Entertainment","?","?",87846,11134,87847
+410,"Until the Light Takes Us","11/20/2009","Variance Films","?","?",84156,10666,84155
+411,"Feed the Fish","4/23/2010","Strand","Romantic Comedy","?",84085,10657,84084
+412,"The Maid","10/16/2009","Elephant Eye Films","Drama","?",83834,10625,83831
+413,"No One Knows About Persian Cats","4/16/2010","?","Drama","?",81768,10363,81764
+414,"Kisses","7/16/2010","Oscilloscope Pictures","?","?",81680,10352,81677
+415,"Waking Sleeping Beauty","3/26/2010","Walt Disney Pictures","Documentary","PG",80741,10233,80738
+416,"The Private Lives of Pippa Lee","11/27/2009","Screen Media Films","Drama","R",76158,9652,76154
+417,"Dogtooth","6/25/2010","Kino International","Drama","?",73849,9360,73850
+418,"Prodigal Sons","2/26/2010","First Run Features","?","?",73544,9321,73543
+419,"Le hérisson","3/12/2010","NeoClassics Films","Drama","?",73133,9269,73132
+420,"La siciliana ribelle","8/5/2010","Music Box Films","Drama","?",71239,9029,71239
+421,"Rosencrantz and Guildenstein are Undead","6/4/2010","Indican Pictures","Comedy","?",70563,8943,70560
+422,"Leaves of Grass","4/2/2010","?","Black Comedy","R",70066,8880,70063
+423,"Living in Emergency","6/4/2010","Bev Pictures","Documentary","?",69047,8751,69045
+424,"Budrus","10/8/2010","Balcony Releasing","Documentary","?",68353,8663,68351
+425,"2012: Time for Change","4/9/2010","Mangusta Productions","Drama","?",68339,8661,68335
+426,"John Rabe","5/21/2010","Strand","?","?",67519,8558,67523
+427,"Dulha Mil Gaya","1/8/2010","Viva Entertainment","Comedy","?",67511,8557,67515
+428,"Dancing Across Borders","3/26/2010","First Run Features","Documentary","?",66166,8386,66166
+429,"Racing Dreams","5/21/2010","Hannover House","Documentary","PG",65082,8249,65085
+430,"Killing Kasztner","10/23/2009","GR Films","?","?",64761,8208,64761
+431,"Biutiful","12/29/2010","Roadside Attractions","Drama","R",64672,8197,64674
+432,"Paranormal Activity","9/25/2009","Paramount Pictures","Horror","R",64214,8139,64217
+433,"Contracorriente","9/17/2010","The Film Collaborative","Drama","?",64159,8132,64161
+434,"Rush: Beyond the Lighted Stage","6/11/2010","?","Documentary","?",63696,8073,63696
+435,"Marwencol","10/8/2010","?","Documentary","?",63292,8022,63294
+436,"Teen Patti","2/26/2010","?","?","?",63151,8004,63152
+437,"Cool It","11/12/2010","Roadside Attractions","Documentary","PG",62713,7948,62710
+438,"Patrik, Age 1.5","8/14/2009","Here Films","Comedy","Not Rated",57060,7232,57060
+439,"God of Vampires","7/2/2010","Nocturnal Features","Action","?",56705,7187,56705
+440,"Looking for Eric","5/14/2010","IFC Films","?","?",55804,7073,55806
+441,"To the Sea","7/14/2010","Film Movement","Drama","?",55709,7061,55711
+442,"Amelia","10/23/2009","Fox Searchlight","Drama","PG",55434,7026,55435
+443,"Night Catches Us","12/3/2010","Magnolia Pictures","Drama","R",54914,6960,54914
+444,"The Nature of Existence","6/18/2010","Walking Shadows","Documentary","?",54645,6926,54646
+445,"The Lottery","6/11/2010","Variance Films","?","?",54543,6913,54544
+446,"Harlan: In the Shadow of Jew Suss","3/3/2010","Zeitgeist","?","?",54305,6883,54307
+447,"Strange Powers: Stephin Merritt and the Magnetic Fields","10/29/2010","Variance Films","Documentary","?",54152,6863,54149
+448,"Hatchet II","10/1/2010","Vitagraph Films","Horror","R",52604,6667,52603
+449,"Ca$h","3/26/2010","Roadside Attractions","Thriller/Suspense","?",46488,5892,46488
+450,"Enemies of the People","7/30/2010","International Film Circuit","Documentary","?",46463,5889,46464
+451,"35 Shots of Rum","9/18/2009","Cinema Guild","Drama","?",44756,5672,44752
+452,"Defendor","2/19/2010","?","Drama","R",44462,5635,44460
+453,"Cropsey","6/4/2010","?","Documentary","?",42392,5373,42393
+454,"The Oath","5/7/2010","Zeitgeist","?","?",42273,5358,42275
+455,"Queen of the Sun","9/17/2010","Collective Eye","Documentary","?",41895,5310,41896
+456,"Oscar et la dame Rose","2/26/2010","Alliance","?","?",41803,5298,41801
+457,"The Red Baron","3/19/2010","Monterey Media","Drama","PG-13",40789,5170,40791
+458,"Le dernier fugue","2/26/2010","United Artists","?","?",40249,5101,40247
+459,"44 Inch Chest","1/15/2010","Image Entertainment","?","?",39033,4947,39032
+460,"A Serious Man","10/2/2009","Focus Features","Comedy","R",38263,4850,38267
+461,"The Legend of Pale Male","11/26/2010","Balcony Releasing","Documentary","?",38083,4827,38085
+462,"L'armée du crime","8/20/2010","Lorber Films","Thriller/Suspense","?",37031,4693,37028
+463,"Boxing Gym","10/22/2010","Zipporah","Documentary","?",36812,4666,36815
+464,"District B13 - Ultimatum","2/5/2010","Magnolia Pictures","?","R",36136,4580,36136
+465,"Deadfall Trail","5/14/2010","Nocturnal Features","Horror","?",35855,4544,35852
+466,"Mystery Team","8/28/2009","Roadside Attractions","Comedy","R",35701,4525,35702
+467,"Bhutto","12/3/2010","First Run Features","Documentary","?",34963,4431,34961
+468,"Le Refuge","9/10/2010","Strand","Drama","?",34525,4376,34527
+469,"The Yes Men Fix the World","10/7/2009","Shadow","Documentary","?",34136,4326,34132
+470,"Bluebeard","3/26/2010","Strand","?","?",33490,4245,33493
+471,"Ahead of Time","9/10/2010","Vitagraph Films","Documentary","?",33024,4186,33028
+472,"Spoken Word","7/23/2010","Variance Films","Drama","?",32961,4178,32964
+473,"Videocracy","2/12/2010","Kino International","?","?",32790,4156,32791
+474,"William S. Burroughs: A Man Within","11/19/2010","Oscilloscope Pictures","Documentary","?",32608,4133,32609
+475,"In My Sleep","4/23/2010","Morning Star Pictures","Thriller/Suspense","PG-13",31858,4038,31860
+476,"180 South","5/21/2010","Magnolia Pictures","?","?",31745,4023,31741
+477,"The Sun","11/18/2009","Lorber Films","Drama","?",31738,4023,31741
+478,"Around a Small Mountain","7/9/2010","Cinema Guild","Comedy","?",31377,3977,31379
+479,"In Search of Memory","1/8/2010","Icarus Films","?","?",31052,3936,31055
+480,"Who is Harry Nilsson (and Why is Everybody Talkin' About Him)?","9/10/2010","Lorber Films","Documentary","?",30975,3926,30976
+481,"GasLand","9/15/2010","GasLand Productions","Documentary","?",30846,3910,30850
+482,"Valhalla Rising","7/16/2010","IFC Films","Action","?",30638,3883,30637
+483,"Dead Awake","12/3/2010","New Films Cinema","Thriller/Suspense","R",30600,3878,30597
+484,"The Trouble with Terkel","10/15/2010","Indican Pictures","Adventure","?",30042,3808,30045
+485,"Lbs.","3/26/2010","Truly Indie","Comedy","?",29866,3785,29864
+486,"Multiple Sarcasms","5/7/2010","?","?","R",29731,3768,29730
+487,"Two in the Wave","5/19/2010","Lorber Films","Documentary","?",28808,3651,28806
+488,"Expecting Mary","9/10/2010","Rocky Mountain Pictures","Comedy","PG",28700,3638,28704
+489,"[Rec] 2","7/9/2010","Magnolia Pictures","?","R",27766,3519,27765
+490,"Visual Acoustics","10/9/2009","Arthouse Films","?","?",27565,3494,27568
+491,"The Human Experience","4/9/2010","?","Documentary","PG-13",27170,3444,27173
+492,"Seraphine","6/5/2009","Music Box Films","?","?",26616,3373,26613
+493,"October Country","2/12/2010","International Film Circuit","Documentary","?",26185,3319,26187
+494,"Eyes Wide Open","2/5/2010","New American Vision","?","?",25846,3276,25848
+495,"The Exploding Girl","3/12/2010","Oscilloscope Pictures","Drama","?",25572,3241,25571
+496,"Here and There","5/14/2010","?","Comedy","?",24460,3100,24459
+497,"Henri-Georges Clouzot's Inferno","7/16/2010","?","Documentary","?",24328,3083,24325
+498,"Behind the Burly Q","4/23/2010","First Run Features","Documentary","?",23889,3028,23891
+499,"Saint Misbehavin': The Wavy Gravy Movie","12/3/2010","Argot Pictures","Documentary","?",23886,3027,23883
+500,"Pirate Radio","11/13/2009","Focus Features","Comedy","R",23352,2960,23354
+501,"Handsome Harry","4/16/2010","Paladin","Drama","R",22878,2900,22881
+502,"The Other City","9/17/2010","Cabin Films","Documentary","?",22539,2857,22542
+503,"Happy Tears","2/19/2010","Roadside Attractions","Drama","R",22464,2847,22463
+504,"Hemingways Garden of Eden","12/10/2010","Roadside Attractions","Drama","R",22083,2799,22084
+505,"And Everything is Going Fine","12/10/2010","IFC Films","Documentary","?",22080,2798,22076
+506,"Hugh Hefner: Playboy, Activist and Rebel","7/30/2010","Phase 4 Films","?","R",21878,2773,21879
+507,"Trash Humpers","5/7/2010","?","Comedy","?",21826,2766,21824
+508,"Daddy Longlegs","5/14/2010","IFC Films","Comedy","?",21766,2759,21769
+509,"Toe to Toe","2/26/2010","Strand","?","?",21648,2744,21650
+510,"The Good Heart","4/30/2010","Magnolia Pictures","Drama","?",20930,2653,20932
+511,"Douchebag","10/1/2010","Paladin","Comedy","?",20615,2613,20617
+512,"Prince of Broadway","9/3/2010","Elephant Eye Films","Drama","?",20450,2592,20451
+513,"The Korean","2/5/2010","Indican Pictures","Action","?",20279,2570,20277
+514,"Double Take","6/4/2010","Kino International","Documentary","?",20218,2562,20214
+515,"The Trial","9/10/2010","?","Drama","PG-13",19753,2504,19757
+516,"Guy and Madeline on a Park Bench","11/5/2010","Variance Films","Musical","?",19557,2479,19559
+517,"Neshoba: The Price of Freedom","8/13/2010","First Run Features","Documentary","?",19245,2439,19244
+518,"The People I've Slept With","8/13/2010","People Pictures","Romantic Comedy","?",19137,2425,19133
+519,"The Horse Boy","9/11/2009","Zeitgeist","Documentary","?",19117,2423,19117
+520,"Off and Running","1/29/2010","First Run Features","?","?",18262,2315,18265
+521,"Red Hill","11/5/2010","Sony Pictures","Thriller/Suspense","R",18224,2310,18226
+522,"Great Directors","7/2/2010","Paladin","?","?",17921,2271,17918
+523,"Bitch Slap","1/8/2010","Freestyle Releasing","Action","R",17365,2201,17366
+524,"Beetle Queen Conquers Tokyo","5/12/2010","Argot Pictures","Documentary","?",15930,2019,15930
+525,"Nine Nation Animation","9/29/2010","The World According to Shorts","Multiple Genres","?",15651,1984,15654
+526,"Shoah","12/10/2010","IFC Films","Documentary","?",15642,1983,15646
+527,"BoyBand","6/4/2010","Artigo Ajemian Films","Comedy","?",15628,1981,15630
+528,"Sama Wozu","12/24/2010","GKIDS","Adventure","PG-13",15623,1980,15622
+529,"American Radical: The Trials of Norman Finkelstein","2/12/2010","Typecast Releasing","?","?",15451,1958,15449
+530,"The End of Poverty?","11/13/2009","Cinema Libre","Documentary","?",15444,1957,15441
+531,"Paper Man","4/23/2010","MPI Media Group","Comedy","R",15389,1950,15386
+532,"Dreamkiller","2/19/2010","?","?","R",15318,1941,15314
+533,"Hey, Hey, It's Esther Blueburger","4/20/2010","Monterey Media","Comedy","PG-13",15222,1929,15220
+534,"Four Seasons Lodge","11/11/2009","?","?","?",15055,1908,15054
+535,"The Wedding Song","10/9/2009","Strand","?","?",14542,1843,14541
+536,"The Beaches of Agnes","7/1/2009","Cinema Guild","Documentary","?",14523,1841,14525
+537,"Revanche","5/1/2009","Janus Films","Drama","?",13918,1764,13918
+538,"Don McKay","4/2/2010","?","?","R",13722,1739,13721
+539,"Le combat dans l'île","6/12/2009","The Film Desk","Thriller/Suspense","?",13632,1728,13634
+540,"Jim","10/8/2010","Area23a","Drama","?",13015,1650,13019
+541,"The Living Wake","5/14/2010","Mangusta Productions","?","PG-13",12232,1550,12230
+542,"The Kids Grow Up","10/29/2010","?","Documentary","?",12095,1533,12095
+543,"After the Cup: Sons of Sakhnin United","5/21/2010","Variance Films","Documentary","?",12085,1532,12087
+544,"Violet Tendencies","11/5/2010","Embrem Entertainment","Comedy","?",11863,1503,11859
+545,"Picture Me: A Model's Diary","9/17/2010","?","Documentary","?",11848,1502,11851
+546,"The Dry Land","7/30/2010","Freestyle Releasing","Drama","R",11777,1493,11780
+547,"White Wedding","9/3/2010","The Little Film Company/Dada Films","Comedy","PG-13",11711,1484,11709
+548,"Salt of This Sea","8/13/2010","Lorber Films","Drama","?",11662,1478,11661
+549,"16 to Life","9/3/2010","Waterdog Films","Romantic Comedy","?",11574,1467,11575
+550,"Cherry","10/8/2010","?","Drama","R",11362,1440,11362
+551,"Children of Invention","3/12/2010","The Kids Are Alright Productions/Variance Films","?","?",11183,1417,11180
+552,"Good Hair","10/9/2009","Roadside Attractions","Documentary","PG-13",11053,1401,11054
+553,"The Damned United","10/9/2009","Sony Pictures Classics","Drama","R",11029,1398,11030
+554,"The Two Escobars","8/27/2010","All Rise Films","Documentary","?",10942,1387,10943
+555,"Frankie and Alice","12/10/2010","Freestyle Releasing","Drama","R",10671,1352,10667
+556,"Terkel in Trouble","3/26/2010","Indican Pictures","?","?",10579,1341,10580
+557,"Waiting for Armageddon","1/8/2010","First Run Features","?","?",10501,1331,10502
+558,"Spring Fever","6/4/2010","Strand","Drama","?",10478,1328,10478
+559,"The Milk of Sorrow","8/27/2010","Olive Films","Drama","?",10462,1326,10462
+560,"O Estranho Caso de Angélica","12/31/2010","Cinema Guild","Drama","?",10433,1322,10431
+561,"GhettoPhysics: Will the Real Pimps and Ho's Please Stand Up?","10/8/2010","Samuel Goldwyn Films","Documentary","R",10087,1278,10083
+562,"Circle","8/27/2010","Indican Pictures","?","?",10024,1270,10020
+563,"Down Terrace","10/15/2010","Magnolia Pictures","Black Comedy","R",9812,1244,9815
+564,"Lourdes","2/17/2010","Pallisades Tartan","Drama","?",9408,1192,9405
+565,"The Taqwacores","10/22/2010","Strand","Drama","?",9347,1185,9350
+566,"Wonderful World","1/8/2010","Magnolia Pictures","Drama","R",9309,1180,9310
+567,"Broderskab","8/6/2010","Olive Films","Drama","?",8979,1138,8979
+568,"Shanghai Red","1/1/2010","Indican Pictures","Thriller/Suspense","?",8734,1107,8734
+569,"The Freebie","9/17/2010","Phase 4 Films","Romantic Comedy","R",8300,1052,8300
+570,"Youssou N'Dour: I Bring What I Love","6/12/2009","Shadow","Documentary","Not Rated",7991,1013,7993
+571,"Stolen","3/12/2010","IFC Films","?","R",7943,1007,7945
+572,"The Cove","7/31/2009","Roadside Attractions","Documentary","PG-13",7934,1006,7937
+573,"Mugabe and the White African","7/23/2010","First Run Features","Documentary","?",7924,1004,7922
+574,"The Missing Person","11/20/2009","Strand","?","?",7874,998,7874
+575,"It's a Bash!","4/30/2010","?","Documentary","?",7839,994,7843
+576,"Oy Vey! My Son is Gay!","12/24/2010","?","?","PG-13",7578,960,7574
+577,"Tales From the Script","3/12/2010","First Run Features","?","?",7535,955,7535
+578,"Udaan","7/16/2010","UTV Communications","?","?",7461,946,7464
+579,"The Thorn in the Heart","4/2/2010","Oscilloscope Pictures","Documentary","?",7376,935,7377
+580,"Happiness Runs","5/7/2010","Strand","Drama","?",7199,912,7196
+581,"Only When I Dance","7/2/2010","Film Movement","Documentary","?",7150,906,7148
+582,"Logan","9/10/2010","Real Bean Entertainment","Drama","?",7137,905,7140
+583,"Misconceptions","1/22/2010","Regent Releasing","Comedy","?",6892,874,6896
+584,"Crude","9/11/2009","First Run Features","Documentary","?",6878,872,6880
+585,"Amreeka","9/4/2009","National Geographic Entertainment","?","PG-13",6818,864,6817
+586,"Finding Bliss","6/4/2010","?","?","R",6783,860,6785
+587,"Mercy","4/30/2010","IFC Films","Drama","R",6780,859,6778
+588,"The Last New Yorker","2/19/2010","Brink Film","Drama","?",6607,837,6604
+589,"The Cartel","4/16/2010","?","Documentary","?",6569,833,6572
+590,"Dream Boy","3/26/2010","Regent Releasing","?","?",6534,828,6533
+591,"Under Our Skin","6/17/2009","Shadow","?","?",6526,827,6525
+592,"Watercolors","1/22/2010","Regent Releasing","Drama","?",6305,799,6304
+593,"The Box","11/6/2009","Warner Bros.","Thriller/Suspense","PG-13",6301,799,6304
+594,"Brutal Beauty: Tales of the Rose City Rollers","1/8/2010","Cinema Purgatorio","Documentary","?",6280,796,6280
+595,"Storm","10/30/2009","Film Movement","Drama","?",6152,780,6154
+596,"Phyllis and Harold","2/19/2010","Rainbow Releasing","Documentary","?",5992,759,5989
+597,"BearCity","10/22/2010","TLA Releasing","Romantic Comedy","?",5980,758,5981
+598,"Departures","5/29/2009","Regent Releasing","Drama","PG-13",5800,735,5799
+599,"For My Father","1/29/2010","Film Movement","Drama","?",5729,726,5728
+600,"Midnight Reckoning","9/10/2010","Winter Star Entertainment","Thriller/Suspense","?",5673,719,5673
+601,"Home","11/27/2009","Lorber Films","Drama","?",5517,699,5515
+602,"Nanette","12/22/2010","Kino International","Documentary","?",5450,691,5452
+603,"Whiz Kids","6/4/2010","Shadow","Documentary","?",5386,683,5389
+604,"Beeswax","8/7/2009","Cinema Guild","Comedy","?",5151,653,5152
+605,"The Winning Season","9/3/2010","Roadside Attractions","Comedy","PG-13",5000,634,5002
+606,"Cosa Voglio Di Piu","12/3/2010","Film Movement","Drama","?",4998,633,4994
+607,"Police, Adjective","12/23/2009","?","?","?",4908,622,4908
+608,"Hadewijch","12/24/2010","IFC Films","Drama","?",4603,583,4600
+609,"The Headless Woman","8/19/2009","Strand","Drama","?",4502,571,4505
+610,"Cloud Nine","8/14/2009","?","?","?",4297,545,4300
+611,"Inhale","10/22/2010","IFC Films","Thriller/Suspense","R",4115,522,4119
+612,"Zenith","10/1/2010","Cinema Purgatorio","Thriller/Suspense","?",4051,513,4048
+613,"Kimjongilia","3/19/2010","Kino International","?","?",3987,505,3984
+614,"Just Say Love","3/26/2010","Regent Releasing","?","?",3944,500,3945
+615,"Heartless","11/19/2010","IFC Films","Horror","?",3697,469,3700
+616,"Big Fan","8/28/2009","First Independent Pictures","Comedy","R",3666,465,3669
+617,"Smash His Camera","7/30/2010","Magnolia Pictures","Documentary","PG-13",3644,462,3645
+618,"American Grindhouse","6/18/2010","Lorber Films","Documentary","?",3598,456,3598
+619,"Det rode kapel","12/29/2010","Lorber Films","Documentary","?",3539,449,3543
+620,"The September Issue","8/28/2009","Roadside Attractions","Documentary","PG-13",3517,446,3519
+621,"Speed-Dating","6/4/2010","Rockstone Releasing","Romantic Comedy","R",3394,430,3393
+622,"Murder in Fashion","1/22/2010","Regent Releasing","Drama","?",3346,424,3345
+623,"My Year Without Sex","3/12/2010","Strand","Comedy","?",3119,395,3117
+624,"Altiplano","8/20/2010","First Run Features","Drama","?",3063,388,3061
+625,"Order of Chaos","2/12/2010","?","?","R",3054,387,3053
+626,"Bliss","8/7/2009","First Run Features","Drama","?",2856,362,2856
+627,"Eichmann","10/29/2010","Regent Releasing","Drama","?",2706,343,2706
+628,"Helena From the Wedding","11/12/2010","Film Movement","Drama","?",2692,341,2690
+629,"Boogie Woogie","4/23/2010","IFC Films","Black Comedy","R",2618,332,2619
+630,"The Slammin' Salmon","12/11/2009","Anchor Bay Entertainment","Comedy","R",2510,318,2509
+631,"Daniel y Ana","8/27/2010","Strand","Drama","?",2372,301,2375
+632,"El Súperstar: The Unlikely Rise of Juan Francés","9/17/2010","Cinema Libre","Comedy","?",2330,295,2328
+633,"You Won't Miss Me","12/10/2010","Reel Diva Consultants","Drama","?",2240,284,2241
+634,"Flickan","9/17/2010","Olive Films","Drama","?",2201,279,2201
+635,"Sweethearts of the Prison Rodeo","9/17/2010","Cinema Purgatorio","Documentary","?",2198,279,2201
+636,"Fallen Idol: The Yuri Gagarin Conspiracy","10/2/2009","Indican Pictures","Documentary","?",2126,269,2122
+637,"Nobody's Perfect","4/16/2010","Lorber Films","Documentary","?",2122,269,2122
+638,"White On Rice","9/11/2009","Variance Films","Romantic Comedy","PG-13",1985,252,1988
+639,"As Good as Dead","10/8/2010","Millenium Films","Thriller/Suspense","R",1981,251,1980
+640,"Falling Awake","1/29/2010","IFC Films","Drama","R",1978,251,1980
+641,"The Temptation of St. Tony","9/17/2010","Olive Films","Drama","?",1963,249,1965
+642,"A Mother's Courage: Talking Back to Autism","9/24/2010","First Run Features","Documentary","?",1916,243,1917
+643,"45365","2/26/2010","7th Art Releasing","Documentary","?",1909,242,1909
+644,"Gigante","12/30/2009","Film Movement","?","?",1862,236,1862
+645,"Clear Blue Tuesday","9/3/2010","CAVU Releasing","Musical","?",1780,226,1783
+646,"Manuela and Manuel","3/26/2010","Regent Releasing","?","?",1582,201,1586
+647,"Carmo","10/15/2010","First Run Features","Drama","?",1512,192,1515
+648,"Carbon Nation","5/7/2010","?","Documentary","?",1470,186,1468
+649,"Endgame","11/6/2009","Monterey Media","Drama","PG-13",1407,178,1404
+650,"Drool","1/22/2010","Strand","?","?",1403,178,1404
+651,"Trucker","10/9/2009","Monterey Media","Drama","R",1237,157,1239
+652,"Harimaya Bridge, The","3/12/2010","Eleven Arts","Drama","?",1226,155,1223
+653,"Convention","6/4/2010","IFC Films","?","?",1220,155,1223
+654,"Suck","9/28/2010","Self Distributed","?","R",1167,148,1168
+655,"Yoo-Hoo, Mrs. Goldberg","7/10/2009","International Film Circuit","Documentary","Not Rated",961,122,963
+656,"Perrier's Bounty","5/21/2010","?","?","R",828,105,828
+657,"Shall We Kiss?","3/27/2009","Music Box Films","Romantic Comedy","Not Rated",814,103,813
+658,"Daddy's Home","9/10/2010","Self Distributed","Thriller/Suspense","?",796,101,797
+659,"Peter and Vandy","10/9/2009","Strand","?","?",734,93,734
+660,"Shake Hands with the Devil","10/29/2010","Regent Releasing","Drama","?",594,75,592
+661,"$9.99","6/19/2009","Regent Releasing","Comedy","R",544,69,544
+662,"Breakfast with Scot","10/10/2008","Regent Releasing","Drama","PG-13",477,60,473
+663,"The Magician","10/29/2010","Regent Releasing","Black Comedy","?",406,51,402
+664,"The Wonder of it All","7/17/2009","Indican Pictures","?","?",355,45,355
+665,"Tru Loved","10/17/2008","Regent Releasing","Romantic Comedy","R",275,35,276
+666,"Glorious Exit","1/15/2010","ArtMattan Productions","?","?",245,31,245
+667,"Bolt","11/21/2008","Walt Disney Pictures","Comedy","PG",180,23,181
+668,"To Die is Hard","12/17/2010","Driving With Our Eyes Shut","Comedy","?",112,14,110
+669,"The Blue Tooth Virgin","9/25/2009","Regent Releasing","?","?",68,9,71
+670,"From Mexico with Love","10/9/2009","Roadside Attractions","Drama","PG-13",12,2,16
