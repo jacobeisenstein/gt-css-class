@@ -1,5 +1,6 @@
 Project 1: Social network analysis
 ----------
 
-This project will involve social network analysis on 
-[GDELT: The Global Database of Events, Language, and Tone](http://gdelt.utdallas.edu/).
+- The project is described in the [iPython notebook file](Project1.ipynb)
+- You will also need to get the [data](gdelt.tgz)
+- The project is due **February 21 at 5pm**. Draconian late penalties will be applied.
