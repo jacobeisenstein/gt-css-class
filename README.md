@@ -88,7 +88,7 @@ E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell
 + February 21. [Project 1](Project1.md) due at 5pm.
 + February 25. No class. Watch [Probabilistic topic models](http://techtalks.tv/talks/probabilistic-topic-models/57678/) by Blei and [The impression of influence](http://www.youtube.com/watch?v=2Oym-Z1M3W4) by Grimmer. Reading: [You Are What You Tweet: Analyzing Twitter for Public Health](http://www.cs.jhu.edu/~mdredze/publications/twitter_health_icwsm_11.pdf)‎by Paul and Dredze, 2011.
 You can optionally watch a whole course on Bayesian Generative Models (which generalize topic models) [here](http://techtalks.tv/talks/bayesian-generative-modelling-part-1/54782/).
-+ February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](Hierarchical relational models for document networks) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) 
++ February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) 
 + February 28. **Drop deadline**. [Project 2](Project2.md) out.
 
 **Week 9: Memes, text reuse, and censorship**
