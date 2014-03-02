@@ -1,5 +1,7 @@
 Project 2: Content analysis
 ----------
 
-This project will involve text analysis on a text dataset, likely the
-[Cornell Movie Dialogs corpus](http://www.mpi-sws.org/~cristian/Cornell_Movie-Dialogs_Corpus.html).
+This project involves text analysis on a corpus of messages from political subreddits. 
+
+- [Notebook](Project 2.ipynb?view=raw)
+- [Socialism](socialism.txt)
