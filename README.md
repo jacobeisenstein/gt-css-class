@@ -90,11 +90,11 @@ E&K refers to the textbook [Networks, Crowds, and Markets](http://www.cs.cornell
 You can optionally watch a whole course on Bayesian Generative Models (which generalize topic models) [here](http://techtalks.tv/talks/bayesian-generative-modelling-part-1/54782/).
 + February 27. Topics and networks. Reading: [Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) by Chang and Blei, 2010. (Warning: mathy! It's okay if you can't follow all of section 3, but do make sure you read and understand the rest of the paper.) 
 + February 28. **Drop deadline**. [Project 2](Project2.md) out.
++ March 4. Catch up on applications of topic models.
 
 **Week 9: Memes, text reuse, and censorship**
-+ March 4. Reading: [Meme-tracking and the dynamics of the news cycle](http://snap.stanford.edu/class/cs224w-readings/leskovec09meme.pdf) by Leskovec, Backstrom, and Kleinberg, 2009. 
-+ March 6. Reading: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
-[Tracing the flow of policy ideas in legislatures](http://www.kenbenoit.net/pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf) by Wilkerson, Smith, and Stramp, 2013. 
++ March 6. Memes and censorship. Reading: [Meme-tracking and the dynamics of the news cycle](http://snap.stanford.edu/class/cs224w-readings/leskovec09meme.pdf) by Leskovec, Backstrom, and Kleinberg, 2009. 
+[Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
 
 ### Part 3: Methods ###
 
@@ -148,6 +148,8 @@ There are many, many more interesting papers than what we can cover in this clas
 + [Lexical and hierarchical topic regression](http://www.umiacs.umd.edu/~jbg/docs/2013_shlda.pdf) by Nguyen et al, 2013.
 + [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013.
 + [Can machines learn to predict a violent conflict?](http://www.theglobalobservatory.org/analysis/633-can-machines-learn-to-predict-a-violent-conflict.html?utm_content=buffer72e84&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer) by Chris Perry, 2013.
++ [Tracing the flow of policy ideas in legislatures](http://www.kenbenoit.net/pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf) 
+by Wilkerson, Smith, and Stramp, 2013.  Application of IR techniques to track text reuse within US bills and laws.
 
 **Social media**
 + [What is Twitter, a social network or a news media?](http://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) by Kwak et al, 2010. An early look at the structural properties of Twitter.
