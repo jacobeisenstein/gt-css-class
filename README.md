@@ -100,7 +100,7 @@ You can optionally watch a whole course on Bayesian Generative Models (which gen
 
 **Week 10: Time series and elections**
 + March 11. Reading: [Predicting the present](http://www.google.com/googleblogs/pdfs/google_predicting_the_present.pdf) by Choi and Varian ([video](http://www.youtube.com/watch?v=0OfKJWydzr0)). [From tweets to polls](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842) by O'Connor et al., 2010.
-+ March 13. Reading: [More tweets, more votes](http://brenocon.com/tweet_share_elex_analysis_of.../SSRN-id2235423.pdf) by Joseph DiGrazia et al, 2013.
++ March 13. Reading: [More tweets, more votes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079449) by Joseph DiGrazia et al, 2013.
 	[How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
 + March 17. [Project 2](Project2.md) due at 11:59pm.
 
