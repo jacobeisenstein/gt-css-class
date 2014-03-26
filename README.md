@@ -106,7 +106,7 @@ You can optionally watch a whole course on Bayesian Generative Models (which gen
 
 **Weeks 11 and 12: Observational and experimental studies**
 + March 25. Reading: [Linguistic Diversity and Traffic Accidents](http://www.plosone.org/article/authors/info%3Adoi%2F10.1371%2Fjournal.pone.0070902). Roberts and Winters, 2013. [Blog post](http://www.replicatedtypo.com/uncovering-spurious-correlations-between-language-and-culture/6396.html)
-+ March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; [Distinguishing contagion and homophily](http://www.pnas.org/content/106/51/21544.full) by Aral and Muchnik, 2012.
++ March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; 
 + April 1. [Final project](Project3.md) proposal presentations and discussion.
 + April 3. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al, 2013. 
 + April 4. [Final project](Project3.md) proposals due at 5pm.
@@ -171,6 +171,7 @@ by Wilkerson, Smith, and Stramp, 2013.  Application of IR techniques to track te
 + [Topic-partitioned multinetwork embeddings](http://people.cs.umass.edu/~wallach/publications/krafft12topic-partitioned.pdf) by Krafft et al, 2012.
 + [Topicflow model: Unsupervised learning of topic-specific influences of hyperlinked documents](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_NallapatiMM11.pdf) by Nallapati et al, 2011.
 + [Structure and tie strength in mobile communication networks](http://www.hks.harvard.edu/davidlazer/files/papers/Lazer_PNAS_2007.pdf) by Onnela et al, 2007.
++ [Distinguishing contagion and homophily](http://www.pnas.org/content/106/51/21544.full) by Aral and Muchnik, 2012.
 
 **Public health**
 + [Drug extraction from the web: Summarizing drug experiences with multi-dimensional topic models](http://www.aclweb.org/anthology/N/N13/N13-1017.pdf) by Paul and Dredze, 2013. [video](http://techtalks.tv/talks/summarizing-drug-experiences-with-multi-dimensional-topic-models/58445/)
