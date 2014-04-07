@@ -109,12 +109,12 @@ You can optionally watch a whole course on Bayesian Generative Models (which gen
 + March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; 
 + April 1. [Final project](Project3.md) proposal presentations and discussion.
 + April 3. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al, 2013. 
-+ April 4. [Final project](Project3.md) proposals due at 5pm.
++ April 6. [Final project](Project3.md) proposals due at 5pm.
 
 ### Part 4: Applications ###
 
 + April 8. **Economics**. Reading: [Twitter mood predicts the stock market](http://arxiv.org/pdf/1010.3003.pdf?iframe=true&width=90%25&height=90%25) by Bollen, Mao, and Zeng, 2011... or [does it?](http://sellthenews.tumblr.com/post/21067996377/noitdoesnot). The blogpost mentions the Bonferroni correction for multiple comparison, which is best motivated by [this XKCD cartoon](http://xkcd.com/882/).
-+ April 10. **Psychology**. Reading: [Predicting Postpartum Changes in Emotion and Behavior via Social Media](http://research.microsoft.com/en-us/um/people/munmund/pubs/chi_13.pdf) by De Choudhury, Counts, and Horvitz (2013). [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
++ April 10. **Psychology**. Reading: [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
 + April 15. **Interpersonal dynamics**. Reading: [Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation](www.stanford.edu/~jurafsky/191.pdf)
 by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 [Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
@@ -177,6 +177,7 @@ by Wilkerson, Smith, and Stramp, 2013.  Application of IR techniques to track te
 + [Drug extraction from the web: Summarizing drug experiences with multi-dimensional topic models](http://www.aclweb.org/anthology/N/N13/N13-1017.pdf) by Paul and Dredze, 2013. [video](http://techtalks.tv/talks/summarizing-drug-experiences-with-multi-dimensional-topic-models/58445/)
 + [Towards detecting influenza epidemics by analyzing Twitter messages](http://snap.stanford.edu/soma2010/papers/soma2010_16.pdf) by Culotta, 2010.
 + [A Generative Joint, Additive, Sequential Model of Topics and Speech Acts in Patient-Doctor Communication](http://www.newdesign.aclweb.org/anthology/D/D13/D13-1182.pdf) by Wallace et al, 2013.
++ [Predicting Postpartum Changes in Emotion and Behavior via Social Media](http://research.microsoft.com/en-us/um/people/horvitz/predicting_postpartum_changes_chi_2013.pdf) by De Choudhury, Counts, and Horvitz (2013).
 
 Related classes
 ----
