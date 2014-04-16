@@ -163,7 +163,8 @@ by Wilkerson, Smith, and Stramp, 2013.  Application of IR techniques to track te
   [Sparse Additive Generative Models of Text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf)
   (Eisenstein et al, 2011) is simpler and better.
 + [Simple supervised document geolocation with geodesic grids](http://hnk.ffzg.hr/bibl/acl2011/Long/pdf/ACL-HLT2011096.pdf) by Wing and Baldridge, 2011.
-+ [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2014. Contact me for a preprint.
++ [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. A very reasonable model and dataset for gender prediction.
++ [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2014. A computationally-informed critique of gender prediction. Contact me for a preprint.
 
 **Networks**
 + Chapters 13 and 14 of E&K explain PageRank and hubs and authorities in networks. The focus is on the web, but 14.5 describes very cool applications to legal citation analysis.
