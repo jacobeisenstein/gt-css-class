@@ -119,7 +119,8 @@ You can optionally watch a whole course on Bayesian Generative Models (which gen
 by Jurafsky et al, 2009. Shows use of prosodic features (tone of voice).
 [Utterance-Level Multimodal Sentiment Analysis](http://ict.usc.edu/pubs/Utterance-Level%20Multimodal%20Sentiment%20Analysis.pdf) by Perez-Rosas, Mihalcea, and Morency, 2013.
 + April 17. **Social media analysis**. Reading: [Who says what to whom on Twitter](http://labs.yahoo.com/files/twitter-flow.pdf) by Wu et al, 2011. [What to do about bad language on the internet](http://www.cc.gatech.edu/~jeisenst/papers/naacl2013-badlanguage.pdf) by Eisenstein, 2013.
-+ April 22. **Predicting things about authors**. Reading: [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2014 (in review).
++ April 22. **Predicting propagation of text**. Reading:
+[Wording effects message propagation](http://chenhaot.com/pages/wording-for-propagation.html) by Tan et al, 2014. [RT to Win!](http://homepages.inf.ed.ac.uk/miles/papers/icwsm11.pdf) by Petrovic et al, 2011.
 + April 24. [Final project](Project3.md) presentions.
 
 ### Additional readings ###
@@ -162,6 +163,7 @@ by Wilkerson, Smith, and Stramp, 2013.  Application of IR techniques to track te
   [Sparse Additive Generative Models of Text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf)
   (Eisenstein et al, 2011) is simpler and better.
 + [Simple supervised document geolocation with geodesic grids](http://hnk.ffzg.hr/bibl/acl2011/Long/pdf/ACL-HLT2011096.pdf) by Wing and Baldridge, 2011.
++ [Discriminating gender on Twitter](http://dl.acm.org/citation.cfm?id=2145568) by Burger et al, 2011. [Gender identity and lexical variation in social media]() by Bamman, Eisenstein, and Schnoebelen, 2014. Contact me for a preprint.
 
 **Networks**
 + Chapters 13 and 14 of E&K explain PageRank and hubs and authorities in networks. The focus is on the web, but 14.5 describes very cool applications to legal citation analysis.
