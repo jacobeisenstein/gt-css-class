@@ -27,6 +27,16 @@ Your proposal should include the following elements:
 
 These points are adapted from a guide from how to write grant proposals. In a way, the goal of your project proposal is to convince me to give you the "green light" for your project. Your proposal should convince me that you have a clear plan, an understanding of prior work, the necessary resources for success, and metrics that will measure whether the project is a success or failure.
 
+The project proposal presentation is worth three points; the proposal itself is worth five points.
+
 # Final presentation #
 
+Aim to talk for seven minutes about your work (this means you should have 5-7 slides). Remind us what problem you are trying to solve, and why it matters. Explain what you did, and whether it works; while you have roughly 24 more hours before submitting the writeup, you should aim to have your experiments done by the time of the presentation.
+
+(Five points)
+
 # Project report #
+
+(Seventeen points)
+
+More on this soon.
