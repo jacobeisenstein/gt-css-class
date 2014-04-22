@@ -108,7 +108,7 @@ You can optionally watch a whole course on Bayesian Generative Models (which gen
 + March 25. Reading: [Linguistic Diversity and Traffic Accidents](http://www.plosone.org/article/authors/info%3Adoi%2F10.1371%2Fjournal.pone.0070902). Roberts and Winters, 2013. [Blog post](http://www.replicatedtypo.com/uncovering-spurious-correlations-between-language-and-culture/6396.html)
 + March 27. Reading: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; 
 + April 1. [Final project](Project3.md) proposal presentations and discussion.
-+ April 3. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Marlowe et al, 2013. 
++ April 3. Reading: E&K ch 20-20.6 (20.7 is optional);  [A 61-million-person experiment](http://www.nature.com/nature/journal/v489/n7415/abs/nature11421.html) by Bond et al, 2013. 
 + April 6. [Final project](Project3.md) proposals due at 5pm.
 
 ### Part 4: Applications ###
