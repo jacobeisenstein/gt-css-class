@@ -10,5 +10,7 @@ This includes:
 + Applications to political science, sociolinguistics, sociology,
 psychology, economics, and public health.
 
-- The Spring 2015 syllabus is currently in progress. The 2014 syllabus is [here](Syllabus2014.md).
+**Time and place**: 3:05-4:25 PM on Monday and Wednesday, in Burger-Henry 380.
+
+- The Spring 2015 syllabus is currently in progress. The 2014 syllabus is [here](Syllabus2014.md). Significant changes will be made for 2015.
 - You can request overload registration by filling out [this form](http://goo.gl/forms/QaWxRhgVeE).
