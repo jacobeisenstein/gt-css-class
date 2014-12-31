@@ -12,6 +12,8 @@ We will cover basic probability and statistics, including random events, probabi
 
 - **Reading**: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
 
+Also see: - [Nice graphs of confidence intervals](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
+
 ## 1/12: Regression ##
 
 - **Reading**: [Notes on regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf), sections 1, 3, and 5;
@@ -23,6 +25,7 @@ We will cover basic probability and statistics, including random events, probabi
 
 - **Reading**: [A computational approach to politeness](http://www.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf) by Cristian Danescu-Nicolescu-Mizil et al, 2013.
 [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Domingos, 2012.
+- **[Problem set 1](psets/ps1.md)** out. Due January 23.
 
 ## 1/19: No class ##
 
@@ -31,6 +34,7 @@ We will cover basic probability and statistics, including random events, probabi
 - **Reading**: [Data carpentry](http://www.mimno.org/articles/carpentry/);
 [Text as data](http://stanford.edu/~jgrimmer/tad2.pdf) sections 2-4;
 [Detecting and modeling local text reuse](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf).
+- **[Problem set 1](ps1.md)** due on January 23.
 
 # Part 2: Network Analysis #
 
@@ -55,6 +59,8 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 ## 2/16: No class ##
 
+- **[Problem set 2](psets/ps2.md)** out. Due Feb 27 at 5pm.
+
 ## 2/18: Signed social networks ##
 
 - **Reading**: E&K chapter 5
@@ -62,10 +68,13 @@ In this section of the course, monday readings will be drawn from the textbook [
 ## 2/23: Signed social networks in social media and literature ##
 
 - **Reading**: [Signed networks in social media](http://cs.stanford.edu/~jure/pubs/triads-chi10.pdf);
+- **Supplemental reading**:
+["You’re Mr. Lebowski, I’m the Dude": Inducing Address Term Formality in Signed Social Networks](http://arxiv.org/abs/1411.4351)
 
 ## 2/25: Statistical models of networks ##
 
 - **Reading**: [A survey of statistical network models](arxiv.org/pdf/0912.5410), sections 2-3.8.
+- **[Problem set 2](psets/ps2.md)** due on Feb 27 at 5pm.
 
 # Part 3: Text #
 
@@ -74,24 +83,35 @@ In this section of the course, monday readings will be drawn from the textbook [
 - **Monday reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
 - **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012.
 
+Nice graphs
+- [Fairness versus freedom](https://fivethirtyeight.com/datalab/fairness-vs-freedom-is-politics-going-back-to-the-1970s/)
+
 ## 3/9 and 3/11: Text classification and regression ##
 
 - **Monday reading**: [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert, 2012.
 - **Wednesday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn.
-- **Supplemental reading**
+- **Supplemental reading**: [Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf); [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf);
+[Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
+- **[Problem set 3](psets/ps3.md)** out on Monday 3/9, due 3/27.
 
 ## 3/16 and 3/18: No class, spring break ##
 
 ## 3/23 and 3/25: Topic models ##
 
 - **Monday reading**:
+[Statistical models](http://www.cs.columbia.edu/~blei/fogm/lectures/modeling.pdf);
+[Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by Blei, 2012.
 - **Wednesday reading**:
+
+- **Supplemental reading**: [Probabilistic topic models](http://www.jaist.ac.jp/~bao/VIASM-SML/SMLreading/TopicModel-Steyvers.pdf) by Steyvers and Griffiths, which has details on collapsed Gibbs sampling for inference; [Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073791).
+- **[Problem set 3](psets/ps3.md)** due 3/27 at 5pm.
 
 ## 3/30 and 4/1: Topic models and metadata ##
 
-- **Monday reading**
-- **Wednesday reading**
+- **Monday reading**: [Topic and Role Discovery in Social Networks...](http://www.aaai.org/Papers/JAIR/Vol30/JAIR-3007.pdf)
+- **Wednesday reading**:
 - **Supplemental reading**: [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013.
+- [Final project](psets/indie.md) proposal due Friday 4/3 at 5pm.
 
 ## 4/6 and 4/8: Joint models of networks and text ##
 
@@ -103,7 +123,8 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 # Part 4: Final projects #
 
-## 4/13 and 4/14: Final project check-ins ##
+## 4/13 and 4/15: Final project check-ins ##
 
 ## 4/20: Final project presentations ##
 ## 4/22: Contemporary topics in computational social science ##
+## 4/24: Final project writeups due at 5pm ##
