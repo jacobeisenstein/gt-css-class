@@ -29,7 +29,7 @@ We will cover basic probability and statistics, including random events, probabi
 ## 1/21: Data processing ##
 
 - **Reading**: [Data carpentry](http://www.mimno.org/articles/carpentry/);
-[Text-as-data](http://stanford.edu/~jgrimmer/tad2.pdf) sections 1-4;
+[Text as data](http://stanford.edu/~jgrimmer/tad2.pdf) sections 2-4;
 [Detecting and modeling local text reuse](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf).
 
 # Part 2: Network Analysis #
