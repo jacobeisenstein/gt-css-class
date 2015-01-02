@@ -11,8 +11,9 @@ In this section, we will use contemporary research papers to get up to speed on 
 
 We will cover basic probability and statistics, including random events, probability mass functions, cumulative distribution functions, and hypothesis testing.
 
-- **Reading**: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
-- Also see: [Nice graphs of confidence intervals](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
+- **Reading**: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169), by Bamman, O'Connor, and Smith, sections 1-4;
+- **Also see**: [Ages and names](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/).
+- **Optional catch-up reading**: [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 1, 2, 3, 5, and 7
 
 ## 1/12: Regression and correlation ##
 
