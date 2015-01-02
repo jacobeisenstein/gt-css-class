@@ -6,6 +6,10 @@ In this section, we will use contemporary research papers to get up to speed on 
 
 - **Reading**: [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al; [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) by boyd and Crawford, 2011.
 
+Also see:
+
+- The view from the other side: [perspectives on computational sociology](http://orgtheory.wordpress.com/2015/01/02/building-computational-sociology-from-the-academic-side/#comments) from Fabio Rojas. Good comments, too.
+
 ## 1/7: Counting random events ##
 
 We will cover basic probability and statistics, including random events, probability mass functions, cumulative distribution functions, and hypothesis testing.
