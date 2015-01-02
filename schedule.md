@@ -12,7 +12,8 @@ We will cover basic probability and statistics, including random events, probabi
 
 - **Reading**: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169) by Bamman, O'Connor, and Smith, 2012.
 
-Also see: - [Nice graphs of confidence intervals](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
+Also see:
+- [Nice graphs of confidence intervals](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
 
 ## 1/12: Regression ##
 
@@ -20,6 +21,9 @@ Also see: - [Nice graphs of confidence intervals](https://fivethirtyeight.com/fe
 [More tweets, more votes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079449) by Joseph DiGrazia et al, 2013; [How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
 - **Supplemental reading**: [The cost of racial animus...](http://static.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf)
 - **Optional catch-up reading**: [Think stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 4 and 8.
+
+Also see:
+- [This Vox piece](http://www.vox.com/2014/12/1/7311417/race-law-controls)  by Ezra Klein on the use of controls in studies of racial and gender discrimination.
 
 ## 1/14: Classification ##
 
