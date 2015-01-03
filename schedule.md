@@ -17,14 +17,14 @@ In this section, we will use contemporary research papers to get up to speed on 
 We will cover basic probability and statistics, including random events, probability mass functions, cumulative distribution functions, and hypothesis testing.
 
 - **Reading**: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169), by Bamman, O'Connor, and Smith, sections 1-4; [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) chapters 1-3.
+- **Supplemental reading**: [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 5 and 7.
 - **Also see**: [Ages and names](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/).
-- **Supplemental reading**: [Think Stats], chapters 5 and 7.
 
 ## 1/12: Regression and correlation ##
 
 - **Reading**: [Notes on regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf), sections 1, 3, and 5;
 [More tweets, more votes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079449) by Joseph DiGrazia et al, 2013; [How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
-- **Supplemental reading**: [The cost of racial animus...](http://static.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf)
+- **Supplemental reading**: [The cost of racial animus on a Black presidential candidate: Using Google search data to find what surveys miss](http://static.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf)
 - **Optional catch-up reading**: [Think stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 4 and 8.
 - **Also see**: [this Vox piece](http://www.vox.com/2014/12/1/7311417/race-law-controls)  by Ezra Klein on the use of controls in studies of racial and gender discrimination.
 
@@ -32,7 +32,7 @@ We will cover basic probability and statistics, including random events, probabi
 
 - **Reading**: [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Domingos, 2012.
 [A computational approach to politeness](http://www.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf) by Cristian Danescu-Nicolescu-Mizil et al, 2013.
-- **[Problem set 1](psets/ps1.md)** out. Due January 23.
+- **[Problem set 1](psets/ps1.md)** out. Due January 23 at 5pm.
 
 ## 1/19: No class ##
 
@@ -41,7 +41,7 @@ We will cover basic probability and statistics, including random events, probabi
 - **Reading**: [Data carpentry](http://www.mimno.org/articles/carpentry/);
 [Text as data](http://stanford.edu/~jgrimmer/tad2.pdf) sections 2-4;
 [Detecting and modeling local text reuse](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf).
-- **[Problem set 1](ps1.md)** due on January 23.
+- **[Problem set 1](ps1.md)** due on January 23 at 5pm.
 
 # Part 2: Network Analysis #
 
