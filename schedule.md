@@ -1,3 +1,8 @@
+Course schedule
+===
+
+This schedule is still a work in progress, as I'm always finding new readings that are relevant. The assignment dates will be no earlier than as posted here.
+
 # Part 1: Data science #
 
 In this section, we will use contemporary research papers to get up to speed on statistical methods. If you have trouble keeping up with these readings, you may consult [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf), a free online textbook.
@@ -11,7 +16,7 @@ In this section, we will use contemporary research papers to get up to speed on 
 
 We will cover basic probability and statistics, including random events, probability mass functions, cumulative distribution functions, and hypothesis testing.
 
-- **Reading**: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169), by Bamman, O'Connor, and Smith, sections 1-4; [Think Stats]((http://greenteapress.com/thinkstats/thinkstats.pdf) chapters 1-3.
+- **Reading**: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169), by Bamman, O'Connor, and Smith, sections 1-4; [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) chapters 1-3.
 - **Also see**: [Ages and names](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/).
 - **Supplemental reading**: [Think Stats], chapters 5 and 7.
 
@@ -83,17 +88,15 @@ In this section of the course, monday readings will be drawn from the textbook [
 ## 3/2 and 3/4: Word counting ##
 
 - **Monday reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
-- **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012.
-
-Nice graphs
-- [Fairness versus freedom](https://fivethirtyeight.com/datalab/fairness-vs-freedom-is-politics-going-back-to-the-1970s/)
+- **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
+- **Also see**: [Fairness versus freedom](https://fivethirtyeight.com/datalab/fairness-vs-freedom-is-politics-going-back-to-the-1970s/)
 
 ## 3/9 and 3/11: Text classification and regression ##
 
-- **Monday reading**: [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert, 2012.
-- **Wednesday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn.
-- **Supplemental reading**: [Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf); [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf);
-[Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
+- **Monday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn
+- **Wednesday reading**: [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
+- **Supplemental reading**: [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359);
+[Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf); [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf);
 - **[Problem set 3](psets/ps3.md)** out on Monday 3/9, due 3/27.
 
 ## 3/16 and 3/18: No class, spring break ##
@@ -126,6 +129,8 @@ Nice graphs
 # Part 4: Final projects #
 
 ## 4/13 and 4/15: Final project check-ins ##
+
+I will use a Google doc to schedule meetings with each group.
 
 ## 4/20: Final project presentations ##
 ## 4/22: Contemporary topics in computational social science ##
