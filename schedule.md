@@ -106,8 +106,8 @@ In this section of the course, monday readings will be drawn from the textbook [
 - **Monday reading**:
 [Statistical models](http://www.cs.columbia.edu/~blei/fogm/lectures/modeling.pdf);
 [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by Blei, 2012.
-- **Wednesday reading**:
-- **Supplemental reading**: [Probabilistic topic models](http://www.jaist.ac.jp/~bao/VIASM-SML/SMLreading/TopicModel-Steyvers.pdf) by Steyvers and Griffiths, which has details on collapsed Gibbs sampling for inference; [Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073791).
+- **Wednesday reading**: [Probabilistic topic models](http://www.jaist.ac.jp/~bao/VIASM-SML/SMLreading/TopicModel-Steyvers.pdf) by Steyvers and Griffiths
+- **Supplemental reading**:  [Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073791).
 - **[Problem set 3](psets/ps3.md)** due 3/27 at 5pm.
 
 ## 3/30 and 4/1: Topic models and metadata ##
