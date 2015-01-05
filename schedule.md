@@ -92,7 +92,8 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 ## 3/2 and 3/4: Word counting ##
 
-- **Monday reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010); - **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
+- **Monday reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010)
+- **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
 - **Supplemental reading**:
 [Linguistic Models for Analyzing and Detecting Biased Language](http://www.mpi-sws.org/~cristian/Biased_language_files/neutrality.pdf) by Recasens et al; [Shedding (a thousand points of) light on biased language](http://mlt.sv.cmu.edu/mlt/research/conferences/naacl2010/MTURK/pdf/MTURK23.pdf) by Yano et al.
 - **Also see**: [Fairness versus freedom](https://fivethirtyeight.com/datalab/fairness-vs-freedom-is-politics-going-back-to-the-1970s/)
