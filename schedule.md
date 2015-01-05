@@ -1,7 +1,12 @@
 Course schedule
 ===
 
-This schedule is still a work in progress, as I'm always finding new readings that are relevant. The assignment dates will be no earlier than as posted here.
+This schedule is still a work in progress, as I'm always finding new readings that are relevant. The assignment dates will be no earlier than as posted here. There are a few different categories of reading:
+
+- **Reading**: This is required.
+- **Supplemental reading**: Optional. These are usually research papers that relate to the topic of the class, and may be discussed in class.
+- **Catch-up reading**: Optional. This is tutorial/survey material to help students catch up with the technical concepts in the class.
+- **Also see**: Optional, non-peer-reviewed material. This includes blogposts and popular press articles.
 
 # Part 1: Data science #
 
@@ -17,7 +22,7 @@ In this section, we will use contemporary research papers to get up to speed on 
 We will cover basic probability and statistics, including random events, probability mass functions, cumulative distribution functions, and hypothesis testing.
 
 - **Reading**: [Censorship and deletion practices in Chinese social media](http://journals.uic.edu/ojs/index.php/fm/article/view/3943/3169), by Bamman, O'Connor, and Smith, sections 1-4; [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) chapters 1-3.
-- **Supplemental reading**: [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 5 and 7.
+- **Catch-up reading**: [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 5 and 7.
 - **Also see**: [Ages and names](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/).
 
 ## 1/12: Regression and correlation ##
@@ -25,7 +30,7 @@ We will cover basic probability and statistics, including random events, probabi
 - **Reading**: [Notes on regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf), sections 1, 3, and 5;
 [More tweets, more votes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079449) by Joseph DiGrazia et al, 2013; [How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011.
 - **Supplemental reading**: [The cost of racial animus on a Black presidential candidate: Using Google search data to find what surveys miss](http://static.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf)
-- **Optional catch-up reading**: [Think stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 4 and 8.
+- **Catch-up reading**: [Think stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 4 and 8.
 - **Also see**: [this Vox piece](http://www.vox.com/2014/12/1/7311417/race-law-controls)  by Ezra Klein on the use of controls in studies of racial and gender discrimination.
 
 ## 1/14: Classification and clustering ##
@@ -87,8 +92,9 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 ## 3/2 and 3/4: Word counting ##
 
-- **Monday reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010).
-- **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
+- **Monday reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010); - **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
+- **Supplemental reading**:
+[Linguistic Models for Analyzing and Detecting Biased Language](http://www.mpi-sws.org/~cristian/Biased_language_files/neutrality.pdf) by Recasens et al; [Shedding (a thousand points of) light on biased language](http://mlt.sv.cmu.edu/mlt/research/conferences/naacl2010/MTURK/pdf/MTURK23.pdf) by Yano et al.
 - **Also see**: [Fairness versus freedom](https://fivethirtyeight.com/datalab/fairness-vs-freedom-is-politics-going-back-to-the-1970s/)
 
 ## 3/9 and 3/11: Text classification and regression ##
@@ -96,7 +102,8 @@ In this section of the course, monday readings will be drawn from the textbook [
 - **Monday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn
 - **Wednesday reading**: [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
 - **Supplemental reading**: [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359);
-[Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf); [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf);
+[Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf); [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf)
+- **Even more good stuff**: [Political ideology detection using recursive neural networks](http://www.cs.colorado.edu/~jbg/docs/2014_acl_rnn_ideology.pdf) by Iyyer et al; [More than Words: Syntactic Packaging and Implicit Sentiment](http://ftp.cfar.umd.edu/users/resnik/pubs/greene_resnik_naacl2009.pdf) by Greene and Resnick.
 - **[Problem set 3](psets/ps3.md)** out on Monday 3/9, due 3/27.
 
 ## 3/16 and 3/18: No class, spring break ##
