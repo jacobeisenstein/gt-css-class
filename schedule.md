@@ -4,7 +4,7 @@ Course schedule
 This schedule is still a work in progress, as I'm always finding new readings that are relevant. The assignment dates will be no earlier than as posted here. There are a few different categories of reading:
 
 - **Reading**: This is required.
-- **Supplemental reading**: Optional. These are usually research papers that relate to the topic of the class, and may be discussed in class.
+- **Supplemental reading**: Optional. These are usually research papers that relate to the topic of the class, and may be discussed in class. Look here for final project ideas.
 - **Catch-up reading**: Optional. This is tutorial/survey material to help students catch up with the technical concepts in the class.
 - **Also see**: Optional, non-peer-reviewed material. This includes blogposts and popular press articles.
 
