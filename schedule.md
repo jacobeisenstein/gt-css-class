@@ -14,8 +14,11 @@ In this section, we will use contemporary research papers to get up to speed on 
 
 ## 1/5: Computational social science ##
 
-- **Reading**: [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al; [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) by boyd and Crawford, 2011.
-- **Also see**: The view from the other side: [perspectives on computational sociology](http://orgtheory.wordpress.com/2015/01/02/building-computational-sociology-from-the-academic-side/#comments) from Fabio Rojas. Good comments, too.
+- **Reading**: [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al; [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) by boyd and Crawford.
+- **Supplemental reading**:
+[No silver bullet: De-identification still doesn't work](http://randomwalker.info/publications/no-silver-bullet-de-identification.pdf) by Narayanan and Felten.
+- **Also see**: The view from the other side: [perspectives on computational sociology](http://orgtheory.wordpress.com/2015/01/02/building-computational-sociology-from-the-academic-side/#comments) from Fabio Rojas. Good comments, too;
+[Sticky data: Why even 'anonymized' information can still identify you](http://www.theglobeandmail.com/technology/digital-culture/sticky-data-why-even-anonymized-information-can-still-identify-you/article19918717/).
 
 ## 1/7: Counting random events ##
 
