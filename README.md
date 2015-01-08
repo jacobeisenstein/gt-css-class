@@ -10,7 +10,7 @@ This includes:
 + Applications to political science, sociolinguistics, sociology,
 psychology, economics, and public health.
 
-**Time and place**: 3:05-4:25 PM on Monday and Wednesday, in Burger-Henry 380. Office hours will likely be 4:25-5:25 on wednesday, somewhere near the classroom.
+**Time and place**: 3:05-4:25 PM on Monday and Wednesday, in Burger-Henry 380. Office hours will likely be 4:25-5:25 on Monday, in the same classroom.
 
 - [Spring 2015 schedule](schedule.md)
 - [Grading](grading.md) criteria

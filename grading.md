@@ -3,8 +3,8 @@
 - **Class participation, worth 5%**. This is intended to motivate an engaging classroom discussion.
 - **Three problem sets, worth 15% each** = 45%. These are intended to build and assess your understanding of the core technical concepts in the class.
 - **A final project, worth a total of 25%**. This is intended to assess your ability to apply the technical concepts in the class to a challenging problem.
-- **Weekly reading responses**, of which you must do ten, **worth 2% each = 20%**. These are intended to facilitate and assess understanding of the reading material. 
-- **Posting and describing a news story about social science research** to the class tumblr, **worth 5%**. This is intended to build a broad familiarity with current social science research topics. You may find relevant stories in places such as NPR, the New York Times, the New Yorker, Wired Magazine, the Daily Show, [Vox](http://www.vox.com/), [Fivethirtyeight](http://fivethirtyeight.com/), etc.
+- **Weekly reading responses**, of which you must do ten, **worth 2% each = 20%**. These are intended to facilitate and assess understanding of the reading material. Reading responses must be posted to Wordpress by 1pm on the wednesday of the class.
+- **Posting and describing a news story about social science research** to the class Wordpress site, **worth 5%**. This is intended to build a broad familiarity with current social science research topics. You may find relevant stories in places such as NPR, the New York Times, the New Yorker, Wired Magazine, the Daily Show, [Vox](http://www.vox.com/), [Fivethirtyeight](http://fivethirtyeight.com/), etc.
 
 # Deadlines #
 
