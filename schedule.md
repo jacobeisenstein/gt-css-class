@@ -28,6 +28,8 @@ We will cover basic probability and statistics, including random events, probabi
 - **Catch-up reading**: [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 5 and 7.
 - **Also see**: [Ages and names](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/).
 
+Here is a [stats refresher iPython notebook](class-notes/stats-refresher.ipynb), focusing on tests of statistical significance. You may find this useful to look at before doing problem set 1.
+
 ## 1/12: Regression and correlation ##
 
 - **Reading**: [Notes on regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf), sections 1, 3, and 5;
