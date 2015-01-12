@@ -36,7 +36,7 @@ Further discussion of hypothesis testing, with emphasis on corrections for multi
 - **Catch-up reading**: [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 5 and 7.
 - **Also see**: [Ages and names](https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/); [XKCD](http://xkcd.com/882/) on multiple comparisons; [Spurious correlations](http://www.tylervigen.com/)
 
-## 1/14: Regression and correlation ##
+## 1/14: Regression ##
 
 - **Reading**: *Wasserman chapter on linear regression* (available on T-square, ask me if you can't access it);
 [More tweets, more votes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079449) by Joseph DiGrazia et al, 2013; [How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011 (skim).
