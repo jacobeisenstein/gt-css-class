@@ -1,6 +1,8 @@
 Problem set 1
 =============
 
+**Due: January 23, 5pm**. See [grading](https://github.com/jacobeisenstein/gt-css-class/blob/master/grading.md) for details on the draconian late policy.
+
 This problem set will review some concepts in probability and statistics. You will need the following items from this repository:
 
 - [Pset1 notebook](pset1.ipynb?raw=true)
