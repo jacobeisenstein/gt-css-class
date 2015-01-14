@@ -54,7 +54,7 @@ Celebrate [Martin Luther King Day](http://www.ajc.com/news/events/events-and-thi
 - **Reading**: [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Domingos, 2012.
 [A computational approach to politeness](http://www.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf) by Cristian Danescu-Nicolescu-Mizil et al, 2013.
 [Data carpentry](http://www.mimno.org/articles/carpentry/) (very short!)
-- **[Problem set 1](ps1.md)** due on January 23 at 5pm.
+- **[Problem set 1](psets/ps1.md)** due on January 23 at 5pm.
 
 # Part 2: Network Analysis #
 
