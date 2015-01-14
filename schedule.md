@@ -40,7 +40,7 @@ Further discussion of hypothesis testing, with emphasis on corrections for multi
 
 - **Reading**: *Wasserman chapter on linear regression* (available on T-square, ask me if you can't access it);
 [More tweets, more votes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079449) by Joseph DiGrazia et al, 2013; [How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011 (skim).
-- **Supplemental reading**: [The cost of racial animus on a Black presidential candidate: Using Google search data to find what surveys miss](http://static.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf).
+- **Supplemental reading**: [The cost of racial animus on a Black presidential candidate: Using Google search data to find what surveys miss](http://static.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf); [Understanding the political representativeness of Twitter users](https://files.nyu.edu/pba220/public/barbera-rivero-2014.pdf)
 - **Catch-up reading**: [Think stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 4 and 8; [Notes on regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf) by Andrew Ng, sections 0, 3, and 5.
 - **Also see**: [this Vox piece](http://www.vox.com/2014/12/1/7311417/race-law-controls)  by Ezra Klein on the use of controls in studies of racial and gender discrimination.
 - **[Problem set 1](psets/ps1.md)** out. Due January 23 at 5pm.
