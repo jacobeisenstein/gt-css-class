@@ -64,6 +64,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 - **Monday reading**: E&K chapters 1 and 2
 - **Wednesday reading**: [Structural diversity in social contagion](http://www.pnas.org/content/109/16/5962.full)
+- **Supplemental reading**:  Chapter 6 of [Newman](http://www.amazon.com/Networks-An-Introduction-Mark-Newman/dp/0199206651) is more rigorous and more detailed.
 
 ## 2/2 and 2/4: Strong and weak ties ##
 
