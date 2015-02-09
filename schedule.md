@@ -73,9 +73,11 @@ In this section of the course, monday readings will be drawn from the textbook [
 ## 2/9 and 2/11: Homophily ##
 
 - **Monday reading**: E&K chapter 4
-- **Wednesday reading**: [Inferring social ties from geographic coincidences](http://www.pnas.org/content/107/52/22436.full.pdf+html);
-[Find me if you can](http://www.cameronmarlow.com/media/backstrom-geographical-prediction_0.pdf)
-- **Supplemental reading**: [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; 
+- **Wednesday reading**: [Inferring social ties from geographic coincidences](http://www.pnas.org/content/107/52/22436.full.pdf+html) by Crandall et al, 2010;
+[Find me if you can](http://www.cameronmarlow.com/media/backstrom-geographical-prediction_0.pdf) by Backstrom et al
+- **Supplemental reading**:
+[Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415?journalCode=soc) by McPherson et al, 2001; 
+[Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](http://arxiv.org/pdf/1004.4704v3) by Shalizi and Thomas, 2011; 
 
 ## 2/16: No class ##
 
