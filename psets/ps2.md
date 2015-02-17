@@ -1,4 +1,8 @@
-Problem Set 2: Network models
-===
+Project 2: Social network analysis
+----------
 
-In this problem set, you will use [networkx](https://networkx.github.io/) to analyze some social network data.
+- The project is described in the [iPython notebook file](pset-2.ipynb)
+- You will also need to get the data, which is available on t-square.
+- The project is due **March 1 at 5pm**. Draconian late penalties will be applied.
+- As a reminder, the directed projects must be done independently.
+

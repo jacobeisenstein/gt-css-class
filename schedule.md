@@ -82,7 +82,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 ## 2/16: No class ##
 
-- **[Problem set 2](psets/ps2.md)** out. Due Feb 27 at 5pm.
+- **[Problem set 2](psets/ps2.md)** out. Due March 1 at 5pm.
 
 ## 2/18: Signed social networks ##
 
@@ -97,7 +97,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 ## 2/25: Statistical models of networks ##
 
 - **Reading**: [A survey of statistical network models](arxiv.org/pdf/0912.5410), sections 2-3.8.
-- **[Problem set 2](psets/ps2.md)** due on Feb 27 at 5pm.
+- **[Problem set 2](psets/ps2.md)** due on March 1 at 5pm.
 
 # Part 3: Text #
 
