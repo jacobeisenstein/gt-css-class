@@ -98,7 +98,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 ## 2/25: Statistical models of networks ##
 
-- **Reading**: [A survey of statistical network models](arxiv.org/pdf/0912.5410), sections 2-3.8.
+- **Reading**: [A survey of statistical network models](http://arxiv.org/pdf/0912.5410), sections 2-3.8.
 - **[Problem set 2](psets/ps2.md)** due on March 1 at 5pm.
 
 # Part 3: Text #
