@@ -87,12 +87,14 @@ In this section of the course, monday readings will be drawn from the textbook [
 ## 2/18: Signed social networks ##
 
 - **Reading**: E&K chapter 5
+- **Supplemental reading**: [The Slashdot Zoo: Mining a social network with negative edges](http://www.dai-labor.de/fileadmin/Files/Publikationen/Buchdatei/kunegis2009a_The_Slashdot_Zoo___Mining_a_Social_Network_with_Negative_Edges.pdf) by Kunegis et al, 2009.
 
 ## 2/23: Signed social networks in social media and literature ##
 
-- **Reading**: [Signed networks in social media](http://cs.stanford.edu/~jure/pubs/triads-chi10.pdf);
+- **Reading**: [Signed networks in social media](http://cs.stanford.edu/~jure/pubs/triads-chi10.pdf) by Leskovec et al, 2010.
 - **Supplemental reading**:
-["You’re Mr. Lebowski, I’m the Dude": Inducing Address Term Formality in Signed Social Networks](http://arxiv.org/abs/1411.4351)
+["You’re Mr. Lebowski, I’m the Dude": Inducing Address Term Formality in Signed Social Networks](http://arxiv.org/abs/1411.4351) by Krishnan and Eisenstein, 2014; [Extracting Signed Social Networks From Text](http://www.aclweb.org/anthology/W12-4102) by Hassan, Abu-Jbara, and Radev, 2012.
+[Exploiting social network structure for person-to-person sentiment analysis](http://infolab.stanford.edu/~west1/TACL2014/) by West et al, 2014.
 
 ## 2/25: Statistical models of networks ##
 
@@ -139,9 +141,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 - **Monday reading**:
 [Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) 
-- **Wednesday reading**: 
-[Exploiting social network structure for person-to-person sentiment analysis](http://infolab.stanford.edu/~west1/TACL2014/)
-[Unsupervised Induction of Signed Social Networks from Content and Structure](http://arxiv.org/pdf/1411.4351)
+- **Wednesday reading**: TBD
 
 # Part 4: Final projects #
 
