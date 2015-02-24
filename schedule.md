@@ -96,17 +96,20 @@ In this section of the course, monday readings will be drawn from the textbook [
 ["You’re Mr. Lebowski, I’m the Dude": Inducing Address Term Formality in Signed Social Networks](http://arxiv.org/abs/1411.4351) by Krishnan and Eisenstein, 2014; [Extracting Signed Social Networks From Text](http://www.aclweb.org/anthology/W12-4102) by Hassan, Abu-Jbara, and Radev, 2012.
 [Exploiting social network structure for person-to-person sentiment analysis](http://infolab.stanford.edu/~west1/TACL2014/) by West et al, 2014.
 
-## 2/25: Statistical models of networks ##
+## 2/25: Snow day, cancelled ##
+
+## 3/2: Statistical models of networks ##
 
 - **Reading**: [A survey of statistical network models](http://arxiv.org/pdf/0912.5410), sections 2-3.8.
 - **[Problem set 2](psets/ps2.md)** due on March 1 at 5pm.
+- **Supplemental reading**: [A Multiscale Community Blockmodel for Network Exploration](http://amstat.tandfonline.com/doi/full/10.1080/01621459.2012.682530) by Ho, Parikh, and Xing, 2012; [Document Hierarchies from Text and Links](http://www.cs.cmu.edu/~epxing/papers/2012/Ho_Eisenstein_Xing_WWW12.pdf) by Ho, Eisenstein, and Xing, 2012.
+
 
 # Part 3: Text #
 
-## 3/2 and 3/4: Word counting ##
+## 3/4: Word counting ##
 
-- **Monday reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010);  [Text as data](http://stanford.edu/~jgrimmer/tad2.pdf) sections 2-4
-- **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
+- **Reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010);  [Text as data](http://stanford.edu/~jgrimmer/tad2.pdf) sections 2-4
 - **Supplemental reading**:
 [Linguistic Models for Analyzing and Detecting Biased Language](http://www.mpi-sws.org/~cristian/Biased_language_files/neutrality.pdf) by Recasens et al; [Shedding (a thousand points of) light on biased language](http://mlt.sv.cmu.edu/mlt/research/conferences/naacl2010/MTURK/pdf/MTURK23.pdf) by Yano et al; [Detecting and modeling local text reuse](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf).
 
@@ -134,14 +137,14 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 - **Monday reading**: [Topic and Role Discovery in Social Networks...](http://www.aaai.org/Papers/JAIR/Vol30/JAIR-3007.pdf)
 - **Wednesday reading**:
-- **Supplemental reading**: [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013.
+- **Supplemental reading**: [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013;
+[Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) by Chang and Blei, 2009.
 - [Final project](psets/indie.md) proposal due Friday 4/3 at 5pm.
 
-## 4/6 and 4/8: Joint models of networks and text ##
+## 4/6 and 4/8: Language in a social context ##
 
 - **Monday reading**:
-[Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) 
-- **Wednesday reading**: TBD
+- **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
 
 # Part 4: Final projects #
 
