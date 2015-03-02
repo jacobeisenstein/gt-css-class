@@ -102,7 +102,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 - **Reading**: [A survey of statistical network models](http://arxiv.org/pdf/0912.5410), sections 2-3.8.
 - **[Problem set 2](psets/ps2.md)** due on March 1 at 5pm.
-- **Supplemental reading**: [A Multiscale Community Blockmodel for Network Exploration](http://amstat.tandfonline.com/doi/full/10.1080/01621459.2012.682530) by Ho, Parikh, and Xing, 2012; [Document Hierarchies from Text and Links](http://www.cs.cmu.edu/~epxing/papers/2012/Ho_Eisenstein_Xing_WWW12.pdf) by Ho, Eisenstein, and Xing, 2012.
+- **Supplemental reading**: [A Multiscale Community Blockmodel for Network Exploration](http://amstat.tandfonline.com/doi/full/10.1080/01621459.2012.682530) by Ho, Parikh, and Xing, 2012; [Document Hierarchies from Text and Links](http://www.cs.cmu.edu/~epxing/papers/2012/Ho_Eisenstein_Xing_WWW12.pdf) by Ho, Eisenstein, and Xing, 2012; [Inferential Network Analysis with Exponential Random Graph Models](http://pan.oxfordjournals.org/content/19/1/66.full) by Cranmer and Desmarais, 2011.
 
 
 # Part 3: Text #
