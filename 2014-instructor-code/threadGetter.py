@@ -7,7 +7,7 @@ r.login('jacobeisenstein','cssisathing')
 linebreak = '-----==----==---==-----'
 
 # this may take a while. start early.
-def getThreads(subreddit,num_comments=10,max_threads=500,min_comments=10,max_comments=1000,verbose=False):
+def getThreads(subreddit,num_comments=10,max_threads=5000,min_comments=10,verbose=False):
     comment_counter = 0
     already_done = [] #keep track of threads you've already seen (you can get them twice)
     subred = r.get_subreddit(subreddit) #get a subreddit
@@ -29,4 +29,4 @@ thread_names = ['Libertarian','Conservative','Progressive','Socialism','Anarchis
 
 for thread_name in thread_names:
     print thread_name,
-    getThreads(thread_name,num_comments=1000,max_comments=100,min_comments=0,verbose=True)
+    getThreads(thread_name,num_comments=5000,max_threads=5000,max_comments=100,min_comments=0,verbose=True)
