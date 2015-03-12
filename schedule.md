@@ -123,7 +123,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 **Reading**: [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
 - **Supplemental reading**: [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert; [Political ideology detection using recursive neural networks](http://www.cs.colorado.edu/~jbg/docs/2014_acl_rnn_ideology.pdf) by Iyyer et al; [More than Words: Syntactic Packaging and Implicit Sentiment](http://ftp.cfar.umd.edu/users/resnik/pubs/greene_resnik_naacl2009.pdf) by Greene and Resnick.
-- **[Problem set 3](psets/ps3.md)** out on Monday 3/9, due 3/27.
+- **[Problem set 3](psets/pset3.md)** out on Thursday 3/12, due 3/29.
 
 
 ## 3/16 and 3/18: No class, spring break ##
@@ -133,7 +133,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 - **Wednesday reading**: [Statistical models](http://www.cs.columbia.edu/~blei/fogm/lectures/modeling.pdf);
 [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by Blei, 2012.
 - **Supplemental reading**: [Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf) by Eisenstein;  [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf) by Eisenstein et al; [Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073791) by Schwartz et al; [Care and feeding of topic models](http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf) by Boyd-Graber, Mimno, and Newman.
-- **[Problem set 3](psets/ps3.md)** due 3/29 at 5pm.
+- **[Problem set 3](psets/ps3.md)** due 3/29 at 11:59pm.
 
 ## 3/30 and 4/1: Topic models and metadata ##
 
