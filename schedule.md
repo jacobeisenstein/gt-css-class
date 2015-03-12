@@ -98,45 +98,47 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 ## 2/25: Snow day, cancelled ##
 
-## 3/2: Statistical models of networks ##
+## 3/2: Statistical models of networks: ERGMs ##
 
 - **Reading**: [A survey of statistical network models](http://arxiv.org/pdf/0912.5410), sections 2-3.8.
 - **[Problem set 2](psets/ps2.md)** due on March 1 at 5pm.
-- **Supplemental reading**: [A Multiscale Community Blockmodel for Network Exploration](http://amstat.tandfonline.com/doi/full/10.1080/01621459.2012.682530) by Ho, Parikh, and Xing, 2012; [Document Hierarchies from Text and Links](http://www.cs.cmu.edu/~epxing/papers/2012/Ho_Eisenstein_Xing_WWW12.pdf) by Ho, Eisenstein, and Xing, 2012.
+- **Supplemental reading**: [Inferential Network Analysis with Exponential Random Graph Models](http://pan.oxfordjournals.org/content/19/1/66.full) by Cranmer and Desmarais, 2011.
 
+
+## 3/4: Statistical models of networks: Stochastic Blockmodels ##
+
+- **Reading**: [A survey of statistical network models](http://arxiv.org/pdf/0912.5410), sections 2-3.8.
+- **Supplemental reading**: [A Multiscale Community Blockmodel for Network Exploration](http://amstat.tandfonline.com/doi/full/10.1080/01621459.2012.682530) by Ho, Parikh, and Xing, 2012; [Document Hierarchies from Text and Links](http://www.cs.cmu.edu/~epxing/papers/2012/Ho_Eisenstein_Xing_WWW12.pdf) by Ho, Eisenstein, and Xing, 2012;  
 
 # Part 3: Text #
 
-## 3/4: Word counting ##
+## 3/9: Word counting ##
 
 - **Reading** [The psychological meaning of words: LIWC and computerized text analysis methods](http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf) by Tausczik and Pennebaker (2010);  [Text as data](http://stanford.edu/~jgrimmer/tad2.pdf) sections 2-4
 - **Supplemental reading**:
 [Linguistic Models for Analyzing and Detecting Biased Language](http://www.mpi-sws.org/~cristian/Biased_language_files/neutrality.pdf) by Recasens et al; [Shedding (a thousand points of) light on biased language](http://mlt.sv.cmu.edu/mlt/research/conferences/naacl2010/MTURK/pdf/MTURK23.pdf) by Yano et al; [Detecting and modeling local text reuse](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf).
-
 - **Also see**: [Fairness versus freedom](https://fivethirtyeight.com/datalab/fairness-vs-freedom-is-politics-going-back-to-the-1970s/)
 
-## 3/9 and 3/11: Text classification and regression ##
+## 3/11: Text classification and regression ##
 
-- **Monday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn
-- **Wednesday reading**: [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
-- **Supplemental reading**: [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert; [Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf) by Eisenstein;  [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf) by Eisenstein et al;  [Political ideology detection using recursive neural networks](http://www.cs.colorado.edu/~jbg/docs/2014_acl_rnn_ideology.pdf) by Iyyer et al; [More than Words: Syntactic Packaging and Implicit Sentiment](http://ftp.cfar.umd.edu/users/resnik/pubs/greene_resnik_naacl2009.pdf) by Greene and Resnick.
+**Reading**: [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
+- **Supplemental reading**: [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert; [Political ideology detection using recursive neural networks](http://www.cs.colorado.edu/~jbg/docs/2014_acl_rnn_ideology.pdf) by Iyyer et al; [More than Words: Syntactic Packaging and Implicit Sentiment](http://ftp.cfar.umd.edu/users/resnik/pubs/greene_resnik_naacl2009.pdf) by Greene and Resnick.
 - **[Problem set 3](psets/ps3.md)** out on Monday 3/9, due 3/27.
+
 
 ## 3/16 and 3/18: No class, spring break ##
 
-## 3/23 and 3/25: Topic models ##
-
-- **Monday reading**:
-[Statistical models](http://www.cs.columbia.edu/~blei/fogm/lectures/modeling.pdf);
+## 3/23 and 3/25: Statistical models of text ##
+- **Monday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn
+- **Wednesday reading**: [Statistical models](http://www.cs.columbia.edu/~blei/fogm/lectures/modeling.pdf);
 [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by Blei, 2012.
-- **Wednesday reading**: [Probabilistic topic models](http://www.jaist.ac.jp/~bao/VIASM-SML/SMLreading/TopicModel-Steyvers.pdf) by Steyvers and Griffiths
-- **Supplemental reading**:  [Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073791) by Schwartz et al; [Care and feeding of topic models](http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf) by Boyd-Graber, Mimno, and Newman.
-- **[Problem set 3](psets/ps3.md)** due 3/27 at 5pm.
+- **Supplemental reading**: [Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf) by Eisenstein;  [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf) by Eisenstein et al; [Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073791) by Schwartz et al; [Care and feeding of topic models](http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf) by Boyd-Graber, Mimno, and Newman.
+- **[Problem set 3](psets/ps3.md)** due 3/29 at 5pm.
 
 ## 3/30 and 4/1: Topic models and metadata ##
 
-- **Monday reading**: [Topic and Role Discovery in Social Networks...](http://www.aaai.org/Papers/JAIR/Vol30/JAIR-3007.pdf)
-- **Wednesday reading**:
+- **Monday reading**: [Probabilistic topic models](http://www.jaist.ac.jp/~bao/VIASM-SML/SMLreading/TopicModel-Steyvers.pdf) by Steyvers and Griffiths
+- **Wednesday reading**: [Topic and Role Discovery in Social Networks...](http://www.aaai.org/Papers/JAIR/Vol30/JAIR-3007.pdf)
 - **Supplemental reading**: [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013;
 [Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) by Chang and Blei, 2009.
 - [Final project](psets/indie.md) proposal due Friday 4/3 at 5pm.
