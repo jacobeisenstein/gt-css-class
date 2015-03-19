@@ -4,10 +4,10 @@ In the independent final project, you will replicate (and possibly build on) a p
 
 Here's the timeline, with details below.
 
-- **Project proposal** due Friday April 3 at 11:59pm. This will be *at most* two pages, but should reflect some considered thought. 20% credit.
-- **Project check-in** on April 13 or 15, during class. This is for your benefit, so do whatever it takes to make the most use of the available time. 10% credit.
-- **Project presentations** on April 20, during class. Count on roughly five minutes per person. 20% credit.
-- **Final project reports** due April 24, at 11:59pm. You should write *at most* four pages, plus two pages per member of your team. 50% credit.
+- **Project proposal** due Friday April 3 at 11:59pm. This will be *at most* two pages, but should reflect some considered thought. Four points.
+- **Project check-in** on April 13 or 15, during class. This is for your benefit, so do whatever it takes to make the most use of the available time. Two points.
+- **Project presentations** on April 20, during class. Count on roughly five minutes per person. Four points.
+- **Final project reports** due April 24, at 11:59pm. You should write *at most* four pages, plus two pages per member of your team. Fifteen points.
 
 ## Paper ideas ##
 
