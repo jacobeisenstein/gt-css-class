@@ -21,7 +21,6 @@ Here are some papers from the class readings that I think could plausibly be rep
 - [Signed networks in social media](http://cs.stanford.edu/~jure/pubs/triads-chi10.pdf) by Leskovec et al, 2010.
 - [Extracting Signed Social Networks From Text](http://www.aclweb.org/anthology/W12-4102) by Hassan, Abu-Jbara, and Radev, 2012.
 - [Predicting crime using Twitter and Kernel Density Estimation](http://ptl.sys.virginia.edu/ptl/sites/default/files/manuscript_gerber.pdf) by Gerber, 2013.
-
 - [Exploiting social network structure for person-to-person sentiment analysis](http://infolab.stanford.edu/~west1/TACL2014/) by West et al, 2014.
 - [Linguistic Models for Analyzing and Detecting Biased Language](http://www.mpi-sws.org/~cristian/Biased_language_files/neutrality.pdf) by Recasens et al. 
 - [Shedding (a thousand points of) light on biased language](http://mlt.sv.cmu.edu/mlt/research/conferences/naacl2010/MTURK/pdf/MTURK23.pdf). There's no budget for Mechanical Turk, so you'd need to find some other way to get these annotations.
@@ -75,3 +74,5 @@ Your project report should provide a complete description of what you did in you
 - **Use specific examples to bolster high-level conclusions**: for example, if you find that unigram text features predict retweets, then show some of the words which are the strongest predictors (like Tan et al); if you find network centrality correlates with microfinance participation, give some examples of highly-central individuals and non-central individuals, and describe their outcomes. *This is especially important if you use unsupervised techniques such as clustering*, since the output of these techniques is otherwise opaque to the reader.
 
 As always, **well-designed** graphs and tables are more helpful than lots of text. Use the papers that we have read in class for guidance on how to write and structure your report. But keep in mind that each paper has idiosyncasies and possibly flaws, so think critically about what does and doesn't work in these papers.
+
+You should write at most four pages, plus two pages per member of your team. For example, if you work by yourself, you can write at most six pages. The bibliography does not count towards this limit.
