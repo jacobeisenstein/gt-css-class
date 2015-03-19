@@ -142,7 +142,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 - **Wednesday reading**: [Topic and Role Discovery in Social Networks...](http://www.aaai.org/Papers/JAIR/Vol30/JAIR-3007.pdf)
 - **Supplemental reading**: [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013;
 [Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) by Chang and Blei, 2009; [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://pan.oxfordjournals.org/content/18/1/1.full) by Grimmer, 2009; [Measuring Political Sentiment on Twitter: Factor Optimal Design for Multinomial Inverse Regression](http://arxiv.org/pdf/1206.3776v5.pdf) by Taddy, 2013.
-- [Final project](indie-project.md) proposal due Friday 4/3 at 11:59pm.
+- [Final project](indie-project.md) proposal due Friday 4/3 at 11:55pm.
 
 ## 4/6 and 4/8: Language in a social context ##
 
@@ -160,4 +160,4 @@ I will use a Google doc to schedule meetings with each group.
 
 ## 4/20: Final project presentations ##
 ## 4/22: Contemporary topics in computational social science ##
-## 4/24: Final project writeups due at 5pm ##
+## 4/24: Final project writeups due at 11:55pm ##
