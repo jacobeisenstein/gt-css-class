@@ -16,7 +16,8 @@ In this section, we will use contemporary research papers to get up to speed on 
 
 - **Reading**: [Computational social science](http://gking.harvard.edu/files/LazPenAda09.pdf) by Lazer et al; [Six provocations for Big Data](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431) by boyd and Crawford.
 - **Supplemental reading**:
-[No silver bullet: De-identification still doesn't work](http://randomwalker.info/publications/no-silver-bullet-de-identification.pdf) by Narayanan and Felten.
+[No silver bullet: De-identification still doesn't work](http://randomwalker.info/publications/no-silver-bullet-de-identification.pdf) by Narayanan and Felten; [Computational Social Science:
+Toward a Collaborative Future](http://dirichlet.net/pdf/wallach15computational.pdf) by Wallach, 2015.
 - **Also see**: The view from the other side: [perspectives on computational sociology](http://orgtheory.wordpress.com/2015/01/02/building-computational-sociology-from-the-academic-side/#comments) from Fabio Rojas. Good comments, too;
 [Sticky data: Why even 'anonymized' information can still identify you](http://www.theglobeandmail.com/technology/digital-culture/sticky-data-why-even-anonymized-information-can-still-identify-you/article19918717/).
 
@@ -40,7 +41,7 @@ Further discussion of hypothesis testing, with emphasis on corrections for multi
 
 - **Reading**: *Wasserman chapter on linear regression* (available on T-square, ask me if you can't access it);
 [More tweets, more votes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079449) by Joseph DiGrazia et al, 2013; [How (not) to predict elections](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf) by Metaxas et al, 2011 (skim).
-- **Supplemental reading**: [The cost of racial animus on a Black presidential candidate: Using Google search data to find what surveys miss](http://static.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf); [Understanding the political representativeness of Twitter users](https://files.nyu.edu/pba220/public/barbera-rivero-2014.pdf); [Online and social media data as a flawed continuous panel survey](http://research.microsoft.com/en-us/um/redmond/projects/flawedsurvey/flawedsurvey.pdf) by Diaz et al 2014.
+- **Supplemental reading**: [The cost of racial animus on a Black presidential candidate: Using Google search data to find what surveys miss](http://static.squarespace.com/static/51d894bee4b01caf88ccb4f3/t/51d89ab3e4b05a25fc1f39d4/1373149875469/RacialAnimusAndVotingSethStephensDavidowitz.pdf) by Stephens-Davidowitz, 2013; [Understanding the political representativeness of Twitter users](https://files.nyu.edu/pba220/public/barbera-rivero-2014.pdf); [Online and social media data as a flawed continuous panel survey](http://research.microsoft.com/en-us/um/redmond/projects/flawedsurvey/flawedsurvey.pdf) by Diaz et al 2014.
 - **Catch-up reading**: [Think stats](http://greenteapress.com/thinkstats/thinkstats.pdf), chapters 4 and 8; [Notes on regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf) by Andrew Ng, sections 0, 3, and 5.
 - **Also see**: [this Vox piece](http://www.vox.com/2014/12/1/7311417/race-law-controls)  by Ezra Klein on the use of controls in studies of racial and gender discrimination.
 - **[Problem set 1](psets/ps1.md)** out. Due January 23 at 5pm.
@@ -108,7 +109,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 ## 3/4: Statistical models of networks: Stochastic Blockmodels ##
 
 - **Reading**: [A survey of statistical network models](http://arxiv.org/pdf/0912.5410), sections 2-3.8.
-- **Supplemental reading**: [A Multiscale Community Blockmodel for Network Exploration](http://amstat.tandfonline.com/doi/full/10.1080/01621459.2012.682530) by Ho, Parikh, and Xing, 2012; [Document Hierarchies from Text and Links](http://www.cs.cmu.edu/~epxing/papers/2012/Ho_Eisenstein_Xing_WWW12.pdf) by Ho, Eisenstein, and Xing, 2012;  
+- **Supplemental reading**: [A Multiscale Community Blockmodel for Network Exploration](http://amstat.tandfonline.com/doi/full/10.1080/01621459.2012.682530) by Ho, Parikh, and Xing, 2012; [Document Hierarchies from Text and Links](http://www.cs.cmu.edu/~epxing/papers/2012/Ho_Eisenstein_Xing_WWW12.pdf) by Ho, Eisenstein, and Xing, 2012.
 
 # Part 3: Text #
 
@@ -140,13 +141,16 @@ In this section of the course, monday readings will be drawn from the textbook [
 - **Monday reading**: [Probabilistic topic models](http://www.jaist.ac.jp/~bao/VIASM-SML/SMLreading/TopicModel-Steyvers.pdf) by Steyvers and Griffiths
 - **Wednesday reading**: [Topic and Role Discovery in Social Networks...](http://www.aaai.org/Papers/JAIR/Vol30/JAIR-3007.pdf)
 - **Supplemental reading**: [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf) by O'Connor et al, 2013;
-[Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) by Chang and Blei, 2009.
-- [Final project](psets/indie.md) proposal due Friday 4/3 at 5pm.
+[Hierarchical relational models for document networks](https://www.cs.princeton.edu/~blei/papers/ChangBlei2009.pdf) by Chang and Blei, 2009; [A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in Senate Press Releases](http://pan.oxfordjournals.org/content/18/1/1.full) by Grimmer, 2009; [Measuring Political Sentiment on Twitter: Factor Optimal Design for Multinomial Inverse Regression](http://arxiv.org/pdf/1206.3776v5.pdf) by Taddy, 2013.
+- [Final project](indie-project.md) proposal due Friday 4/3 at 11:59pm.
 
 ## 4/6 and 4/8: Language in a social context ##
 
-- **Monday reading**:
+- **Monday reading**: [Predicting crime using Twitter and Kernel Density Estimation](http://ptl.sys.virginia.edu/ptl/sites/default/files/manuscript_gerber.pdf) by Gerber, 2013.
 - **Wednesday reading**: [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
+- **Supplemental reading**:
+[The Bayesian Echo Chamber: Modeling Social Influence via
+Linguistic Accommodation](http://dirichlet.net/pdf/guo15bayesian.pdf) by Guo et al, 2015.
 
 # Part 4: Final projects #
 
