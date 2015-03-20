@@ -131,9 +131,12 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 ## 3/23 and 3/25: Statistical models of text ##
 - **Monday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn
-- **Wednesday reading**: [Statistical models](http://www.cs.columbia.edu/~blei/fogm/lectures/modeling.pdf);
+- **Wednesday reading**:
+[Data Analysis with Latent Variable Models](http://www.annualreviews.org/eprint/7xbyci3nwAg5kEttvvjk/full/10.1146/annurev-statistics-022513-115657) by Blei, 2014. Read sections 1-3.3, then read
 [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by Blei, 2012.
-- **Supplemental reading**: [Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf) by Eisenstein;  [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf) by Eisenstein et al; [Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073791) by Schwartz et al; [Care and feeding of topic models](http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf) by Boyd-Graber, Mimno, and Newman.
+- **Supplemental reading**:
+The rest of [Data Analysis with Latent Variable Models](http://www.annualreviews.org/eprint/7xbyci3nwAg5kEttvvjk/full/10.1146/annurev-statistics-022513-115657), especially if you want to know how these things really work;
+[Identifying regional dialects in online social media](http://www.cc.gatech.edu/~jeisenst/papers/dialectology-chapter.pdf) by Eisenstein (2015);  [Sparse additive generative models of text](http://www.cc.gatech.edu/~jeisenst/papers/icml2011.pdf) by Eisenstein et al (2011); [Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073791) by Schwartz et al (2014); [Care and feeding of topic models](http://www.cs.colorado.edu/~jbg/docs/2014_book_chapter_care_and_feeding.pdf) by Boyd-Graber, Mimno, and Newman (2014).
 - **[Problem set 3](psets/ps3.md)** due 3/29 at 11:59pm.
 
 ## 3/30 and 4/1: Topic models and metadata ##
