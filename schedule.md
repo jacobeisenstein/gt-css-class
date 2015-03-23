@@ -130,7 +130,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 ## 3/16 and 3/18: No class, spring break ##
 
 ## 3/23 and 3/25: Statistical models of text ##
-- **Monday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn
+- **Monday reading**: [Fighting words](http://www.law.berkeley.edu/files/MonroeColaresiQuinn.pdf) by Monroe, Colaresi, and Quinn.  [iPython notebook](class-notes/fighting-words.ipynb?raw=true).
 - **Wednesday reading**:
 [Data Analysis with Latent Variable Models](http://www.annualreviews.org/eprint/7xbyci3nwAg5kEttvvjk/full/10.1146/annurev-statistics-022513-115657) by Blei, 2014. Read sections 1-3.3, then read
 [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by Blei, 2012.

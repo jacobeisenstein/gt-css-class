@@ -32,6 +32,7 @@ Here are some papers from the class readings that I think could plausibly be rep
 - [Learning to extract international relations from political context](http://www.cs.cmu.edu/~nasmith/papers/oconnor+stewart+smith.acl13.pdf). Warning, the machine learning and NLP components of this paper are intensive.
 - [Echoes of power: Language effects and power differences in social interaction](http://www.mpi-sws.org/~cristian/Echoes_of_power.html) by Danescu-Niculescu-Mizil, Lee, Pang, Kleinberg, 2012
 - [The effect of wording on message propagation: Topic- and author-controlled natural experiments on Twitter](http://chenhaot.com/pubs/wording-effects-message-propagation.pdf) by Tan, Lee, and Pang. 
+- [Demographics, Weather and Online Reviews: A Study of Restaurant Recommendations](http://comp.social.gatech.edu/papers/www14.demographics.bakhshi.pdf) by Bakhshi, Kanupathy, and Gilbert, 2014.
 
 You may propose to select a paper that is not on this list, but if so, I strongly recommend that you check with me first. The main criteria are that:
 
