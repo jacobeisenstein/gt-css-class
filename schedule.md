@@ -122,7 +122,7 @@ In this section of the course, monday readings will be drawn from the textbook [
 
 ## 3/11: Text classification and regression ##
 
-**Reading**: [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
+- **Reading**: [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al 2014.
 - **Supplemental reading**: [Phrases that signal workplace hierarchy](http://dl.acm.org/citation.cfm?id=2145359) by Gilbert; [Political ideology detection using recursive neural networks](http://www.cs.colorado.edu/~jbg/docs/2014_acl_rnn_ideology.pdf) by Iyyer et al; [More than Words: Syntactic Packaging and Implicit Sentiment](http://ftp.cfar.umd.edu/users/resnik/pubs/greene_resnik_naacl2009.pdf) by Greene and Resnick.
 - **[Problem set 3](psets/ps3.md)** out on Thursday 3/12, due 3/29.
 
