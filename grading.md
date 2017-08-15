@@ -4,7 +4,7 @@ Graded components
 - 10%: [class participation](#class-participation), demonstrating knowledge of the assigned reading and original thinking
 - 10%: [in-class paper presentation](#paper-presentations)
 - 10%: reading comprehension 
-- 30%: two [extended labs](#labs)
+- 30%: three [extended labs](#labs)
 - 40%: [replication project](#replication-project)
   - 10%: proposal
   - 10%: replication paper presentation
@@ -24,7 +24,7 @@ Each wednesday, a team of two students will lead the discussion of an the day's 
 
 ## Labs
 
-Students will choose two of the ten labs, and perform a significant extension of the lab material, e.g. 
+Students will choose three of the ten labs, and perform a significant extension of the lab material, e.g. 
 - acquiring and analyzing additional data
 - applying and comparing more analytical techniques
 - visualizing the results in a way, etc. 
