@@ -37,17 +37,17 @@ The lab report should be submitted on T-square as a well-organized Jupyter noteb
 
 # Replication project
 
-The final project in the class involves replicating and extending a published paper in computational social science. This project is to be performed in teams of 2-3 students, and the paper must be approved by the professor before the submission of the formal proposal. 
+The final project in the class involves replicating and extending a published paper in computational social science. This project is to be performed in teams of 2-3 students, and the paper must be approved by the professor before the submission of the formal proposal. A list of recommended papers can be found [here](https://docs.google.com/spreadsheets/d/1O9pofBgcqhAE7Oz9cw5XoSMu18jrR49e9O-I0xfu7OU/edit?usp=sharing).
 
 The project has several checkpoints:
 
 - **November 10**: Declare team intentions
 - **November 13-15**: Check-in with professor about project ideas. Come to this meeting with a few papers already in mind, and information about what will be needed to replicate them.
-- **November 17** Written [project proposal](project-proposal) due
+- **November 17** Written [project proposal](#project-proposal) due
 - **November 20** Give a short (5-6 minutes) presentation of the paper to be replicated in class. This presentation should highlight the main findings, and explain the planned replication and extension. All team members should attend.
 - **November 27-29**: Check-in with professor about ongoing progress of replication and extension effort.
-- **December 4**: [Poster presentations](poster-presentation) in class
-- **December 6**: [Final project reports](project-report) due
+- **December 4**: [Poster presentations](#poster-presentation) in class
+- **December 6**: [Final project reports](#project-report) due
 
 "Replication" is interpreted broadly, but students are encouraged to reuse the original authors' data and algorithms where possible. The balance between replication and extension depends on the difficulty of replication, and the size of the team. For example, if the original authors provide well-curated data and a runnable software implementation, then a more significant extension is expected; if the student team must re-implement a significant amount of software or gather a large dataset of their own, then the extension component can be more limited.
 
