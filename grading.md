@@ -3,7 +3,7 @@ Graded components
 
 - 10%: [class participation](#class-participation), demonstrating knowledge of the assigned reading and original thinking
 - 10%: [in-class paper presentation](#paper-presentations)
-- 10%: reading comprehension 
+- 10%: [reading responses](#reading-responses)
 - 30%: three [extended labs](#labs)
 - 40%: [replication project](#replication-project)
   - 10%: proposal
@@ -23,6 +23,10 @@ Each wednesday, a team of two students will lead the discussion of an the day's 
 - Prepare a presentation that highlights key claims of the paper, describes all figures and tables (using slides), and explain all methods in the paper. Note that this may necessitate additional reading or research. 
 - Email two open-ended reading comprehension questions to the professor by 3pm on the preceding tuesday, which will be posed to the class.
 - Lead the class discussion of the paper, soliciting comments from and posing questions to the other students.
+
+# Reading responses
+
+Reading responses will be due on wednesday, and will relate to wednesday's reading. They are worth one point each, up to a maximum of ten points. This means you may skip a few and still get full credit. However, they are due at the start of class, and will not be accepted late.
 
 # Labs
 
