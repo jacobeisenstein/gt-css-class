@@ -1,7 +1,7 @@
 Georgia Tech CS 8803-CSS: Computational Social Science
 ============
 
-**Time and place**: 3:00-4:15 PM on Monday and Wednesday, in CCB 52.
+**Time and place**: 3:00-4:15 PM on Monday and Wednesday, in CCB 52. Office hours are Wednesday 4:15-5:15 PM in CCB 316.
 
 - [Schedule](https://docs.google.com/spreadsheets/d/1O9pofBgcqhAE7Oz9cw5XoSMu18jrR49e9O-I0xfu7OU)
 - [Grading](grading.md) criteria
