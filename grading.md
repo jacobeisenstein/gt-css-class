@@ -56,9 +56,23 @@ The project has several checkpoints:
 "Replication" is interpreted broadly, but students are encouraged to reuse the original authors' data and algorithms where possible. The balance between replication and extension depends on the difficulty of replication, and the size of the team. For example, if the original authors provide well-curated data and a runnable software implementation, then a more significant extension is expected; if the student team must re-implement a significant amount of software or gather a large dataset of their own, then the extension component can be more limited.
 
 ## Project Proposal
-TK
+Each member of your team should submit a single, two-page proposal describing what you plan to do. The same proposal should be submitted by all team members. The proposal should indicate:
 
-## Poster Presentation
+- Who is on the team
+- What paper you plan to replicate (full citation) and why
+	- Summarize the main findings of this paper
+	- A sentence or two about why you think this paper is important
+- How you will do it
+	- **Data**: what you need, and where you can get it?
+	- **Methods**: what computational techniques do you plan to employ, and how will you do it? Will you write your own code? Is there a software library you can use?
+	- **Metrics**: how will you know if you have succeeded in replicating the paper? Be as specific as possible. If the paper has multiple findings, indicate how you will test that you have replicated each one.
+	- **Risks**: What might go wrong that would cause this project to fail? What can you do to ameliorate these risks, and what will you do in this worst-case scenario?
+	- **Limits**: are there findings that you will not be able to replicate? If so, explain why the parts that you *can* replicate are interesting enough on their own.
+- When you will do what
+	- How long will it take to replicate each finding? How do you plan to divide up the work?
+	- **Stretch goals**: **If** the main findings of the paper are relatively easy to replicate given the data and resources that are available to you, how do you plan to go further, making an original contribution of your own?
+	
+## In-class Presentation
 TK
 
 ## Project Report
