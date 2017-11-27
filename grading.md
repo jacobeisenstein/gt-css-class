@@ -73,7 +73,33 @@ Each member of your team should submit a single, two-page proposal describing wh
 	- **Stretch goals**: **If** the main findings of the paper are relatively easy to replicate given the data and resources that are available to you, how do you plan to go further, making an original contribution of your own?
 	
 ## In-class Presentation
-TK
+On December 4, you will give a short in-class presentation on the results of your replication effort. Please allot six minutes for your presentation, and two minutes for questions. You should have a total of six slides, including the title slide. Please include the following slides:
+
+- One slide reviewing main findings of the original paper
+- One or two slides describing the details of replication, such as data and software libraries
+- One or two slides describing the results of your replication, which should be complete or very nearly complete by the day of the presentation. Include graphs and tables when possible.
+- Final slide:
+	- If the replication has not yet succeeded, describe the obstacles, and whether/how you can overcome them in the remaining two days.
+	- If the replication has succeeded, you may describe any extensions that you are undertaking or envision for the future.
+
+Please submit PDF slides by noon on December 4, so I can aggregate them into a single presentation.
 
 ## Project Report
-TK
+
+Your final report should be a narrative of **at most** ten pages, submitted as a PDF. You can include an appendix for supplemental figures, tables, or code, but the 10 page report should be self-contained. You may find [this overleaf template](https://www.overleaf.com/latex/templates/template-for-2-columns-acl-proceedings-style/bdxxrbqzsmpv#.WhxkWRZOk5k) to be a useful format, if you want to use LaTeX. 
+
+Your report should provide a complete description of what you did in your project, including all the points that you covered in your proposal and presentation:
+
+- **What is your project's objective?** For example, Jurafsky et al wanted to identify the narrative structures that correlate with various types of restaurant reviews.
+- **Why is it important?** Draw connections to theory and/or practical applications. For example, Bamman et al showed how it was possible to better understand internet censorship, which affects the way millions of people get information and express themselves.
+- **What is your data source**? Explain how it was acquired, what are its limitations (if any), what preprocessing you did (and why). Explain how your use of data relates to that of the paper that you are replicating.
+- **How did you analyze the data? What was your null model, and why is it justified?** For example, Stephens-Davidowitz compared against several competitive models, which included many strong predictors. He showed that the rate of racially-charged search terms added predictive power even above these competitive alternatives. Again, explain how your analysis relates to that of the paper that you are replicating.
+- If the replication did not succeed, try to explain why not. Were you lacking key information from the original authors? Were you unable to obtain the same data? 
+- If the replication did succeed, try to explain the limitations of your replication: would it work on other data? Does it rely on the method being implemented in exactly the same way as the original authors did? 
+- If you had time to do an extension of the original paper, explain all of the points above with regard to your extension: the objective of your extension, why it is important, how you did it, and how the reader should understand the results.
+
+### Writing advice:
+
+- **Use specific examples to bolster high-level conclusions**: for example, if you find that unigram text features predict retweets, then show some of the words which are the strongest predictors (like Tan et al); if you find network centrality correlates with microfinance participation, give some examples of highly-central individuals and non-central individuals, and describe their outcomes. *This is especially important if you use unsupervised techniques such as clustering*, since the output of these techniques is otherwise opaque to the reader.
+- Well-designed graphs and tables are more helpful than lots of text. Use the papers that we have read in class for guidance on how to write and structure your report, but keep in mind that each paper has its own idiosyncrasies, so think critically about what does and doesn't work in these papers.
+- Similar to Wikipedia, citations should be provided for all factual statements, such as "Twitter language is noisy and ungrammatical" and "neural networks are the most powerful classification algorithm", to pick two examples completely at random. If text is taken verbatim from another source, it should be presented in quotations, with a citation; if the text is paraphrased from another source, a citation should also be included. I'm not picky about citation formats, but be sure to include all authors names, the full title, the year, and an unambiguous description of where the paper was published. 
